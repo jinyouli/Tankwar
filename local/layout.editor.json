@@ -8,7 +8,7 @@
       "x": 0,
       "y": 23,
       "width": 1280,
-      "height": 736,
+      "height": 732,
       "layout": {
         "children": [
           {
@@ -46,7 +46,7 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 383.5,
+                    "height": 382,
                     "type": "panel",
                     "width": 414
                   },
@@ -55,12 +55,12 @@
                     "children": [
                       "node-library"
                     ],
-                    "height": 383.5,
+                    "height": 382,
                     "type": "panel",
                     "width": 297
                   }
                 ],
-                "height": 383.5,
+                "height": 382,
                 "type": "dock-h",
                 "width": 714
               },
@@ -76,7 +76,7 @@
                 "width": 714
               }
             ],
-            "height": 652.5,
+            "height": 651,
             "type": "dock-v",
             "width": 714
           },
@@ -86,7 +86,7 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 652.5,
+            "height": 651,
             "type": "panel",
             "width": 304
           }

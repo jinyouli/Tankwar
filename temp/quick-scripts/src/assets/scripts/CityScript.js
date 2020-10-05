@@ -354,7 +354,14 @@ cc.Class({
         this.gameOver();
       }
     } else {
-      this.enemyNum.string = Number(this.enemyNum.string) - 1 + "";
+      var tankNum = Number(this.enemyNum.string) - 1;
+      this.enemyNum.string = tankNum + "";
+
+      if (tankNum == 0) {
+        alert.show.call(this, "你赢了", function () {
+          cc.director.loadScene("StartScene");
+        });
+      }
     }
   },
   //开火按钮点击
