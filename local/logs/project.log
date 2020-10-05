@@ -1,0 +1,1933 @@
+2020-10-04T23:43:03.690Z - normal: Load ~/.CocosCreator/settings.json
+2020-10-04T23:43:03.793Z - normal: Initializing Asset Database
+2020-10-04T23:43:03.799Z - normal: checking language setting...
+2020-10-04T23:43:03.800Z - normal: Language: zh
+2020-10-04T23:43:05.935Z - success: protocol editor-framework registered
+2020-10-04T23:43:05.936Z - success: protocol app registered
+2020-10-04T23:43:05.936Z - success: protocol theme registered
+2020-10-04T23:43:05.936Z - success: protocol packages registered
+2020-10-04T23:43:05.936Z - success: protocol uuid registerred
+2020-10-04T23:43:05.936Z - success: protocol db registerred
+2020-10-04T23:43:05.937Z - success: protocol thumbnail registerred
+2020-10-04T23:43:05.937Z - success: protocol unpack registerred
+2020-10-04T23:43:05.937Z - success: protocol disable-commonjs registerred
+2020-10-04T23:43:06.154Z - normal: connected!
+2020-10-04T23:43:06.156Z - normal: Check project /Users/lijinyou/Desktop/tankwar
+2020-10-04T23:43:06.159Z - normal: Initializing project /Users/lijinyou/Desktop/tankwar
+2020-10-04T23:43:06.555Z - success: adapters loaded
+2020-10-04T23:43:06.563Z - success: asset-db-debugger loaded
+2020-10-04T23:43:06.965Z - success: fb-audience-network loaded
+2020-10-04T23:43:07.050Z - success: fb-live-stream loaded
+2020-10-04T23:43:07.057Z - success: google-play-instant loaded
+2020-10-04T23:43:07.058Z - success: jsb-adapter loaded
+2020-10-04T23:43:07.069Z - success: package-manager loaded
+2020-10-04T23:43:07.070Z - success: runtime-adapters loaded
+2020-10-04T23:43:07.075Z - success: runtime-dev-tools loaded
+2020-10-04T23:43:07.083Z - success: ui-kit-preview-extra loaded
+2020-10-04T23:43:07.090Z - success: ui-kit-preview loaded
+2020-10-04T23:43:07.362Z - success: alipay-minigame loaded
+2020-10-04T23:43:07.683Z - success: assets loaded
+2020-10-04T23:43:07.689Z - success: baidugame-opendata loaded
+2020-10-04T23:43:07.693Z - success: baidugame loaded
+2020-10-04T23:43:07.701Z - success: builder loaded
+2020-10-04T23:43:07.706Z - success: bytedance-opendata loaded
+2020-10-04T23:43:07.710Z - success: bytedance loaded
+2020-10-04T23:43:07.715Z - success: channel-upload-tools loaded
+2020-10-04T23:43:07.727Z - success: cloud-function loaded
+2020-10-04T23:43:08.496Z - success: cocos-services loaded
+2020-10-04T23:43:08.508Z - success: console loaded
+2020-10-04T23:43:08.512Z - success: curve-editor loaded
+2020-10-04T23:43:08.662Z - success: fb-instant-games loaded
+2020-10-04T23:43:08.673Z - success: game-window loaded
+2020-10-04T23:43:08.675Z - success: google-instant-games loaded
+2020-10-04T23:43:08.687Z - success: hierarchy loaded
+2020-10-04T23:43:08.691Z - success: huawei-agc loaded
+2020-10-04T23:43:08.697Z - success: huawei-runtime loaded
+2020-10-04T23:43:08.706Z - success: inspector loaded
+2020-10-04T23:43:08.791Z - success: cpk-publish loaded
+2020-10-04T23:43:08.793Z - success: keystore loaded
+2020-10-04T23:43:09.004Z - success: link-sure-runtime loaded
+2020-10-04T23:43:09.053Z - success: node-library loaded
+2020-10-04T23:43:09.054Z - success: open-recent-items loaded
+2020-10-04T23:43:09.059Z - success: oppo-runtime loaded
+2020-10-04T23:43:09.061Z - success: package-asset loaded
+2020-10-04T23:43:09.063Z - success: preferences loaded
+2020-10-04T23:43:09.075Z - success: project-importer loaded
+2020-10-04T23:43:09.083Z - success: project-settings loaded
+2020-10-04T23:43:09.112Z - success: qtt-runtime loaded
+2020-10-04T23:43:09.122Z - success: scene loaded
+2020-10-04T23:43:09.124Z - success: simulator-debugger loaded
+2020-10-04T23:43:09.125Z - success: sprite-editor loaded
+2020-10-04T23:43:09.486Z - success: store loaded
+2020-10-04T23:43:09.531Z - success: timeline loaded
+2020-10-04T23:43:09.539Z - success: vivo-runtime loaded
+2020-10-04T23:43:09.543Z - success: wechatgame-opendata loaded
+2020-10-04T23:43:09.551Z - success: wechatgame loaded
+2020-10-04T23:43:09.556Z - success: xiaomi-runtime loaded
+2020-10-04T23:43:10.121Z - success: im-plugin loaded
+2020-10-04T23:43:10.146Z - success: preview server running at http://localhost:7456
+2020-10-04T23:43:12.846Z - info: Cocos Service load base data!
+2020-10-04T23:43:20.283Z - normal: Initializing Cocos2d
+2020-10-04T23:43:21.429Z - normal: Initializing engine extends
+2020-10-04T23:43:25.189Z - normal: Loading packages
+2020-10-04T23:43:25.197Z - normal: Watching packages
+2020-10-04T23:43:25.570Z - normal: Run Application
+2020-10-04T23:51:26.088Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-04T23:51:26.089Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-04T23:51:26.306Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-04T23:51:26.306Z - normal: Simulator: 
+2020-10-04T23:51:26.307Z - normal: Simulator: {
+2020-10-04T23:51:26.307Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-04T23:51:26.307Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-04T23:51:26.308Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-04T23:51:26.308Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-04T23:51:26.308Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-04T23:51:26.309Z - normal: Simulator: 	build_type: DEBUG
+2020-10-04T23:51:26.309Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-04T23:51:26.310Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-04T23:51:26.310Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-04T23:51:26.310Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-04T23:51:26.311Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-04T23:51:26.311Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-04T23:51:26.311Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-04T23:51:26.312Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-04T23:51:26.312Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-04T23:51:26.313Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-04T23:51:26.313Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-04T23:51:26.314Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-04T23:51:26.314Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-04T23:51:26.315Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-04T23:51:26.315Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-04T23:51:26.316Z - normal: Simulator: }
+2020-10-04T23:51:26.317Z - normal: Simulator: 
+2020-10-04T23:51:26.317Z - normal: Simulator: 
+2020-10-04T23:51:26.318Z - normal: Simulator: Project Config:
+2020-10-04T23:51:26.318Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-04T23:51:26.319Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-04T23:51:26.319Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-04T23:51:26.320Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-04T23:51:26.320Z - normal: Simulator:     frame scale: 0.50
+2020-10-04T23:51:26.323Z - normal: Simulator:     show console: NO
+2020-10-04T23:51:26.323Z - normal: Simulator:     write debug log: NO ()
+2020-10-04T23:51:26.323Z - normal: Simulator:     listen: 
+2020-10-04T23:51:26.324Z - normal: Simulator:     debugger: none
+2020-10-04T23:51:26.324Z - normal: Simulator:     add searching path:
+2020-10-04T23:51:26.325Z - normal: Simulator: 
+2020-10-04T23:51:26.325Z - normal: Simulator: 
+2020-10-04T23:51:26.325Z - normal: Simulator: 
+2020-10-04T23:51:26.326Z - normal: Simulator: resetDesignResolution request
+2020-10-04T23:51:26.326Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:51:26.327Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-04T23:51:26.327Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:51:26.328Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-04T23:51:26.414Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-04T23:51:26.415Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-04T23:51:26.415Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-04T23:51:26.684Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-04T23:51:26.685Z - normal: Simulator: resetDesignResolution request
+2020-10-04T23:51:26.686Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:51:26.687Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-04T23:51:26.687Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:51:27.042Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-04T23:51:27.063Z - normal: Simulator: iShow!
+2020-10-04T23:51:27.287Z - normal: Simulator: JS: load __quick_compile_project__: 30.531000000000063ms
+2020-10-04T23:51:28.223Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:51:28.250Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-04T23:51:28.250Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-04T23:51:28.282Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:51:28.283Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:51:28.285Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:51:28.288Z - error: Simulator: 
+
+    at HTMLElement.print-simulator-log (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene.js:1:1606)
+    at Object.e._dispatch (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1876)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2020-10-04T23:51:28.382Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-04T23:51:29.336Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-04T23:51:29.337Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7f9f146fe000
+2020-10-04T23:51:29.337Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-04T23:51:29.338Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7f9f146fe000
+2020-10-04T23:51:29.338Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7f9f146fe000
+2020-10-04T23:51:29.338Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-04T23:51:52.231Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-04T23:51:52.231Z - normal: Simulator: GC begin ..., (js->native map) size: 203, all objects: 533
+2020-10-04T23:51:52.260Z - normal: Simulator: GC end ..., (js->native map) size: 199, all objects: 528
+2020-10-04T23:51:52.266Z - normal: Simulator: GC begin ..., (js->native map) size: 199, all objects: 528
+2020-10-04T23:51:52.286Z - normal: Simulator: GC end ..., (js->native map) size: 199, all objects: 528
+2020-10-04T23:51:52.287Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-04T23:51:52.288Z - normal: Simulator: Function object is released!
+2020-10-04T23:51:52.289Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-04T23:51:52.291Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-04T23:51:52.423Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-04T23:54:56.162Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-04T23:54:56.162Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-04T23:54:56.324Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-04T23:54:56.324Z - normal: Simulator: 
+2020-10-04T23:54:56.325Z - normal: Simulator: {
+2020-10-04T23:54:56.325Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-04T23:54:56.325Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-04T23:54:56.325Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-04T23:54:56.326Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-04T23:54:56.326Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-04T23:54:56.326Z - normal: Simulator: 	build_type: DEBUG
+2020-10-04T23:54:56.327Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-04T23:54:56.327Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-04T23:54:56.327Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-04T23:54:56.328Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-04T23:54:56.329Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-04T23:54:56.329Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-04T23:54:56.330Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-04T23:54:56.330Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-04T23:54:56.330Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-04T23:54:56.331Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-04T23:54:56.331Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-04T23:54:56.332Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-04T23:54:56.332Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-04T23:54:56.332Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-04T23:54:56.333Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-04T23:54:56.333Z - normal: Simulator: }
+2020-10-04T23:54:56.414Z - normal: Simulator: Project Config:
+2020-10-04T23:54:56.414Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-04T23:54:56.415Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-04T23:54:56.415Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-04T23:54:56.415Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-04T23:54:56.416Z - normal: Simulator:     frame scale: 0.50
+2020-10-04T23:54:56.417Z - normal: Simulator:     show console: NO
+2020-10-04T23:54:56.417Z - normal: Simulator:     write debug log: NO ()
+2020-10-04T23:54:56.421Z - normal: Simulator:     listen: 
+2020-10-04T23:54:56.422Z - normal: Simulator:     debugger: none
+2020-10-04T23:54:56.422Z - normal: Simulator:     add searching path:
+2020-10-04T23:54:56.422Z - normal: Simulator: 
+2020-10-04T23:54:56.423Z - normal: Simulator: 
+2020-10-04T23:54:56.425Z - normal: Simulator: 
+2020-10-04T23:54:56.425Z - normal: Simulator: resetDesignResolution request
+2020-10-04T23:54:56.426Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:54:56.427Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-04T23:54:56.428Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:54:56.428Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-04T23:54:56.428Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-04T23:54:56.429Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-04T23:54:56.430Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-04T23:54:56.430Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-04T23:54:56.430Z - normal: Simulator: resetDesignResolution request
+2020-10-04T23:54:56.431Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:54:56.431Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-04T23:54:56.432Z - normal: Simulator: ------------------------------------------------
+2020-10-04T23:54:56.781Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-04T23:54:56.794Z - normal: Simulator: iShow!
+2020-10-04T23:54:56.974Z - normal: Simulator: JS: load __quick_compile_project__: 31.30499999999995ms
+2020-10-04T23:54:57.612Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:54:57.625Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-04T23:54:57.626Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-04T23:54:57.651Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:54:57.654Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:54:57.656Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-04T23:54:57.722Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-04T23:54:58.788Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-04T23:54:58.788Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7ffc7c5fe000
+2020-10-04T23:54:58.788Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-04T23:54:58.789Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7ffc7c5fe000
+2020-10-04T23:54:58.789Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7ffc7c5fe000
+2020-10-04T23:54:58.790Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-04T23:55:19.484Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-04T23:55:23.558Z - normal: Simulator: JS: LoadScene StartScene: 28.211999999999534ms
+2020-10-04T23:55:26.982Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-04T23:55:26.984Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-04T23:55:26.987Z - normal: Simulator: GC begin ..., (js->native map) size: 263, all objects: 646
+2020-10-04T23:55:27.014Z - normal: Simulator: GC end ..., (js->native map) size: 122, all objects: 370
+2020-10-04T23:55:27.018Z - normal: Simulator: GC begin ..., (js->native map) size: 122, all objects: 370
+2020-10-04T23:55:27.024Z - normal: Simulator: GC end ..., (js->native map) size: 122, all objects: 370
+2020-10-04T23:55:27.026Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-04T23:55:27.027Z - normal: Simulator: Function object is released!
+2020-10-04T23:55:27.027Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-04T23:55:27.030Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T00:01:22.466Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T00:01:22.466Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T00:01:22.659Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T00:01:22.660Z - normal: Simulator: 
+2020-10-05T00:01:22.660Z - normal: Simulator: {
+2020-10-05T00:01:22.661Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T00:01:22.661Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T00:01:22.661Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T00:01:22.662Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T00:01:22.662Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T00:01:22.662Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T00:01:22.663Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T00:01:22.663Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T00:01:22.663Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T00:01:22.664Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T00:01:22.664Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T00:01:22.664Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T00:01:22.665Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T00:01:22.665Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T00:01:22.665Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T00:01:22.665Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T00:01:22.666Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T00:01:22.666Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T00:01:22.666Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T00:01:22.666Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T00:01:22.666Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T00:01:22.667Z - normal: Simulator: }
+2020-10-05T00:01:22.673Z - normal: Simulator: Project Config:
+2020-10-05T00:01:22.674Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T00:01:22.674Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T00:01:22.675Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T00:01:22.675Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T00:01:22.676Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T00:01:22.676Z - normal: Simulator:     show console: NO
+2020-10-05T00:01:22.677Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T00:01:22.677Z - normal: Simulator:     listen: 
+2020-10-05T00:01:22.678Z - normal: Simulator:     debugger: none
+2020-10-05T00:01:22.678Z - normal: Simulator:     add searching path:
+2020-10-05T00:01:22.679Z - normal: Simulator: 
+2020-10-05T00:01:22.679Z - normal: Simulator: 
+2020-10-05T00:01:22.679Z - normal: Simulator: 
+2020-10-05T00:01:22.681Z - normal: Simulator: resetDesignResolution request
+2020-10-05T00:01:22.681Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:01:22.682Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T00:01:22.682Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:01:22.683Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T00:01:22.683Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T00:01:22.684Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T00:01:22.684Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T00:01:22.711Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T00:01:22.714Z - normal: Simulator: resetDesignResolution request
+2020-10-05T00:01:22.716Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:01:22.719Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T00:01:22.721Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:01:23.118Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T00:01:23.148Z - normal: Simulator: iShow!
+2020-10-05T00:01:23.294Z - normal: Simulator: JS: load __quick_compile_project__: 27.55200000000002ms
+2020-10-05T00:01:23.904Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:01:23.917Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T00:01:23.917Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T00:01:23.947Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:01:23.949Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:01:23.951Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:01:24.022Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T00:01:25.009Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T00:01:25.010Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fcdc2efb000
+2020-10-05T00:01:25.010Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T00:01:25.011Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fcdc2efb000
+2020-10-05T00:01:25.011Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fcdc2efb000
+2020-10-05T00:01:25.012Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T00:01:55.397Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T00:02:09.921Z - normal: Simulator: JS: LoadScene StartScene: 31.841999999996915ms
+2020-10-05T00:04:52.522Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 711.00
+2020-10-05T00:04:52.523Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T00:04:52.688Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T00:04:52.688Z - normal: Simulator: 
+2020-10-05T00:04:52.689Z - normal: Simulator: {
+2020-10-05T00:04:52.689Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T00:04:52.689Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T00:04:52.690Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T00:04:52.690Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T00:04:52.690Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T00:04:52.691Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T00:04:52.691Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T00:04:52.691Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T00:04:52.692Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T00:04:52.692Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T00:04:52.692Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T00:04:52.693Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T00:04:52.693Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T00:04:52.693Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T00:04:52.694Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T00:04:52.694Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T00:04:52.694Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T00:04:52.694Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T00:04:52.695Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T00:04:52.695Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T00:04:52.695Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T00:04:52.696Z - normal: Simulator: }
+2020-10-05T00:04:53.027Z - normal: Simulator: Project Config:
+2020-10-05T00:04:53.028Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T00:04:53.029Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T00:04:53.029Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T00:04:53.030Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T00:04:53.046Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T00:04:53.047Z - normal: Simulator:     show console: NO
+2020-10-05T00:04:53.047Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T00:04:53.048Z - normal: Simulator:     listen: 
+2020-10-05T00:04:53.048Z - normal: Simulator:     debugger: none
+2020-10-05T00:04:53.048Z - normal: Simulator:     add searching path:
+2020-10-05T00:04:53.049Z - normal: Simulator: 
+2020-10-05T00:04:53.049Z - normal: Simulator: 
+2020-10-05T00:04:53.049Z - normal: Simulator: 
+2020-10-05T00:04:53.049Z - normal: Simulator: resetDesignResolution request
+2020-10-05T00:04:53.050Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:04:53.050Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T00:04:53.050Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:04:53.051Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T00:04:53.051Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T00:04:53.052Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T00:04:53.052Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T00:04:53.053Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T00:04:53.053Z - normal: Simulator: resetDesignResolution request
+2020-10-05T00:04:53.053Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:04:53.054Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T00:04:53.054Z - normal: Simulator: ------------------------------------------------
+2020-10-05T00:04:53.153Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T00:04:53.165Z - normal: Simulator: iShow!
+2020-10-05T00:04:53.314Z - normal: Simulator: JS: load __quick_compile_project__: 25.428999999999974ms
+2020-10-05T00:04:53.921Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:04:53.936Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T00:04:53.938Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T00:04:53.967Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:04:53.970Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:04:53.974Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T00:04:54.048Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T00:04:55.009Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T00:04:55.010Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7f859fefe000
+2020-10-05T00:04:55.010Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T00:04:55.011Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7f859fefe000
+2020-10-05T00:04:55.011Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7f859fefe000
+2020-10-05T00:04:55.012Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T00:05:24.893Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.894Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.894Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.894Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.895Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.895Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.895Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.896Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.896Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.896Z - normal: Simulator: JS: 数目 =10
+2020-10-05T00:05:24.897Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T00:06:53.078Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.079Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.080Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.080Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.081Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.081Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.082Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.082Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.082Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.083Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:06:53.083Z - normal: Simulator: JS: 数目 =11
+2020-10-05T00:16:41.151Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T00:16:41.153Z - normal: Simulator: GC begin ..., (js->native map) size: 267, all objects: 678
+2020-10-05T00:16:41.176Z - normal: Simulator: GC end ..., (js->native map) size: 267, all objects: 678
+2020-10-05T00:16:41.182Z - normal: Simulator: GC begin ..., (js->native map) size: 267, all objects: 678
+2020-10-05T00:16:41.196Z - normal: Simulator: GC end ..., (js->native map) size: 267, all objects: 678
+2020-10-05T00:16:41.197Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T00:16:41.197Z - normal: Simulator: Function object is released!
+2020-10-05T00:16:41.198Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T00:16:41.206Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T00:16:41.332Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:04:41.383Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 711.00
+2020-10-05T02:04:41.384Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:04:41.549Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:04:41.550Z - normal: Simulator: 
+2020-10-05T02:04:41.550Z - normal: Simulator: {
+2020-10-05T02:04:41.551Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:04:41.551Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:04:41.551Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:04:41.552Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:04:41.552Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:04:41.552Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:04:41.553Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:04:41.553Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:04:41.553Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:04:41.554Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:04:41.554Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:04:41.554Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:04:41.555Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:04:41.555Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:04:41.555Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:04:41.555Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:04:41.556Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:04:41.556Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:04:41.556Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:04:41.557Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:04:41.557Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:04:41.557Z - normal: Simulator: }
+2020-10-05T02:04:41.581Z - normal: Simulator: Project Config:
+2020-10-05T02:04:41.582Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:04:41.582Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:04:41.582Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:04:41.583Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:04:41.583Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:04:41.583Z - normal: Simulator:     show console: NO
+2020-10-05T02:04:41.584Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:04:41.584Z - normal: Simulator:     listen: 
+2020-10-05T02:04:41.585Z - normal: Simulator:     debugger: none
+2020-10-05T02:04:41.587Z - normal: Simulator:     add searching path:
+2020-10-05T02:04:41.587Z - normal: Simulator: 
+2020-10-05T02:04:41.587Z - normal: Simulator: 
+2020-10-05T02:04:41.587Z - normal: Simulator: 
+2020-10-05T02:04:41.591Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:04:41.592Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:04:41.592Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:04:41.592Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:04:41.596Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:04:41.596Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:04:41.597Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:04:41.597Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:04:41.607Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:04:41.608Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:04:41.608Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:04:41.608Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:04:41.609Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:04:41.936Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:04:41.944Z - normal: Simulator: iShow!
+2020-10-05T02:04:42.115Z - normal: Simulator: JS: load __quick_compile_project__: 24.5859999999999ms
+2020-10-05T02:04:42.710Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:04:42.723Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:04:42.723Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:04:42.747Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:04:42.751Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:04:42.751Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:04:42.816Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:04:43.799Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:04:43.800Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fb3fcefe000
+2020-10-05T02:04:43.800Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:04:43.801Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fb3fcefe000
+2020-10-05T02:04:43.801Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fb3fcefe000
+2020-10-05T02:04:43.802Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:05:47.434Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.435Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.436Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.436Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.436Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.437Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.437Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.437Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.438Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.438Z - normal: Simulator: JS: 数目 =10
+2020-10-05T02:05:47.438Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T02:05:50.938Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:05:50.939Z - normal: Simulator: GC begin ..., (js->native map) size: 247, all objects: 621
+2020-10-05T02:05:50.961Z - normal: Simulator: GC end ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:05:50.963Z - normal: Simulator: GC begin ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:05:50.980Z - normal: Simulator: GC end ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:05:50.981Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:05:50.982Z - normal: Simulator: Function object is released!
+2020-10-05T02:05:50.982Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:05:50.991Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:05:51.113Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:08:30.789Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 711.00
+2020-10-05T02:08:30.790Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:08:30.933Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:08:30.934Z - normal: Simulator: 
+2020-10-05T02:08:30.934Z - normal: Simulator: {
+2020-10-05T02:08:30.934Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:08:30.935Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:08:30.935Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:08:30.935Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:08:30.936Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:08:30.936Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:08:30.936Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:08:30.937Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:08:30.937Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:08:30.937Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:08:30.939Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:08:30.939Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:08:30.940Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:08:30.940Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:08:30.941Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:08:30.942Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:08:30.942Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:08:30.942Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:08:30.943Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:08:30.943Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:08:30.943Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:08:30.943Z - normal: Simulator: }
+2020-10-05T02:08:30.955Z - normal: Simulator: Project Config:
+2020-10-05T02:08:30.955Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:08:30.960Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:08:30.961Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:08:30.964Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:08:30.964Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:08:30.965Z - normal: Simulator:     show console: NO
+2020-10-05T02:08:30.966Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:08:30.966Z - normal: Simulator:     listen: 
+2020-10-05T02:08:30.967Z - normal: Simulator:     debugger: none
+2020-10-05T02:08:30.968Z - normal: Simulator:     add searching path:
+2020-10-05T02:08:30.969Z - normal: Simulator: 
+2020-10-05T02:08:30.970Z - normal: Simulator: 
+2020-10-05T02:08:30.970Z - normal: Simulator: 
+2020-10-05T02:08:30.970Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:08:30.971Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:08:30.971Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:08:30.977Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:08:30.977Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:08:30.979Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:08:30.980Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:08:30.980Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:08:30.996Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:08:30.997Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:08:30.998Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:08:30.999Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:08:31.001Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:08:31.331Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:08:31.344Z - normal: Simulator: iShow!
+2020-10-05T02:08:31.518Z - normal: Simulator: JS: load __quick_compile_project__: 24.16199999999992ms
+2020-10-05T02:08:32.096Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:08:32.109Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:08:32.110Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:08:32.132Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:08:32.133Z - error: Simulator: 
+
+    at HTMLElement.print-simulator-log (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene.js:1:1606)
+    at Object.e._dispatch (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1876)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2020-10-05T02:08:32.137Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:08:32.159Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:08:32.213Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:08:33.175Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:08:33.175Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fad4c6bb000
+2020-10-05T02:08:33.176Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:08:33.176Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fad4c6bb000
+2020-10-05T02:08:33.177Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fad4c6bb000
+2020-10-05T02:08:33.177Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:08:33.526Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:34.807Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.013Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.036Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.052Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.068Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.087Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.100Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.120Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.132Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.200Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.217Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.238Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.251Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.267Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.689Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.724Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.740Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.774Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.792Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.809Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.827Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.849Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.865Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.883Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.901Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.920Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.932Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.949Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.968Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.982Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:35.999Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.016Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.033Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.048Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.065Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.082Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.100Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.116Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.119Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.133Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.148Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.166Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.184Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.198Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.215Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.233Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:36.249Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:37.910Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:39.275Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:39.358Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:39.593Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:40.447Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:40.968Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.168Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.285Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.304Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.320Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.336Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:41.788Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:42.603Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:42.636Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:42.686Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:43.054Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:43.509Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:43.853Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.005Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.177Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.193Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.213Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.278Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.300Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.328Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.345Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.362Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.380Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.400Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.417Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.430Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.446Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.463Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.479Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.496Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.497Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:44.513Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.161Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.178Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.195Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.212Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.228Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.228Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.245Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.312Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.533Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.552Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.569Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.584Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.603Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.604Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.620Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.645Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:45.660Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:46.108Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:46.392Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:47.136Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:47.359Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:47.394Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:47.763Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:47.913Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:48.152Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:48.615Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:49.169Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:49.520Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:49.521Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:49.588Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:49.854Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:50.021Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:50.390Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:50.892Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:51.309Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:51.761Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:51.782Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:51.861Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:52.062Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:52.329Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:52.464Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:52.465Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:53.004Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:53.055Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:53.088Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:53.771Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:53.938Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:54.038Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:54.239Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:54.306Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:54.675Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:54.925Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:55.116Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:55.544Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:55.679Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:55.696Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:56.032Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:56.114Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:56.840Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:57.271Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:57.271Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:57.307Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:57.653Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:58.089Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:58.326Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:58.625Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:58.742Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.259Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.393Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.594Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.610Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.878Z - normal: Simulator: JS: 停止
+2020-10-05T02:08:59.912Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:00.697Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:00.915Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:02.004Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:02.071Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:02.537Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:03.189Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:03.305Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:03.371Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:03.421Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:03.888Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:04.039Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:04.274Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:04.358Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:05.128Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:05.194Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:05.678Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:06.047Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:06.130Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:06.966Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:06.967Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:07.335Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:07.804Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:08.543Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:08.660Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:08.693Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:08.760Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:09.189Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:09.434Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:10.167Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:10.895Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:10.913Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.163Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.395Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.530Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.548Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.565Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.582Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.598Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.615Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.632Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.649Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.665Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.682Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.699Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.716Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.732Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.749Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.766Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.783Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.783Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.800Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.816Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.834Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.850Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.867Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.883Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:11.900Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.000Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.051Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.205Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.311Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.329Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.344Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.362Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.379Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.396Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.415Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.429Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.446Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.463Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.480Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.497Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.513Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.529Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.545Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.563Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.630Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.647Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.663Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.679Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.696Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.713Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.729Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.746Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.762Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.781Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.799Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.814Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.830Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:12.847Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.017Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.287Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.353Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.757Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.839Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.940Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.959Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.990Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:13.991Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.241Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.308Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.342Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.527Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.559Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.609Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.677Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:14.811Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.061Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.145Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.196Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.480Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.547Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.547Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:15.698Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:16.885Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:17.020Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:17.372Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:17.790Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:18.244Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:18.512Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:18.945Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.028Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.179Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.196Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.214Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.215Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.532Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.533Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.533Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.535Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.535Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.535Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.536Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.536Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.536Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.537Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:19.537Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T02:09:20.437Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:20.524Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:20.873Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.291Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.595Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.629Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.746Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.763Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.880Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:21.880Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:22.115Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:22.999Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:23.383Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.033Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.318Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.700Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.783Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.801Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:24.918Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:25.105Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:25.559Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:25.645Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:25.678Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:25.895Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:26.095Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:26.162Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:26.312Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:27.649Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7fad49d9ba00
+2020-10-05T02:09:27.650Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 5928, total read frames: 5928, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:09:27.650Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2427  for _pcmData: 0x7fad49d9ba00
+2020-10-05T02:09:27.650Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7fad49d9ba00
+2020-10-05T02:09:27.651Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.111Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.249Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.304Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.832Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.905Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.924Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.940Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.958Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.974Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:28.992Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.006Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.023Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.041Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.057Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.073Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.090Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.107Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.125Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.141Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.157Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.174Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.191Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.208Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.224Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.241Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.257Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.275Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.291Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.308Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.442Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.643Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.710Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:29.796Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:30.069Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:30.371Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:30.911Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:31.268Z - normal: Simulator: JS: 停止
+2020-10-05T02:09:31.271Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:09:31.273Z - normal: Simulator: GC begin ..., (js->native map) size: 243, all objects: 616
+2020-10-05T02:09:31.295Z - normal: Simulator: GC end ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:09:31.300Z - normal: Simulator: GC begin ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:09:31.316Z - normal: Simulator: GC end ..., (js->native map) size: 235, all objects: 606
+2020-10-05T02:09:31.317Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:09:31.323Z - normal: Simulator: Function object is released!
+2020-10-05T02:09:31.323Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:09:31.324Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:09:31.459Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2427
+2020-10-05T02:09:31.536Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:13:44.521Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 711.00
+2020-10-05T02:13:44.522Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:13:44.608Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:13:44.609Z - normal: Simulator: 
+2020-10-05T02:13:44.609Z - normal: Simulator: {
+2020-10-05T02:13:44.609Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:13:44.610Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:13:44.610Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:13:44.610Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:13:44.611Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:13:44.611Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:13:44.612Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:13:44.612Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:13:44.612Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:13:44.613Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:13:44.613Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:13:44.613Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:13:44.614Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:13:44.614Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:13:44.614Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:13:44.615Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:13:44.615Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:13:44.615Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:13:44.616Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:13:44.616Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:13:44.618Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:13:44.618Z - normal: Simulator: }
+2020-10-05T02:13:44.718Z - normal: Simulator: Project Config:
+2020-10-05T02:13:44.718Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:13:44.718Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:13:44.719Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:13:44.719Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:13:44.719Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:13:44.720Z - normal: Simulator:     show console: NO
+2020-10-05T02:13:44.720Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:13:44.720Z - normal: Simulator:     listen: 
+2020-10-05T02:13:44.721Z - normal: Simulator:     debugger: none
+2020-10-05T02:13:44.722Z - normal: Simulator:     add searching path:
+2020-10-05T02:13:44.723Z - normal: Simulator: 
+2020-10-05T02:13:44.724Z - normal: Simulator: 
+2020-10-05T02:13:44.724Z - normal: Simulator: 
+2020-10-05T02:13:44.725Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:13:44.726Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:13:44.726Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:13:44.727Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:13:44.732Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:13:44.736Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:13:44.737Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:13:44.738Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:13:44.740Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:13:44.740Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:13:44.741Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:13:44.742Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:13:44.743Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:13:45.081Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:13:45.089Z - normal: Simulator: iShow!
+2020-10-05T02:13:45.275Z - normal: Simulator: JS: load __quick_compile_project__: 28.22199999999998ms
+2020-10-05T02:13:45.894Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:13:45.908Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:13:45.910Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:13:45.938Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:13:45.939Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:13:45.945Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:13:46.016Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:13:46.984Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:13:46.985Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fe851791000
+2020-10-05T02:13:46.985Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:13:46.985Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fe851791000
+2020-10-05T02:13:46.985Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fe851791000
+2020-10-05T02:13:46.986Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:13:48.730Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:50.102Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:52.264Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:52.592Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:52.965Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:54.028Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:54.273Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:54.677Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:56.650Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:56.852Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:56.873Z - normal: Simulator: JS: 停止
+2020-10-05T02:13:57.086Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:13:57.086Z - normal: Simulator: GC begin ..., (js->native map) size: 187, all objects: 492
+2020-10-05T02:13:57.087Z - normal: Simulator: GC end ..., (js->native map) size: 187, all objects: 492
+2020-10-05T02:13:57.087Z - normal: Simulator: GC begin ..., (js->native map) size: 187, all objects: 492
+2020-10-05T02:13:57.088Z - normal: Simulator: GC end ..., (js->native map) size: 187, all objects: 492
+2020-10-05T02:13:57.088Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:13:57.089Z - normal: Simulator: Function object is released!
+2020-10-05T02:13:57.089Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:13:57.089Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:13:57.347Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:14:13.217Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 711.00
+2020-10-05T02:14:13.217Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:14:13.306Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:14:13.383Z - normal: Simulator: 
+2020-10-05T02:14:13.384Z - normal: Simulator: {
+2020-10-05T02:14:13.384Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:14:13.385Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:14:13.385Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:14:13.385Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:14:13.385Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:14:13.386Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:14:13.386Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:14:13.386Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:14:13.388Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:14:13.388Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:14:13.389Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:14:13.389Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:14:13.389Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:14:13.389Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:14:13.390Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:14:13.390Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:14:13.390Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:14:13.390Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:14:13.391Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:14:13.391Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:14:13.391Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:14:13.391Z - normal: Simulator: }
+2020-10-05T02:14:13.412Z - normal: Simulator: Project Config:
+2020-10-05T02:14:13.414Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:14:13.415Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:14:13.416Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:14:13.417Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:14:13.418Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:14:13.419Z - normal: Simulator:     show console: NO
+2020-10-05T02:14:13.420Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:14:13.420Z - normal: Simulator:     listen: 
+2020-10-05T02:14:13.421Z - normal: Simulator:     debugger: none
+2020-10-05T02:14:13.422Z - normal: Simulator:     add searching path:
+2020-10-05T02:14:13.423Z - normal: Simulator: 
+2020-10-05T02:14:13.423Z - normal: Simulator: 
+2020-10-05T02:14:13.424Z - normal: Simulator: 
+2020-10-05T02:14:13.425Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:14:13.432Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:14:13.433Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:14:13.434Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:14:13.434Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:14:13.435Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:14:13.437Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:14:13.437Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:14:13.456Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:14:13.456Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:14:13.456Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:14:13.457Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:14:13.457Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:14:13.789Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:14:13.804Z - normal: Simulator: iShow!
+2020-10-05T02:14:13.981Z - normal: Simulator: JS: load __quick_compile_project__: 27.138000000000034ms
+2020-10-05T02:14:14.592Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:14:14.604Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:14:14.605Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:14:14.630Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:14:14.633Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:14:14.635Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:14:14.709Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:14:15.685Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:14:15.686Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7f8dc86fe000
+2020-10-05T02:14:15.686Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:14:15.687Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7f8dc86fe000
+2020-10-05T02:14:15.687Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7f8dc86fe000
+2020-10-05T02:14:15.687Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:14:39.076Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T02:14:54.154Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:14:54.156Z - normal: Simulator: GC begin ..., (js->native map) size: 237, all objects: 600
+2020-10-05T02:14:54.180Z - normal: Simulator: GC end ..., (js->native map) size: 229, all objects: 590
+2020-10-05T02:14:54.182Z - normal: Simulator: GC begin ..., (js->native map) size: 229, all objects: 590
+2020-10-05T02:14:54.204Z - normal: Simulator: GC end ..., (js->native map) size: 229, all objects: 590
+2020-10-05T02:14:54.208Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:14:54.209Z - normal: Simulator: Function object is released!
+2020-10-05T02:14:54.209Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:14:54.210Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:14:54.410Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:32:57.968Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T02:32:57.969Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:32:58.135Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:32:58.136Z - normal: Simulator: 
+2020-10-05T02:32:58.136Z - normal: Simulator: {
+2020-10-05T02:32:58.137Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:32:58.138Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:32:58.138Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:32:58.138Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:32:58.139Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:32:58.139Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:32:58.139Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:32:58.140Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:32:58.140Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:32:58.140Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:32:58.141Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:32:58.141Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:32:58.141Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:32:58.142Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:32:58.142Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:32:58.143Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:32:58.143Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:32:58.143Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:32:58.144Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:32:58.144Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:32:58.144Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:32:58.145Z - normal: Simulator: }
+2020-10-05T02:32:58.145Z - normal: Simulator: Project Config:
+2020-10-05T02:32:58.146Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:32:58.146Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:32:58.146Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:32:58.147Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:32:58.147Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:32:58.150Z - normal: Simulator:     show console: NO
+2020-10-05T02:32:58.150Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:32:58.151Z - normal: Simulator:     listen: 
+2020-10-05T02:32:58.151Z - normal: Simulator:     debugger: none
+2020-10-05T02:32:58.152Z - normal: Simulator:     add searching path:
+2020-10-05T02:32:58.152Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:32:58.152Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:32:58.153Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:32:58.153Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:32:58.153Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:32:58.190Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:32:58.195Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:32:58.196Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:32:58.282Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:32:58.286Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:32:58.287Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:32:58.287Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:32:58.287Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:32:58.706Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:32:58.720Z - normal: Simulator: iShow!
+2020-10-05T02:32:58.900Z - normal: Simulator: JS: load __quick_compile_project__: 29.947000000000003ms
+2020-10-05T02:32:59.530Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:32:59.547Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:32:59.548Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:32:59.574Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:32:59.583Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:32:59.586Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:32:59.664Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:33:00.830Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:33:00.830Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7ff41b691000
+2020-10-05T02:33:00.831Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:33:00.832Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7ff41b691000
+2020-10-05T02:33:00.832Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7ff41b691000
+2020-10-05T02:33:00.832Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:33:23.243Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T02:33:43.660Z - normal: Simulator: JS: LoadScene StartScene: 31.368999999998778ms
+2020-10-05T02:33:45.069Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:33:45.069Z - normal: Simulator: JS: LoadScene CityScene1: 8.234000000004016ms
+2020-10-05T02:33:45.097Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:34:29.493Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7ff41b74c000
+2020-10-05T02:34:29.494Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:34:29.496Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2427  for _pcmData: 0x7ff41b74c000
+2020-10-05T02:34:29.496Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7ff41b74c000
+2020-10-05T02:34:29.497Z - normal: Simulator: V/AudioCache (227):   id=3 _pcmData alloc: 0x7ff41803a000
+2020-10-05T02:34:29.498Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 5928, total read frames: 5928, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:34:29.500Z - normal: Simulator: V/AudioCache (273):   id=3 generated alGenBuffers: 2429  for _pcmData: 0x7ff41803a000
+2020-10-05T02:34:29.501Z - normal: Simulator: V/AudioCache (274):   id=3 _pcmData alBufferData: 0x7ff41803a000
+2020-10-05T02:34:29.501Z - normal: Simulator: JS: LoadScene StartScene: 25.394999999989523ms
+2020-10-05T02:34:31.368Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2427
+2020-10-05T02:34:31.369Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:34:31.378Z - normal: Simulator: GC begin ..., (js->native map) size: 153, all objects: 457
+2020-10-05T02:34:31.400Z - normal: Simulator: GC end ..., (js->native map) size: 139, all objects: 443
+2020-10-05T02:34:31.403Z - normal: Simulator: GC begin ..., (js->native map) size: 139, all objects: 443
+2020-10-05T02:34:31.414Z - normal: Simulator: GC end ..., (js->native map) size: 139, all objects: 443
+2020-10-05T02:34:31.414Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:34:31.415Z - normal: Simulator: Function object is released!
+2020-10-05T02:34:31.421Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:34:31.425Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:34:31.703Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=3), delete buffer: 2429
+2020-10-05T02:37:29.082Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T02:37:29.083Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T02:37:29.238Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T02:37:29.239Z - normal: Simulator: 
+2020-10-05T02:37:29.239Z - normal: Simulator: {
+2020-10-05T02:37:29.239Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T02:37:29.240Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T02:37:29.240Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T02:37:29.240Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T02:37:29.241Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T02:37:29.241Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T02:37:29.241Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T02:37:29.242Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T02:37:29.242Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T02:37:29.242Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T02:37:29.243Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T02:37:29.243Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T02:37:29.243Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T02:37:29.244Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T02:37:29.244Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T02:37:29.244Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T02:37:29.244Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T02:37:29.245Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T02:37:29.245Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T02:37:29.245Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T02:37:29.245Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T02:37:29.246Z - normal: Simulator: }
+2020-10-05T02:37:29.261Z - normal: Simulator: Project Config:
+2020-10-05T02:37:29.261Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T02:37:29.262Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T02:37:29.264Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T02:37:29.264Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T02:37:29.264Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T02:37:29.265Z - normal: Simulator:     show console: NO
+2020-10-05T02:37:29.265Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T02:37:29.265Z - normal: Simulator:     listen: 
+2020-10-05T02:37:29.266Z - normal: Simulator:     debugger: none
+2020-10-05T02:37:29.266Z - normal: Simulator:     add searching path:
+2020-10-05T02:37:29.266Z - normal: Simulator: 
+2020-10-05T02:37:29.266Z - normal: Simulator: 
+2020-10-05T02:37:29.268Z - normal: Simulator: 
+2020-10-05T02:37:29.269Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:37:29.269Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:37:29.271Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T02:37:29.282Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:37:29.282Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T02:37:29.283Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T02:37:29.284Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T02:37:29.285Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T02:37:29.290Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T02:37:29.292Z - normal: Simulator: resetDesignResolution request
+2020-10-05T02:37:29.292Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:37:29.293Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T02:37:29.294Z - normal: Simulator: ------------------------------------------------
+2020-10-05T02:37:29.628Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T02:37:29.638Z - normal: Simulator: iShow!
+2020-10-05T02:37:29.824Z - normal: Simulator: JS: load __quick_compile_project__: 28.246999999999957ms
+2020-10-05T02:37:30.436Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:37:30.447Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T02:37:30.447Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T02:37:30.475Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:37:30.476Z - error: Simulator: 
+
+    at HTMLElement.print-simulator-log (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/messages/scene.js:1:1606)
+    at Object.e._dispatch (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:1876)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2020-10-05T02:37:30.479Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:37:30.485Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T02:37:30.552Z - normal: Simulator: JS: joystickBar =[object Object]
+2020-10-05T02:37:31.522Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T02:37:31.523Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fc0ca091000
+2020-10-05T02:37:31.524Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T02:37:31.524Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fc0ca091000
+2020-10-05T02:37:31.525Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fc0ca091000
+2020-10-05T02:37:31.525Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T02:40:18.949Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T02:40:55.924Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T02:40:55.925Z - normal: Simulator: GC begin ..., (js->native map) size: 253, all objects: 637
+2020-10-05T02:40:55.962Z - normal: Simulator: GC end ..., (js->native map) size: 241, all objects: 622
+2020-10-05T02:40:55.968Z - normal: Simulator: GC begin ..., (js->native map) size: 241, all objects: 622
+2020-10-05T02:40:55.969Z - normal: Simulator: GC end ..., (js->native map) size: 241, all objects: 622
+2020-10-05T02:40:55.970Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:40:55.971Z - normal: Simulator: Function object is released!
+2020-10-05T02:40:55.971Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T02:40:55.975Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T02:40:56.100Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T02:41:20.652Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/lijinyou/Desktop/tankwar/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/lijinyou/Desktop/tankwar/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TankWar",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "1a638409-0db1-4127-bac7-947b76afed54",
+    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
+    "50e60d4e-c343-4060-a4d8-8cd47d302c5c",
+    "66856a8e-aaff-48b0-9c4d-359516ca8625"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
+  "template": "link",
+  "title": "TankWar",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "fe66aa72-7e8d-41",
+  "zipCompressJs": true,
+  "project": "/Users/lijinyou/Desktop/tankwar",
+  "projectName": "TankWar",
+  "debugBuildWorker": false
+}
+2020-10-05T02:41:20.655Z - normal: Building /Users/lijinyou/Desktop/tankwar
+2020-10-05T02:41:20.655Z - normal: Destination /Users/lijinyou/Desktop/tankwar/build/wechatgame
+2020-10-05T02:41:20.799Z - normal: Delete /Users/lijinyou/Desktop/tankwar/build/wechatgame/**/*,!/Users/lijinyou/Desktop/tankwar/build/wechatgame/game.json,!/Users/lijinyou/Desktop/tankwar/build/wechatgame/project.config.json
+2020-10-05T02:41:27.468Z - normal: Start building assets
+2020-10-05T02:41:27.469Z - normal: Start spawn build-worker
+2020-10-05T02:41:28.390Z - normal: Finish spawn build-worker
+2020-10-05T02:41:28.390Z - normal: Start init build-worker
+2020-10-05T02:41:31.629Z - normal: Finish init build-worker
+2020-10-05T02:41:31.629Z - normal: Start build-assets in worker
+2020-10-05T02:41:33.669Z - normal: Finish build-assets in worker
+2020-10-05T02:41:33.707Z - normal: Finish building assets
+2020-10-05T02:41:33.753Z - normal: Start building plugin scripts
+2020-10-05T02:41:40.909Z - normal: Built wechatgame successfully
+2020-10-05T02:42:16.883Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:16.958Z - error: ✔ IDE server has started, listening on http://127.0.0.1:52058
+- open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:18.341Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:30.166Z - error: - initialize
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:30.219Z - error: ✔ IDE server has started, listening on http://127.0.0.1:52058
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:30.220Z - error: - open IDE
+
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T02:42:31.024Z - error: ✔ open IDE
+
+    at Socket.<anonymous> (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/wechatgame/utils/wechat-game.js:1:821)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2020-10-05T03:40:40.455Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T03:40:40.455Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T03:40:40.633Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T03:40:40.634Z - normal: Simulator: 
+2020-10-05T03:40:40.636Z - normal: Simulator: {
+2020-10-05T03:40:40.636Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T03:40:40.636Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T03:40:40.637Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T03:40:40.637Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T03:40:40.637Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T03:40:40.637Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T03:40:40.638Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T03:40:40.638Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T03:40:40.640Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T03:40:40.640Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T03:40:40.641Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T03:40:40.641Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T03:40:40.641Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T03:40:40.642Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T03:40:40.642Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T03:40:40.642Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T03:40:40.642Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T03:40:40.643Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T03:40:40.643Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T03:40:40.643Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T03:40:40.643Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T03:40:40.644Z - normal: Simulator: }
+2020-10-05T03:40:40.645Z - normal: Simulator: 
+2020-10-05T03:40:40.645Z - normal: Simulator: 
+2020-10-05T03:40:40.650Z - normal: Simulator: Project Config:
+2020-10-05T03:40:40.650Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T03:40:40.650Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T03:40:40.651Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T03:40:40.651Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T03:40:40.651Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T03:40:40.652Z - normal: Simulator:     show console: NO
+2020-10-05T03:40:40.652Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T03:40:40.652Z - normal: Simulator:     listen: 
+2020-10-05T03:40:40.653Z - normal: Simulator:     debugger: none
+2020-10-05T03:40:40.653Z - normal: Simulator:     add searching path:
+2020-10-05T03:40:40.654Z - normal: Simulator: 
+2020-10-05T03:40:40.654Z - normal: Simulator: 
+2020-10-05T03:40:40.655Z - normal: Simulator: 
+2020-10-05T03:40:40.655Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:40:40.655Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:40.656Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T03:40:40.656Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:40.659Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T03:40:40.683Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T03:40:40.683Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T03:40:40.683Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T03:40:40.768Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T03:40:40.769Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:40:40.770Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:40.771Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T03:40:40.772Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:41.151Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T03:40:41.166Z - normal: Simulator: iShow!
+2020-10-05T03:40:41.332Z - normal: Simulator: JS: load __quick_compile_project__: 33.50599999999997ms
+2020-10-05T03:40:41.960Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:41.971Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T03:40:41.976Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T03:40:42.011Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:42.013Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:42.015Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:43.053Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T03:40:43.054Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fd2a5791000
+2020-10-05T03:40:43.054Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:40:43.054Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fd2a5791000
+2020-10-05T03:40:43.055Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fd2a5791000
+2020-10-05T03:40:43.055Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T03:40:46.897Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T03:40:46.897Z - normal: Simulator: GC begin ..., (js->native map) size: 184, all objects: 469
+2020-10-05T03:40:46.927Z - normal: Simulator: GC end ..., (js->native map) size: 175, all objects: 460
+2020-10-05T03:40:46.928Z - normal: Simulator: GC begin ..., (js->native map) size: 175, all objects: 460
+2020-10-05T03:40:46.950Z - normal: Simulator: GC end ..., (js->native map) size: 175, all objects: 460
+2020-10-05T03:40:46.950Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:40:46.952Z - normal: Simulator: Function object is released!
+2020-10-05T03:40:46.953Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:40:46.955Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T03:40:47.079Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T03:40:54.980Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T03:40:54.980Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T03:40:55.135Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T03:40:55.136Z - normal: Simulator: 
+2020-10-05T03:40:55.136Z - normal: Simulator: {
+2020-10-05T03:40:55.136Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T03:40:55.136Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T03:40:55.136Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T03:40:55.136Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T03:40:55.137Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T03:40:55.137Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T03:40:55.137Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T03:40:55.137Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T03:40:55.137Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T03:40:55.137Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T03:40:55.138Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T03:40:55.138Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T03:40:55.138Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T03:40:55.138Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T03:40:55.138Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T03:40:55.138Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T03:40:55.139Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T03:40:55.139Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T03:40:55.139Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T03:40:55.139Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T03:40:55.139Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T03:40:55.139Z - normal: Simulator: }
+2020-10-05T03:40:55.544Z - normal: Simulator: Project Config:
+2020-10-05T03:40:55.545Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T03:40:55.545Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T03:40:55.545Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T03:40:55.546Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T03:40:55.546Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T03:40:55.546Z - normal: Simulator:     show console: NO
+2020-10-05T03:40:55.546Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T03:40:55.547Z - normal: Simulator:     listen: 
+2020-10-05T03:40:55.547Z - normal: Simulator:     debugger: none
+2020-10-05T03:40:55.547Z - normal: Simulator:     add searching path:
+2020-10-05T03:40:55.547Z - normal: Simulator: 
+2020-10-05T03:40:55.548Z - normal: Simulator: 
+2020-10-05T03:40:55.548Z - normal: Simulator: 
+2020-10-05T03:40:55.548Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:40:55.549Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:55.549Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T03:40:55.549Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:55.549Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T03:40:55.550Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T03:40:55.550Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T03:40:55.550Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T03:40:55.551Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T03:40:55.551Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:40:55.552Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:55.552Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T03:40:55.552Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:40:55.568Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T03:40:55.572Z - normal: Simulator: iShow!
+2020-10-05T03:40:55.744Z - normal: Simulator: JS: load __quick_compile_project__: 25.875ms
+2020-10-05T03:40:56.314Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:56.328Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T03:40:56.329Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T03:40:56.351Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:56.353Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:56.357Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:40:57.395Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T03:40:57.395Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fb98550d000
+2020-10-05T03:40:57.396Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:40:57.396Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fb98550d000
+2020-10-05T03:40:57.396Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fb98550d000
+2020-10-05T03:40:57.397Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T03:41:54.968Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T03:46:12.970Z - normal: Simulator: JS: LoadScene StartScene: 31.626000000047497ms
+2020-10-05T03:46:14.464Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T03:46:14.466Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T03:46:14.467Z - normal: Simulator: GC begin ..., (js->native map) size: 308, all objects: 697
+2020-10-05T03:46:14.500Z - normal: Simulator: GC end ..., (js->native map) size: 145, all objects: 423
+2020-10-05T03:46:14.500Z - normal: Simulator: GC begin ..., (js->native map) size: 145, all objects: 423
+2020-10-05T03:46:14.521Z - normal: Simulator: GC end ..., (js->native map) size: 145, all objects: 423
+2020-10-05T03:46:14.521Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:46:14.522Z - normal: Simulator: Function object is released!
+2020-10-05T03:46:14.522Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:46:14.526Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T03:46:19.552Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T03:46:19.552Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T03:46:19.706Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T03:46:19.707Z - normal: Simulator: 
+2020-10-05T03:46:19.707Z - normal: Simulator: {
+2020-10-05T03:46:19.707Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T03:46:19.707Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T03:46:19.708Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T03:46:19.708Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T03:46:19.708Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T03:46:19.708Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T03:46:19.709Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T03:46:19.709Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T03:46:19.709Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T03:46:19.709Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T03:46:19.710Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T03:46:19.710Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T03:46:19.710Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T03:46:19.710Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T03:46:19.711Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T03:46:19.711Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T03:46:19.711Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T03:46:19.711Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T03:46:19.711Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T03:46:19.712Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T03:46:19.712Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T03:46:19.712Z - normal: Simulator: }
+2020-10-05T03:46:19.745Z - normal: Simulator: Project Config:
+2020-10-05T03:46:19.747Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T03:46:19.754Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T03:46:19.755Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T03:46:19.757Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T03:46:19.757Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T03:46:19.758Z - normal: Simulator:     show console: NO
+2020-10-05T03:46:19.758Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T03:46:19.759Z - normal: Simulator:     listen: 
+2020-10-05T03:46:19.759Z - normal: Simulator:     debugger: none
+2020-10-05T03:46:19.760Z - normal: Simulator:     add searching path:
+2020-10-05T03:46:19.761Z - normal: Simulator: 
+2020-10-05T03:46:19.761Z - normal: Simulator: 
+2020-10-05T03:46:19.761Z - normal: Simulator: 
+2020-10-05T03:46:19.762Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:46:19.762Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:46:19.762Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T03:46:19.762Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:46:19.763Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T03:46:19.768Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T03:46:19.768Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T03:46:19.769Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T03:46:19.785Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T03:46:19.788Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:46:19.791Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:46:19.792Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T03:46:19.792Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:46:20.118Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T03:46:20.125Z - normal: Simulator: iShow!
+2020-10-05T03:46:20.318Z - normal: Simulator: JS: load __quick_compile_project__: 29.396999999999935ms
+2020-10-05T03:46:20.940Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:46:20.949Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T03:46:20.950Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T03:46:20.973Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:46:20.975Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:46:20.975Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:46:22.017Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T03:46:22.018Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7f9cdcf91000
+2020-10-05T03:46:22.018Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:46:22.018Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7f9cdcf91000
+2020-10-05T03:46:22.019Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7f9cdcf91000
+2020-10-05T03:46:22.019Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T03:47:13.360Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7f9cdc356600
+2020-10-05T03:47:13.361Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 5928, total read frames: 5928, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:47:13.363Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2427  for _pcmData: 0x7f9cdc356600
+2020-10-05T03:47:13.364Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7f9cdc356600
+2020-10-05T03:47:13.365Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T03:47:35.139Z - normal: Simulator: JS: LoadScene StartScene: 16.53399999999965ms
+2020-10-05T03:47:36.494Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T03:47:36.495Z - normal: Simulator: JS: LoadScene CityScene1: 8.648000000001048ms
+2020-10-05T03:47:41.483Z - normal: Simulator: V/AudioCache (227):   id=3 _pcmData alloc: 0x7f9cdd04c000
+2020-10-05T03:47:41.483Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:47:41.486Z - normal: Simulator: V/AudioCache (273):   id=3 generated alGenBuffers: 2439  for _pcmData: 0x7f9cdd04c000
+2020-10-05T03:47:41.495Z - normal: Simulator: V/AudioCache (274):   id=3 _pcmData alBufferData: 0x7f9cdd04c000
+2020-10-05T03:47:41.495Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T03:47:41.496Z - normal: Simulator: GC begin ..., (js->native map) size: 361, all objects: 822
+2020-10-05T03:47:41.518Z - normal: Simulator: GC end ..., (js->native map) size: 192, all objects: 543
+2020-10-05T03:47:41.522Z - normal: Simulator: GC begin ..., (js->native map) size: 192, all objects: 543
+2020-10-05T03:47:41.540Z - normal: Simulator: GC end ..., (js->native map) size: 192, all objects: 543
+2020-10-05T03:47:41.541Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:47:41.542Z - normal: Simulator: Function object is released!
+2020-10-05T03:47:41.542Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:47:41.542Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T03:47:41.751Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=3), delete buffer: 2439
+2020-10-05T03:47:41.752Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2427
+2020-10-05T03:47:57.159Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T03:47:57.159Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T03:47:57.246Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T03:47:57.246Z - normal: Simulator: 
+2020-10-05T03:47:57.247Z - normal: Simulator: {
+2020-10-05T03:47:57.247Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T03:47:57.247Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T03:47:57.248Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T03:47:57.248Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T03:47:57.248Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T03:47:57.249Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T03:47:57.249Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T03:47:57.250Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T03:47:57.250Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T03:47:57.251Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T03:47:57.251Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T03:47:57.252Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T03:47:57.253Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T03:47:57.341Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T03:47:57.341Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T03:47:57.342Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T03:47:57.342Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T03:47:57.342Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T03:47:57.343Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T03:47:57.343Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T03:47:57.344Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T03:47:57.345Z - normal: Simulator: }
+2020-10-05T03:47:57.386Z - normal: Simulator: Project Config:
+2020-10-05T03:47:57.388Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T03:47:57.389Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T03:47:57.389Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T03:47:57.390Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T03:47:57.390Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T03:47:57.391Z - normal: Simulator:     show console: NO
+2020-10-05T03:47:57.391Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T03:47:57.392Z - normal: Simulator:     listen: 
+2020-10-05T03:47:57.393Z - normal: Simulator:     debugger: none
+2020-10-05T03:47:57.393Z - normal: Simulator:     add searching path:
+2020-10-05T03:47:57.394Z - normal: Simulator: 
+2020-10-05T03:47:57.394Z - normal: Simulator: 
+2020-10-05T03:47:57.395Z - normal: Simulator: 
+2020-10-05T03:47:57.396Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:47:57.396Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:47:57.397Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T03:47:57.397Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:47:57.399Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T03:47:57.399Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T03:47:57.400Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T03:47:57.401Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T03:47:57.408Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T03:47:57.410Z - normal: Simulator: resetDesignResolution request
+2020-10-05T03:47:57.411Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:47:57.413Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T03:47:57.414Z - normal: Simulator: ------------------------------------------------
+2020-10-05T03:47:57.727Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T03:47:57.744Z - normal: Simulator: iShow!
+2020-10-05T03:47:57.936Z - normal: Simulator: JS: load __quick_compile_project__: 30.08699999999999ms
+2020-10-05T03:47:58.537Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:47:58.553Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T03:47:58.553Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T03:47:58.575Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:47:58.577Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:47:58.577Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T03:47:59.617Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T03:47:59.617Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7f9f5eefe000
+2020-10-05T03:47:59.618Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:47:59.618Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7f9f5eefe000
+2020-10-05T03:47:59.618Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7f9f5eefe000
+2020-10-05T03:47:59.619Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T03:48:07.148Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7f9f5b16ee00
+2020-10-05T03:48:07.149Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 5928, total read frames: 5928, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:48:07.150Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2427  for _pcmData: 0x7f9f5b16ee00
+2020-10-05T03:48:07.150Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7f9f5b16ee00
+2020-10-05T03:48:07.151Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T03:48:08.799Z - normal: Simulator: JS: LoadScene StartScene: 26.033000000001266ms
+2020-10-05T03:48:10.131Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T03:48:10.132Z - normal: Simulator: JS: LoadScene CityScene1: 6.4320000000006985ms
+2020-10-05T03:48:15.658Z - normal: Simulator: V/AudioCache (227):   id=3 _pcmData alloc: 0x7f9f5efb9000
+2020-10-05T03:48:15.659Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:48:15.660Z - normal: Simulator: V/AudioCache (273):   id=3 generated alGenBuffers: 2431  for _pcmData: 0x7f9f5efb9000
+2020-10-05T03:48:15.664Z - normal: Simulator: V/AudioCache (274):   id=3 _pcmData alBufferData: 0x7f9f5efb9000
+2020-10-05T03:48:15.667Z - normal: Simulator: JS: LoadScene StartScene: 26.132000000001426ms
+2020-10-05T03:48:16.530Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=3), delete buffer: 2431
+2020-10-05T03:48:16.530Z - normal: Simulator: JS: LoadScene CityScene1: 5.040000000000873ms
+2020-10-05T03:48:20.057Z - normal: Simulator: V/AudioCache (227):   id=4 _pcmData alloc: 0x7f9f5f1af000
+2020-10-05T03:48:20.058Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T03:48:20.060Z - normal: Simulator: V/AudioCache (273):   id=4 generated alGenBuffers: 2436  for _pcmData: 0x7f9f5f1af000
+2020-10-05T03:48:20.060Z - normal: Simulator: V/AudioCache (274):   id=4 _pcmData alBufferData: 0x7f9f5f1af000
+2020-10-05T03:48:20.071Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T03:48:20.072Z - normal: Simulator: GC begin ..., (js->native map) size: 398, all objects: 792
+2020-10-05T03:48:20.102Z - normal: Simulator: GC end ..., (js->native map) size: 177, all objects: 476
+2020-10-05T03:48:20.103Z - normal: Simulator: GC begin ..., (js->native map) size: 177, all objects: 476
+2020-10-05T03:48:20.116Z - normal: Simulator: GC end ..., (js->native map) size: 177, all objects: 476
+2020-10-05T03:48:20.124Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:48:20.124Z - normal: Simulator: Function object is released!
+2020-10-05T03:48:20.125Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T03:48:20.126Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T03:48:20.247Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=4), delete buffer: 2436
+2020-10-05T03:48:20.340Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2427
+2020-10-05T04:03:13.166Z - info: 只有预制节点 "TankPref" 及其子节点会被保存。
+2020-10-05T04:03:17.549Z - normal: Simulator: WORKAREA WIDTH 1280.00, HEIGHT 710.00
+2020-10-05T04:03:17.549Z - normal: Simulator: FRAME SCALE = 0.50
+2020-10-05T04:03:17.714Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2020-10-05T04:03:17.714Z - normal: Simulator: 
+2020-10-05T04:03:17.715Z - normal: Simulator: {
+2020-10-05T04:03:17.715Z - normal: Simulator: 	gl.supports_float_texture: true
+2020-10-05T04:03:17.715Z - normal: Simulator: 	gl.supports_ATITC: false
+2020-10-05T04:03:17.716Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2020-10-05T04:03:17.716Z - normal: Simulator: 	gl.supports_NPOT: true
+2020-10-05T04:03:17.716Z - normal: Simulator: 	gl.supports_ETC2: false
+2020-10-05T04:03:17.716Z - normal: Simulator: 	build_type: DEBUG
+2020-10-05T04:03:17.717Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2020-10-05T04:03:17.718Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2020-10-05T04:03:17.718Z - normal: Simulator: 	gl.supports_PVRTC: false
+2020-10-05T04:03:17.718Z - normal: Simulator: 	gl.supports_ETC1: false
+2020-10-05T04:03:17.719Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2020-10-05T04:03:17.719Z - normal: Simulator: 	gl.max_texture_size: 16384
+2020-10-05T04:03:17.719Z - normal: Simulator: 	gl.max_texture_units: 16
+2020-10-05T04:03:17.720Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2020-10-05T04:03:17.720Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2020-10-05T04:03:17.720Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2020-10-05T04:03:17.720Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2020-10-05T04:03:17.721Z - normal: Simulator: 	gl.supports_S3TC: true
+2020-10-05T04:03:17.721Z - normal: Simulator: 	gl.version: 2.1 INTEL-14.7.8
+2020-10-05T04:03:17.721Z - normal: Simulator: 	compiled_with_profiler: false
+2020-10-05T04:03:17.722Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2020-10-05T04:03:17.725Z - normal: Simulator: }
+2020-10-05T04:03:17.726Z - normal: Simulator: Project Config:
+2020-10-05T04:03:17.726Z - normal: Simulator:     project dir: /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2020-10-05T04:03:17.727Z - normal: Simulator:     writable path: $(PROJDIR)/
+2020-10-05T04:03:17.727Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2020-10-05T04:03:17.727Z - normal: Simulator:     frame size: 1920 x 1080
+2020-10-05T04:03:17.727Z - normal: Simulator:     frame scale: 0.50
+2020-10-05T04:03:17.729Z - normal: Simulator:     show console: NO
+2020-10-05T04:03:17.730Z - normal: Simulator:     write debug log: NO ()
+2020-10-05T04:03:17.730Z - normal: Simulator:     listen: 
+2020-10-05T04:03:17.731Z - normal: Simulator:     debugger: none
+2020-10-05T04:03:17.731Z - normal: Simulator:     add searching path:
+2020-10-05T04:03:17.735Z - normal: Simulator: resetDesignResolution request
+2020-10-05T04:03:17.736Z - normal: Simulator: ------------------------------------------------
+2020-10-05T04:03:17.737Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-10-05T04:03:17.738Z - normal: Simulator: ------------------------------------------------
+2020-10-05T04:03:17.738Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2020-10-05T04:03:17.771Z - normal: Simulator: libuv version: 1.23.1-dev
+2020-10-05T04:03:17.776Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-10-05T04:03:17.778Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2020-10-05T04:03:17.856Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2020-10-05T04:03:17.858Z - normal: Simulator: resetDesignResolution request
+2020-10-05T04:03:17.861Z - normal: Simulator: ------------------------------------------------
+2020-10-05T04:03:17.863Z - normal: Simulator: LOAD Js FILE: main.js
+2020-10-05T04:03:17.864Z - normal: Simulator: ------------------------------------------------
+2020-10-05T04:03:18.233Z - normal: Simulator: JS: Read json failed: Unexpected end of JSON input
+2020-10-05T04:03:18.241Z - normal: Simulator: iShow!
+2020-10-05T04:03:18.392Z - normal: Simulator: JS: load __quick_compile_project__: 25.057999999999993ms
+2020-10-05T04:03:19.038Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T04:03:19.060Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2020-10-05T04:03:19.060Z - normal: Simulator: JS: Cocos Creator v2.4.2
+2020-10-05T04:03:19.088Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T04:03:19.088Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T04:03:19.089Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2020-10-05T04:03:20.126Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2020-10-05T04:03:20.126Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fe37a6fb000
+2020-10-05T04:03:20.127Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T04:03:20.127Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fe37a6fb000
+2020-10-05T04:03:20.127Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fe37a6fb000
+2020-10-05T04:03:20.128Z - normal: Simulator: JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2020-10-05T04:04:44.246Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7fe3770d3c00
+2020-10-05T04:04:44.247Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 5928, total read frames: 5928, adjust frames: 0, remainingFrames: 0
+2020-10-05T04:04:44.248Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2427  for _pcmData: 0x7fe3770d3c00
+2020-10-05T04:04:44.248Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7fe3770d3c00
+2020-10-05T04:04:44.248Z - normal: Simulator: JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2020-10-05T04:04:45.745Z - normal: Simulator: JS: LoadScene StartScene: 30.11699999999837ms
+2020-10-05T04:04:47.228Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2020-10-05T04:04:47.228Z - normal: Simulator: JS: LoadScene CityScene1: 8.389000000010128ms
+2020-10-05T04:05:35.189Z - normal: Simulator: V/AudioCache (227):   id=3 _pcmData alloc: 0x7fe37a7b6000
+2020-10-05T04:05:35.190Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 191110, total read frames: 191110, adjust frames: 0, remainingFrames: 0
+2020-10-05T04:05:35.190Z - normal: Simulator: V/AudioCache (273):   id=3 generated alGenBuffers: 2451  for _pcmData: 0x7fe37a7b6000
+2020-10-05T04:05:35.191Z - normal: Simulator: V/AudioCache (274):   id=3 _pcmData alBufferData: 0x7fe37a7b6000
+2020-10-05T04:05:35.192Z - normal: Simulator: JS: LoadScene StartScene: 25.380000000004657ms
+2020-10-05T04:05:37.019Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=3), delete buffer: 2451
+2020-10-05T04:05:37.023Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2020-10-05T04:05:37.024Z - normal: Simulator: GC begin ..., (js->native map) size: 291, all objects: 711
+2020-10-05T04:05:37.052Z - normal: Simulator: GC end ..., (js->native map) size: 151, all objects: 482
+2020-10-05T04:05:37.053Z - normal: Simulator: GC begin ..., (js->native map) size: 151, all objects: 482
+2020-10-05T04:05:37.075Z - normal: Simulator: GC end ..., (js->native map) size: 151, all objects: 482
+2020-10-05T04:05:37.076Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2020-10-05T04:05:37.077Z - normal: Simulator: Function object is released!
+2020-10-05T04:05:37.079Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2020-10-05T04:05:37.079Z - normal: Simulator: ScriptEngine::cleanup end ...
+2020-10-05T04:05:37.204Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2427
+2020-10-05T04:10:33.699Z - info: shutdown preview server

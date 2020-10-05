@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rewind",
+    "texture": "5e7b3fc5-9e55-4741-98ee-99036edc3151",
+    "atlas": "",
+    "rect": [
+      15,
+      13,
+      200,
+      193
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      231,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "JoystickBar",
+    "texture": "c1d78ee5-44a4-4db1-882f-ae121b006704",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
