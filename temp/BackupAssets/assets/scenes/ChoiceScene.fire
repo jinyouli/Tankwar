@@ -186,7 +186,7 @@
       "array": [
         0,
         0,
-        259.8076211353316,
+        294.44863728670913,
         0,
         0,
         0,
@@ -623,8 +623,8 @@
     "target": {
       "__id__": 13
     },
-    "component": "ChoiceScript",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "e3410Xfj7dGI7X2/mwrPXFs",
     "handler": "onPlay",
     "customEventData": ""
   },
@@ -711,7 +711,7 @@
       "__id__": 2
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 16
@@ -891,8 +891,8 @@
     "target": {
       "__id__": 13
     },
-    "component": "ChoiceScript",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "e3410Xfj7dGI7X2/mwrPXFs",
     "handler": "onUp",
     "customEventData": ""
   },
@@ -904,7 +904,7 @@
       "__id__": 2
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 20
@@ -1084,8 +1084,8 @@
     "target": {
       "__id__": 13
     },
-    "component": "ChoiceScript",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "e3410Xfj7dGI7X2/mwrPXFs",
     "handler": "onNext",
     "customEventData": ""
   },

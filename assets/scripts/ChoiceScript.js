@@ -44,7 +44,7 @@ cc.Class({
     },
 
     onNext: function () {
-        if(cc.gameData.curLevel+1 > 20){
+        if(cc.gameData.curLevel+1 > 10){
             return;
         }
         cc.gameData.curLevel += 1; 

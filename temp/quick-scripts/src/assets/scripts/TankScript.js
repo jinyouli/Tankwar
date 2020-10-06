@@ -42,8 +42,9 @@ cc.Class({
   // use this for initialization
   onLoad: function onLoad() {
     //获取组件
-    this._cityCtrl = cc.find("/CityScript").getComponent("CityScript");
-    this.bulletNode = cc.find("/Canvas/Map/bullet");
+    this._cityCtrl = cc.find("/CityScript").getComponent("CityScript"); //this.bulletNode = cc.find("/Canvas/Map/bullet");
+
+    this.bulletNode = cc.find("/Canvas/Map/layer_0");
   },
   start: function start() {
     //初始是停止状态的

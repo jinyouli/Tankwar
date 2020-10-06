@@ -23,7 +23,7 @@ cc.Class({
       type: cc.Prefab
     },
     //最大数量
-    maxCount: 5,
+    maxCount: 10,
     life: 3,
     //出生地
     bornPoses: {
@@ -57,6 +57,15 @@ cc.Class({
     lifeNum: {
       type: cc.Label,
       "default": null
+    },
+    doubleFire: false,
+    doubleFireBtn: {
+      "default": null,
+      type: cc.Node
+    },
+    doubleFireFrames: {
+      "default": [],
+      type: cc.SpriteFrame
     }
   },
   // use this for initialization
@@ -72,8 +81,9 @@ cc.Class({
   start: function start(err) {
     if (err) {
       return;
-    } //默认角度
+    }
 
+    alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {}); //默认角度
 
     this.curAngle = null;
     var self = this; //注册监听事件
@@ -114,14 +124,32 @@ cc.Class({
     cc.gameData.tankList = []; //地图内子弹列表
 
     cc.gameData.bulletList = []; //获取组件
+    //this.tankNode = cc.find("/Canvas/Map/tank");
 
-    this.tankNode = cc.find("/Canvas/Map/tank"); //加入player
+    this.tankNode = cc.find("/Canvas/Map/layer_0"); //加入player
 
     this.player = this.addPlayerTank(); //获取坦克控制组件
 
     this._playerTankCtrl = this.player.getComponent("TankScript"); //启动定时器，添加坦克
 
     this.schedule(this.addAITank, 3, cc.macro.REPEAT_FOREVER, 1);
+  },
+  // called every frame, uncomment this function to activate update callback
+  update: function update(dt) {
+    if (this.doubleFire) {
+      if (this._playerTankCtrl.startFire(this.bulletPool)) {//播放射击音效
+        //cc.audioEngine.play(this._playerTankCtrl.shootAudio, false, 1);
+      }
+    }
+  },
+  setDoubleFire: function setDoubleFire() {
+    this.doubleFire = !this.doubleFire;
+
+    if (this.doubleFire) {
+      this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
+    } else {
+      this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[0];
+    }
   },
   //注册输入事件
   registerInputEvent: function registerInputEvent() {
@@ -236,6 +264,8 @@ cc.Class({
     }
   },
   gameOver: function gameOver() {
+    this.doubleFire = false;
+
     for (var i = 0; i < cc.gameData.tankList.length; i++) {
       var tank = cc.gameData.tankList[i];
       var tankCtrl = tank.getComponent("TankScript");
@@ -339,28 +369,35 @@ cc.Class({
     }
   },
   tankBoom: function tankBoom(tank) {
-    tank.parent = null;
-    tank.getComponent("TankScript").die = true;
-    this.tankPool.put(tank);
-
+    // tank.parent = null;
+    // tank.getComponent("TankScript").die = true;
+    // this.tankPool.put(tank);
     if (cc.gameData.single && tank.getComponent("TankScript").team == 0) {
-      //cc.director.loadScene("StartScene");
-      this.life--;
-      this.lifeNum.string = this.life + "";
-
-      if (this.life > 0) {
-        this.addPlayerTank();
-      } else {
-        this.gameOver();
-      }
+      // this.life --;
+      // this.lifeNum.string = this.life + "";
+      // if(this.life > 0){
+      //     this.addPlayerTank();
+      // }else{
+      //     this.gameOver();
+      // }
+      tank.getComponent("TankScript").blood = 1;
     } else {
+      tank.parent = null;
+      tank.getComponent("TankScript").die = true;
+      this.tankPool.put(tank);
       var tankNum = Number(this.enemyNum.string) - 1;
       this.enemyNum.string = tankNum + "";
 
       if (tankNum == 0) {
-        alert.show.call(this, "你赢了", function () {
-          cc.director.loadScene("StartScene");
-        });
+        if (cc.gameData.curLevel < 10) {
+          ++cc.gameData.curLevel;
+          cc.director.loadScene("CityScene" + cc.gameData.curLevel);
+        } else {
+          this.doubleFire = false;
+          alert.show.call(this, "你赢了", function () {
+            cc.director.loadScene("StartScene");
+          });
+        }
       }
     }
   },

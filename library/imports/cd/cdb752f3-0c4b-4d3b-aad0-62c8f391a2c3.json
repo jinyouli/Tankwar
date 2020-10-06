@@ -187,7 +187,7 @@
       "array": [
         0,
         0,
-        294.44863728670913,
+        292.10766236710435,
         0,
         0,
         0,
@@ -712,7 +712,7 @@
       "__id__": 2
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 16
@@ -905,7 +905,7 @@
       "__id__": 2
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 20

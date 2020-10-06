@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "doublefire",
+    "texture": "f1908195-22ba-4e86-b9bf-a5630d8b428e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

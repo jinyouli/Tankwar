@@ -46,7 +46,7 @@ cc.Class({
     this.updateLevelLabel();
   },
   onNext: function onNext() {
-    if (cc.gameData.curLevel + 1 > 20) {
+    if (cc.gameData.curLevel + 1 > 10) {
       return;
     }
 

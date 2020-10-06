@@ -25,8 +25,7 @@ cc.Class({
     }
   },
   loadChoiceScene: function loadChoiceScene() {
-    //cc.director.loadScene("ChoiceScene");
-    cc.director.loadScene("CityScene1");
+    cc.director.loadScene("ChoiceScene"); //cc.director.loadScene("CityScene1");
   } // called every frame, uncomment this function to activate update callback
   // update: function (dt) {
   // },
