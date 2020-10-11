@@ -518,8 +518,8 @@
     "target": {
       "__id__": 11
     },
-    "component": "StartScript",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "f8dfbi1cPZJIqQT0xgFEygS",
     "handler": "loadChoiceScene",
     "customEventData": ""
   },

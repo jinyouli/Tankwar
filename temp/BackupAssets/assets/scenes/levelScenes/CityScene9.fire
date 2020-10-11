@@ -1800,8 +1800,8 @@
     "tank": {
       "__uuid__": "e14e3534-aa94-462d-9f40-58b2fda3c4b5"
     },
-    "maxCount": 8,
-    "life": 3,
+    "maxCount": 10,
+    "life": 4,
     "bornPoses": [
       {
         "__type__": "cc.Vec2",

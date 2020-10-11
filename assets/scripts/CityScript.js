@@ -393,24 +393,24 @@ cc.Class({
     },
 
     tankBoom: function(tank) {
-        // tank.parent = null;
-        // tank.getComponent("TankScript").die = true;
-        // this.tankPool.put(tank);
+        tank.parent = null;
+        tank.getComponent("TankScript").die = true;
+        this.tankPool.put(tank);
         if(cc.gameData.single && tank.getComponent("TankScript").team == 0){
-            // this.life --;
-            // this.lifeNum.string = this.life + "";
+            this.life --;
+            this.lifeNum.string = this.life + "";
 
-            // if(this.life > 0){
-            //     this.addPlayerTank();
-            // }else{
-            //     this.gameOver();
-            // }
-            tank.getComponent("TankScript").blood = 1;
+            if(this.life > 0){
+                this.addPlayerTank();
+            }else{
+                this.gameOver();
+            }
+           // tank.getComponent("TankScript").blood = 1;
         }
         else{
-            tank.parent = null;
-            tank.getComponent("TankScript").die = true;
-            this.tankPool.put(tank);
+            // tank.parent = null;
+            // tank.getComponent("TankScript").die = true;
+            // this.tankPool.put(tank);
 
             var tankNum = Number(this.enemyNum.string) - 1;
             this.enemyNum.string = tankNum + "";

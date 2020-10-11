@@ -187,7 +187,7 @@
       "array": [
         0,
         0,
-        292.10766236710435,
+        291.8505610753558,
         0,
         0,
         0,
@@ -261,12 +261,12 @@
       }
     ],
     "_prefab": null,
-    "_opacity": 255,
+    "_opacity": 175,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 98,
+      "g": 98,
+      "b": 98,
       "a": 255
     },
     "_contentSize": {
@@ -358,14 +358,14 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 0,
-      "g": 0,
-      "b": 0,
+      "r": 237,
+      "g": 228,
+      "b": 228,
       "a": 255
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 97.87,
+      "width": 104.47,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -427,7 +427,7 @@
     "_isSystemFontUsed": true,
     "_spacingX": 0,
     "_batchAsBitmap": false,
-    "_styleFlags": 0,
+    "_styleFlags": 1,
     "_underlineHeight": 0,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
@@ -464,8 +464,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 237,
-      "height": 214
+      "width": 230,
+      "height": 230
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -485,7 +485,7 @@
         1,
         0.3,
         0.3,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -517,7 +517,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "ec638271-99eb-4a35-9eb8-f71535a99187"
+      "__uuid__": "4db6c393-7591-425c-b8a8-2983297d3c43"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -544,7 +544,7 @@
     "_normalMaterial": null,
     "_grayMaterial": null,
     "duration": 0.1,
-    "zoomScale": 1.2,
+    "zoomScale": 1.3,
     "clickEvents": [
       {
         "__id__": 12
@@ -552,8 +552,8 @@
     ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -597,7 +597,7 @@
       "a": 255
     },
     "_N$normalSprite": {
-      "__uuid__": "ec638271-99eb-4a35-9eb8-f71535a99187"
+      "__uuid__": "4db6c393-7591-425c-b8a8-2983297d3c43"
     },
     "_N$pressedSprite": {
       "__uuid__": "ec638271-99eb-4a35-9eb8-f71535a99187"
@@ -732,8 +732,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 237,
-      "height": 214
+      "width": 230,
+      "height": 230
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -753,7 +753,7 @@
         1,
         0.3,
         0.3,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -785,7 +785,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "49aed644-1a20-4492-992a-6e7696a57fd5"
+      "__uuid__": "f41033b7-f178-43bb-bcaa-098b80d465f5"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -812,7 +812,7 @@
     "_normalMaterial": null,
     "_grayMaterial": null,
     "duration": 0.1,
-    "zoomScale": 1.2,
+    "zoomScale": 1.3,
     "clickEvents": [
       {
         "__id__": 18
@@ -820,8 +820,8 @@
     ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -865,7 +865,7 @@
       "a": 255
     },
     "_N$normalSprite": {
-      "__uuid__": "49aed644-1a20-4492-992a-6e7696a57fd5"
+      "__uuid__": "f41033b7-f178-43bb-bcaa-098b80d465f5"
     },
     "_N$pressedSprite": {
       "__uuid__": "49aed644-1a20-4492-992a-6e7696a57fd5"
@@ -925,8 +925,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 237,
-      "height": 214
+      "width": 230,
+      "height": 230
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -946,7 +946,7 @@
         1,
         0.3,
         0.3,
-        1
+        0
       ]
     },
     "_eulerAngles": {
@@ -978,7 +978,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "a261b39d-6d65-4934-a05e-2beda8a52b84"
+      "__uuid__": "e6173142-b8ed-4e02-ae3c-0de17aef42df"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -1005,7 +1005,7 @@
     "_normalMaterial": null,
     "_grayMaterial": null,
     "duration": 0.1,
-    "zoomScale": 1.2,
+    "zoomScale": 1.3,
     "clickEvents": [
       {
         "__id__": 22
@@ -1013,8 +1013,8 @@
     ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -1058,7 +1058,7 @@
       "a": 255
     },
     "_N$normalSprite": {
-      "__uuid__": "a261b39d-6d65-4934-a05e-2beda8a52b84"
+      "__uuid__": "e6173142-b8ed-4e02-ae3c-0de17aef42df"
     },
     "_N$pressedSprite": {
       "__uuid__": "a261b39d-6d65-4934-a05e-2beda8a52b84"
