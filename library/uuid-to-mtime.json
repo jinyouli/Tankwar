@@ -50,8 +50,8 @@
     "relativePath": "joystick/textures/JoystickBG.png"
   },
   "4317535f-fedc-4a49-911b-8bf143bfb39d": {
-    "asset": 1601828624169,
-    "meta": 1601855003907,
+    "asset": 1603667305658,
+    "meta": 1603721867277,
     "relativePath": "resources"
   },
   "72bab389-cded-41d0-b4c5-19b85a516b55": {
@@ -539,24 +539,14 @@
     "meta": 1601820387854,
     "relativePath": "scripts/Alert.js"
   },
-  "f2438b53-b1c9-4394-a328-b55e72477d5a": {
-    "asset": 1601870443795,
-    "meta": 1601870467170,
-    "relativePath": "scripts/BulletScript.js"
-  },
-  "6ce61b48-5151-47fb-841c-cc932b3f5703": {
-    "asset": 1601946083069,
-    "meta": 1601946113799,
-    "relativePath": "scripts/TankScript.js"
-  },
   "f8dfb8b5-70f6-4922-a413-d31805132812": {
     "asset": 1601946273797,
     "meta": 1601946277700,
     "relativePath": "scripts/StartScript.js"
   },
   "31abda49-efd5-4e1a-a5b4-256b2be31fd9": {
-    "asset": 1602429388776,
-    "meta": 1602429388796,
+    "asset": 1604133688776,
+    "meta": 1604133688786,
     "relativePath": "scenes/levelScenes/CityScene1.fire"
   },
   "f1908195-22ba-4e86-b9bf-a5630d8b428e": {
@@ -613,11 +603,6 @@
     "asset": 1602430506967,
     "meta": 1602430506983,
     "relativePath": "scenes/levelScenes/CityScene10.fire"
-  },
-  "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
-    "asset": 1601983900808,
-    "meta": 1601994768520,
-    "relativePath": "scripts/TiledMapData.js"
   },
   "9836134e-b892-4283-b6b2-78b5acf3ed45": {
     "asset": 1595909994000,
@@ -1144,9 +1129,44 @@
     "meta": 1602429563752,
     "relativePath": "joystick/scripts/JoystickCtrl.js"
   },
+  "f2438b53-b1c9-4394-a328-b55e72477d5a": {
+    "asset": 1603591417535,
+    "meta": 1603592997309,
+    "relativePath": "scripts/BulletScript.js"
+  },
+  "02046376-32a0-4c2c-9fde-6b489f904cc0": {
+    "asset": 1603722175257,
+    "meta": 1604074950673,
+    "relativePath": "resources/test"
+  },
   "7f0b0f03-730e-45ee-8585-977ea080a442": {
-    "asset": 1602430174755,
-    "meta": 1602430177704,
+    "asset": 1604129060817,
+    "meta": 1604129063662,
     "relativePath": "scripts/CityScript.js"
+  },
+  "6ce61b48-5151-47fb-841c-cc932b3f5703": {
+    "asset": 1604132079326,
+    "meta": 1604132081876,
+    "relativePath": "scripts/TankScript.js"
+  },
+  "ef21f46a-00a6-495c-8564-c0668691db73": {
+    "asset": 1604133461371,
+    "meta": 1604133543920,
+    "relativePath": "resources/test/image1.tsx"
+  },
+  "8f28cba0-9091-4bc9-a279-6f7980027058": {
+    "asset": 1604133503088,
+    "meta": 1604133543940,
+    "relativePath": "resources/test/map1.tmx"
+  },
+  "51fbbbbd-6de8-4e5d-9581-d5d4254a859a": {
+    "asset": 1604133380655,
+    "meta": 1604133543937,
+    "relativePath": "resources/test/image.png"
+  },
+  "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
+    "asset": 1604133628900,
+    "meta": 1604133633589,
+    "relativePath": "scripts/TiledMapData.js"
   }
 }

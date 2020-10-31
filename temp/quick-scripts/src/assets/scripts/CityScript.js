@@ -81,9 +81,10 @@ cc.Class({
   start: function start(err) {
     if (err) {
       return;
-    }
+    } // alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {
+    // });
+    //默认角度
 
-    alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {}); //默认角度
 
     this.curAngle = null;
     var self = this; //注册监听事件
@@ -93,9 +94,11 @@ cc.Class({
     this._tiledMapData = require("TiledMapData"); //获取地图尺寸
 
     this._curMapTileSize = this._tiledMap.getTileSize();
-    this._curMapSize = cc.v2(this._tiledMap.node.width, this._tiledMap.node.height); //地图墙层
+    this._curMapSize = cc.v2(this._tiledMap.node.width, this._tiledMap.node.height);
+    cc.log("this._curMapTileSize =" + this._curMapTileSize);
+    cc.log("this._curMapSize =" + this._curMapSize); //地图墙层
 
-    this.mapLayer0 = this._tiledMap.getLayer("layer_0"); //初始化对象池(参数必须为对应脚本的文件名)
+    this.mapLayer0 = this._tiledMap.getLayer("layer0"); //初始化对象池(参数必须为对应脚本的文件名)
 
     this.bulletPool = new cc.NodePool("BulletScript");
     var initBulletCount = 20;
@@ -126,7 +129,7 @@ cc.Class({
     cc.gameData.bulletList = []; //获取组件
     //this.tankNode = cc.find("/Canvas/Map/tank");
 
-    this.tankNode = cc.find("/Canvas/Map/layer_0"); //加入player
+    this.tankNode = cc.find("/Canvas/map1/layer0"); //加入player
 
     this.player = this.addPlayerTank(); //获取坦克控制组件
 
@@ -388,19 +391,18 @@ cc.Class({
       // tank.getComponent("TankScript").die = true;
       // this.tankPool.put(tank);
       var tankNum = Number(this.enemyNum.string) - 1;
-      this.enemyNum.string = tankNum + "";
-
-      if (tankNum == 0) {
-        if (cc.gameData.curLevel < 10) {
-          ++cc.gameData.curLevel;
-          cc.director.loadScene("CityScene" + cc.gameData.curLevel);
-        } else {
-          this.doubleFire = false;
-          alert.show.call(this, "你赢了", function () {
-            cc.director.loadScene("StartScene");
-          });
-        }
-      }
+      this.enemyNum.string = tankNum + ""; // if(tankNum == 0){
+      //     if(cc.gameData.curLevel < 10){
+      //         ++cc.gameData.curLevel;
+      //         cc.director.loadScene("CityScene"+ cc.gameData.curLevel);
+      //     }
+      //     else{
+      //         this.doubleFire = false;
+      //         alert.show.call(this, "你赢了", function () {
+      //             cc.director.loadScene("StartScene");
+      //         });
+      //     }
+      // }
     }
   },
   //开火按钮点击
