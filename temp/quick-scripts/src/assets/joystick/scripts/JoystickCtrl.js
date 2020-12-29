@@ -85,7 +85,7 @@ cc.Class({
       var distance = touchPos.sub(cc.Vec2(0, 0)).mag(); //如果点与圆心距离小于圆的半径,返回true
 
       if (distance < this.radius) {
-        if (distance > 10) {
+        if (distance > 20) {
           this.node.opacity = 255;
           this.joystickBar.setPosition(touchPos); //更新角度
 
@@ -106,7 +106,7 @@ cc.Class({
     var distance = touchPos.sub(cc.Vec2(0, 0)).mag(); //如果点与圆心距离小于圆的半径,控杆跟随触摸点
 
     if (this.radius >= distance) {
-      if (distance > 10) {
+      if (distance > 20) {
         this.node.opacity = 255;
         this.joystickBar.setPosition(touchPos); //更新角度
 

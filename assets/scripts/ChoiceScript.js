@@ -52,7 +52,7 @@ cc.Class({
     },
 
     updateLevelLabel: function () {
-        this.curLevelLabel.string = "关卡 "+cc.gameData.curLevel;
+        this.curLevelLabel.string = "Round "+cc.gameData.curLevel;
     },
 
 

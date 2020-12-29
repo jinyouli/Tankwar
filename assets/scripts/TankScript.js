@@ -43,8 +43,8 @@ cc.Class({
     onLoad: function () {
         //获取组件
         this._cityCtrl = cc.find("/CityScript").getComponent("CityScript");
-        //this.bulletNode = cc.find("/Canvas/Map/bullet");
-        this.bulletNode = cc.find("/Canvas/map1/layer0");
+        this.bulletNode = cc.find("/Canvas/Map/layer_0");
+        //this.bulletNode = cc.find("/Canvas/map1/layer0");
     },
 
     start: function() {

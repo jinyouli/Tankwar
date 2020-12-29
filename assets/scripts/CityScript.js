@@ -105,7 +105,7 @@ cc.Class({
         cc.log("this._curMapSize =" + this._curMapSize);
         
         //地图墙层
-        this.mapLayer0 = this._tiledMap.getLayer("layer0");
+        this.mapLayer0 = this._tiledMap.getLayer("layer_0");
 
         //初始化对象池(参数必须为对应脚本的文件名)
         this.bulletPool = new cc.NodePool("BulletScript");
@@ -133,8 +133,8 @@ cc.Class({
         cc.gameData.bulletList = [];
 
         //获取组件
-        //this.tankNode = cc.find("/Canvas/Map/tank");
-        this.tankNode = cc.find("/Canvas/map1/layer0");
+        this.tankNode = cc.find("/Canvas/Map/layer_0");
+        //this.tankNode = cc.find("/Canvas/map1/layer0");
         //加入player
         this.player = this.addPlayerTank();
         //获取坦克控制组件
@@ -395,24 +395,24 @@ cc.Class({
     },
 
     tankBoom: function(tank) {
-        tank.parent = null;
-        tank.getComponent("TankScript").die = true;
-        this.tankPool.put(tank);
+        // tank.parent = null;
+        // tank.getComponent("TankScript").die = true;
+        // this.tankPool.put(tank);
         if(cc.gameData.single && tank.getComponent("TankScript").team == 0){
-            this.life --;
-            this.lifeNum.string = this.life + "";
+            // this.life --;
+            // this.lifeNum.string = this.life + "";
 
-            if(this.life > 0){
-                this.addPlayerTank();
-            }else{
-                this.gameOver();
-            }
-           // tank.getComponent("TankScript").blood = 1;
+            // if(this.life > 0){
+            //     this.addPlayerTank();
+            // }else{
+            //     this.gameOver();
+            // }
+            tank.getComponent("TankScript").blood = 1;
         }
         else{
-            // tank.parent = null;
-            // tank.getComponent("TankScript").die = true;
-            // this.tankPool.put(tank);
+            tank.parent = null;
+            tank.getComponent("TankScript").die = true;
+            this.tankPool.put(tank);
 
             var tankNum = Number(this.enemyNum.string) - 1;
             this.enemyNum.string = tankNum + "";

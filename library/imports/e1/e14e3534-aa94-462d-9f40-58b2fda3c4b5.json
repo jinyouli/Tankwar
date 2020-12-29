@@ -119,7 +119,7 @@
     },
     "_enabled": true,
     "tankType": 0,
-    "speed": 17,
+    "speed": 20,
     "bullet": {
       "__uuid__": "8902e068-37dc-431d-a758-62ec85da295d"
     },

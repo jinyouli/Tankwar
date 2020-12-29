@@ -54,7 +54,7 @@ cc.Class({
     this.updateLevelLabel();
   },
   updateLevelLabel: function updateLevelLabel() {
-    this.curLevelLabel.string = "关卡 " + cc.gameData.curLevel;
+    this.curLevelLabel.string = "Round " + cc.gameData.curLevel;
   } // called every frame, uncomment this function to activate update callback
   // update: function (dt) {
   // },
