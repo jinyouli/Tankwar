@@ -900,8 +900,8 @@
     "relativePath": "resources\\prefabs\\bullet.prefab"
   },
   "e14e3534-aa94-462d-9f40-58b2fda3c4b5": {
-    "asset": 1608893973964,
-    "meta": 1608893973965,
+    "asset": 1609331731456,
+    "meta": 1609331731459,
     "relativePath": "resources\\prefabs\\TankPref.prefab"
   },
   "6aacb368-6ac7-4640-9528-418d5af43560": {
@@ -1025,8 +1025,8 @@
     "relativePath": "resources\\tank.png"
   },
   "dc45c10b-49a2-457e-aa7c-645dd0e74487": {
-    "asset": 1608893939077,
-    "meta": 1608893975335,
+    "asset": 1609246196845,
+    "meta": 1609326038637,
     "relativePath": "scenes\\levelScenes"
   },
   "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3": {
@@ -1075,8 +1075,8 @@
     "relativePath": "scenes\\levelScenes\\CityScene8.fire"
   },
   "1a638409-0db1-4127-bac7-947b76afed54": {
-    "asset": 1608893938067,
-    "meta": 1608893975507,
+    "asset": 1609332301374,
+    "meta": 1609332301389,
     "relativePath": "scenes\\StartScene.fire"
   },
   "190d9473-9616-4136-8e12-b16d39f60146": {
@@ -1139,19 +1139,49 @@
     "meta": 1609245468347,
     "relativePath": "scripts\\TankScript.js"
   },
-  "7f0b0f03-730e-45ee-8585-977ea080a442": {
-    "asset": 1609245558866,
-    "meta": 1609245560579,
-    "relativePath": "scripts\\CityScript.js"
-  },
   "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
     "asset": 1609245891283,
     "meta": 1609245893957,
     "relativePath": "scripts\\TiledMapData.js"
   },
   "b7d4870d-7e83-4f89-8944-401f31862538": {
-    "asset": 1609246313403,
-    "meta": 1609246313423,
+    "asset": 1609332278146,
+    "meta": 1609332278172,
     "relativePath": "scenes\\levelScenes\\CityScene1.fire"
+  },
+  "abdb3f0d-fd85-485d-ae64-75e49b2dda1f": {
+    "asset": 1609330263169,
+    "meta": 1609330468601,
+    "relativePath": "resources\\img\\hero.png"
+  },
+  "5d1d0198-2d26-473c-b5dc-222f8ec16b81": {
+    "asset": 1609331411200,
+    "meta": 1609331411202,
+    "relativePath": "resources\\img"
+  },
+  "24743f36-c052-4056-b8a3-fc5960bf853a": {
+    "asset": 1609331419418,
+    "meta": 1609331419472,
+    "relativePath": "resources\\img\\enemy3.png"
+  },
+  "1ff2e642-9045-4bb6-9c1e-df21d45477d7": {
+    "asset": 1609331419343,
+    "meta": 1609331419478,
+    "relativePath": "resources\\img\\enemy2.png"
+  },
+  "87f2e7f1-607f-4017-93d8-78866b95c446": {
+    "asset": 1609331419419,
+    "meta": 1609331419505,
+    "relativePath": "resources\\img\\enemy4.png"
+  },
+  "f7b67a1e-7744-4b4e-8400-aef3c43f62f9": {
+    "asset": 1609331419418,
+    "meta": 1609331419508,
+    "relativePath": "resources\\img\\enemy1.png"
+  },
+  "7f0b0f03-730e-45ee-8585-977ea080a442": {
+    "asset": 1609332105204,
+    "meta": 1609332108627,
+    "relativePath": "scripts\\CityScript.js"
   }
 }

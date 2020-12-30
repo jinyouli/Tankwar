@@ -85,9 +85,9 @@ cc.Class({
             return;
         }
 
-        // alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {
+        alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {
             
-        // });
+        });
 
         //默认角度
         this.curAngle = null;
@@ -416,18 +416,18 @@ cc.Class({
 
             var tankNum = Number(this.enemyNum.string) - 1;
             this.enemyNum.string = tankNum + "";
-            // if(tankNum == 0){
-            //     if(cc.gameData.curLevel < 10){
-            //         ++cc.gameData.curLevel;
-            //         cc.director.loadScene("CityScene"+ cc.gameData.curLevel);
-            //     }
-            //     else{
-            //         this.doubleFire = false;
-            //         alert.show.call(this, "你赢了", function () {
-            //             cc.director.loadScene("StartScene");
-            //         });
-            //     }
-            // }
+            if(tankNum == 0){
+                if(cc.gameData.curLevel < 10){
+                    ++cc.gameData.curLevel;
+                    cc.director.loadScene("CityScene"+ cc.gameData.curLevel);
+                }
+                else{
+                    this.doubleFire = false;
+                    alert.show.call(this, "你赢了", function () {
+                        cc.director.loadScene("StartScene");
+                    });
+                }
+            }
         }
     },
 

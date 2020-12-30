@@ -81,10 +81,9 @@ cc.Class({
   start: function start(err) {
     if (err) {
       return;
-    } // alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {
-    // });
-    //默认角度
+    }
 
+    alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {}); //默认角度
 
     this.curAngle = null;
     var self = this; //注册监听事件
@@ -389,18 +388,19 @@ cc.Class({
       tank.getComponent("TankScript").die = true;
       this.tankPool.put(tank);
       var tankNum = Number(this.enemyNum.string) - 1;
-      this.enemyNum.string = tankNum + ""; // if(tankNum == 0){
-      //     if(cc.gameData.curLevel < 10){
-      //         ++cc.gameData.curLevel;
-      //         cc.director.loadScene("CityScene"+ cc.gameData.curLevel);
-      //     }
-      //     else{
-      //         this.doubleFire = false;
-      //         alert.show.call(this, "你赢了", function () {
-      //             cc.director.loadScene("StartScene");
-      //         });
-      //     }
-      // }
+      this.enemyNum.string = tankNum + "";
+
+      if (tankNum == 0) {
+        if (cc.gameData.curLevel < 10) {
+          ++cc.gameData.curLevel;
+          cc.director.loadScene("CityScene" + cc.gameData.curLevel);
+        } else {
+          this.doubleFire = false;
+          alert.show.call(this, "你赢了", function () {
+            cc.director.loadScene("StartScene");
+          });
+        }
+      }
     }
   },
   //开火按钮点击
