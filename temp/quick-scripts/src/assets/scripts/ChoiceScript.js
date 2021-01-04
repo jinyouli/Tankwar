@@ -38,7 +38,7 @@ cc.Class({
     });
   },
   onUp: function onUp() {
-    if (cc.gameData.curLevel - 1 <= 0) {
+    if (cc.gameData.curLevel <= 0) {
       return;
     }
 

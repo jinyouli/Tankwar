@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="stone" tilewidth="16" tileheight="16">
+  <image source="landform/stone.jpg" width="200" height="132"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi+gBWI2ahAEwKCQCxEBXoU0AY4AbEzHezxA2J/Otgz6h/ywKh/yAOj/iEPjPpnFIwC0gAAuxIJjQ==
+  </data>
+ </layer>
+</map>

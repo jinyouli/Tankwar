@@ -36,7 +36,7 @@ cc.Class({
     },
 
     onUp: function () {
-        if(cc.gameData.curLevel-1 <= 0){
+        if(cc.gameData.curLevel <= 0){
             return;
         }
         cc.gameData.curLevel -= 1; 
