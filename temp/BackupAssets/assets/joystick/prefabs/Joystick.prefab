@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "Joystick",
+    "_name": "",
     "_objFlags": 0,
     "_native": "",
     "data": {
@@ -107,8 +107,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 303,
-      "height": 299
+      "width": 112,
+      "height": 112
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -160,7 +160,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "21a1f08e-032c-4293-b0ec-147f7372177d"
+      "__uuid__": "4cdde622-b220-49e8-b653-3b7863d998cc"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -214,8 +214,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 112,
-      "height": 112
+      "width": 304,
+      "height": 302
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -267,7 +267,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "4cdde622-b220-49e8-b653-3b7863d998cc"
+      "__uuid__": "21a1f08e-032c-4293-b0ec-147f7372177d"
     },
     "_type": 0,
     "_sizeMode": 1,

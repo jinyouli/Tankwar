@@ -20,7 +20,7 @@
                 ],
                 "height": 226,
                 "type": "panel",
-                "width": 329
+                "width": 261
               },
               {
                 "active": 0,
@@ -30,12 +30,12 @@
                 ],
                 "height": 426,
                 "type": "panel",
-                "width": 329
+                "width": 261
               }
             ],
             "height": 655,
             "type": "dock-v",
-            "width": 329
+            "width": 261
           },
           {
             "children": [
@@ -46,23 +46,23 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 347.28125,
+                    "height": 354.5,
                     "type": "panel",
-                    "width": 414
+                    "width": 469
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
-                    "height": 347.28125,
+                    "height": 354.5,
                     "type": "panel",
-                    "width": 285
+                    "width": 323
                   }
                 ],
-                "height": 347.28125,
+                "height": 354.5,
                 "type": "dock-h",
-                "width": 702
+                "width": 795
               },
               {
                 "active": 0,
@@ -71,14 +71,14 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 273.21875,
+                "height": 266,
                 "type": "panel",
-                "width": 702
+                "width": 795
               }
             ],
             "height": 623.5,
             "type": "dock-v",
-            "width": 702
+            "width": 795
           },
           {
             "active": 0,
@@ -88,7 +88,7 @@
             ],
             "height": 623.5,
             "type": "panel",
-            "width": 329
+            "width": 304
           }
         ],
         "type": "dock-h"
@@ -107,7 +107,14 @@
       ]
     }
   },
-  "panels": {},
+  "panels": {
+    "sprite-editor": {
+      "x": 425,
+      "y": 84,
+      "width": 516,
+      "height": 539
+    }
+  },
   "panelLabelWidth": {
     "inspector": null
   }
