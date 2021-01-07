@@ -525,8 +525,8 @@
     "relativePath": "joystick\\JoystickScene.fire"
   },
   "96e72d7b-3a39-4b8a-8fef-5bf7ff2b2479": {
-    "asset": 1608893879935,
-    "meta": 1608893973177,
+    "asset": 1609847350322,
+    "meta": 1609930460476,
     "relativePath": "joystick\\textures"
   },
   "a2b2517b-fd42-44e5-b005-a9afac2c0466": {
@@ -540,8 +540,8 @@
     "relativePath": "migration\\use_v2.0.x_cc.Toggle_event.js"
   },
   "4317535f-fedc-4a49-911b-8bf143bfb39d": {
-    "asset": 1609414568002,
-    "meta": 1609756971138,
+    "asset": 1610016554460,
+    "meta": 1610018711993,
     "relativePath": "resources"
   },
   "7b18ce3b-8acc-47fa-a4f0-396a962b7069": {
@@ -575,13 +575,13 @@
     "relativePath": "resources\\blast.png"
   },
   "ee75bbc9-d5a8-4ae0-9d83-d1549a4210f0": {
-    "asset": 1609760242634,
-    "meta": 1609843897178,
+    "asset": 1610020188761,
+    "meta": 1610021730407,
     "relativePath": "resources\\maps"
   },
   "9a838efa-f4a2-4fc5-9700-64e764b1042e": {
-    "asset": 1609760238142,
-    "meta": 1609843897182,
+    "asset": 1610019431592,
+    "meta": 1610021730410,
     "relativePath": "resources\\maps\\landform"
   },
   "b80feaeb-ec5d-4062-b8bf-ae3a23375970": {
@@ -1040,8 +1040,8 @@
     "relativePath": "scenes\\levelScenes\\CityScene8.fire"
   },
   "1a638409-0db1-4127-bac7-947b76afed54": {
-    "asset": 1609849754045,
-    "meta": 1609849754062,
+    "asset": 1610023496032,
+    "meta": 1610023496052,
     "relativePath": "scenes\\StartScene.fire"
   },
   "190d9473-9616-4136-8e12-b16d39f60146": {
@@ -1110,8 +1110,8 @@
     "relativePath": "resources\\img\\hero.png"
   },
   "5d1d0198-2d26-473c-b5dc-222f8ec16b81": {
-    "asset": 1609331424491,
-    "meta": 1609408469913,
+    "asset": 1610016700349,
+    "meta": 1610018711997,
     "relativePath": "resources\\img"
   },
   "24743f36-c052-4056-b8a3-fc5960bf853a": {
@@ -1134,90 +1134,20 @@
     "meta": 1609331419508,
     "relativePath": "resources\\img\\enemy1.png"
   },
-  "4f73fe0d-163e-4a28-8273-417dd6f96f29": {
-    "asset": 1609414592926,
-    "meta": 1609756971142,
-    "relativePath": "resources\\testimg"
-  },
-  "46961979-e96a-45e2-b341-94423282f8e5": {
-    "asset": 1609413368455,
-    "meta": 1609414593194,
-    "relativePath": "resources\\testimg\\215afb79-cf53-494f-bde8-912cbf2a8e34_orig.jpg"
-  },
-  "185dfc9e-1f68-494b-925d-302de99a9ab6": {
-    "asset": 1609413489462,
-    "meta": 1609414593201,
-    "relativePath": "resources\\testimg\\41031feb-887e-41d7-9058-7eb76e2c04a6_orig.jpg"
-  },
-  "a815030d-afa2-45b7-b7e3-3071d07adc1f": {
-    "asset": 1609413652679,
-    "meta": 1609414593287,
-    "relativePath": "resources\\testimg\\4d2eabc8-a64d-445b-bae7-47d9aa43bf0f_orig.png"
-  },
-  "18c89f77-a444-45a4-8df4-3f0f92250623": {
-    "asset": 1609413605479,
-    "meta": 1609414593592,
-    "relativePath": "resources\\testimg\\84608b7c-f965-4648-b208-744cef2c53bc_orig.png"
-  },
-  "99167c8a-3cb4-46c6-96b3-b80d62e4e1a7": {
-    "asset": 1609413662966,
-    "meta": 1609414593681,
-    "relativePath": "resources\\testimg\\850440f4-1593-4483-a685-dbb99d965c1e_orig.png"
-  },
-  "c9c36e5c-c10f-4d05-a299-180dcd62fa1a": {
-    "asset": 1609413705342,
-    "meta": 1609414593770,
-    "relativePath": "resources\\testimg\\a5828a2d-cc5d-4999-9833-c7e9d7ac2ba6_orig.png"
-  },
-  "aefc43e1-e0d3-4d07-a76e-f6e185821f62": {
-    "asset": 1609413763008,
-    "meta": 1609414593859,
-    "relativePath": "resources\\testimg\\ada21eba-8f30-4257-b513-bb5571517f8f_orig.png"
-  },
-  "0f61a2c6-75d1-4707-a195-f7b93965b2d5": {
-    "asset": 1609413695743,
-    "meta": 1609414593948,
-    "relativePath": "resources\\testimg\\cd923d8e-fdfa-4927-8c58-2cac2baa6434_orig.png"
-  },
-  "df0c37cf-0a78-4502-b07b-f6bae981751d": {
-    "asset": 1609413500517,
-    "meta": 1609414594033,
-    "relativePath": "resources\\testimg\\fd7060aa-814c-4b20-9cef-c0c869d47efc_orig.jpg"
-  },
-  "9f8898ec-4b68-4a30-b0ec-74e31891bc6b": {
-    "asset": 1609413579538,
-    "meta": 1609414594039,
-    "relativePath": "resources\\testimg\\6f0bcb4c-6ada-4384-aad8-64a5bf97a003_orig.png"
-  },
   "4d15fe15-0de9-4533-b236-f79eaad4906d": {
-    "asset": 1609848912345,
-    "meta": 1609848912377,
+    "asset": 1610020231893,
+    "meta": 1610020231917,
     "relativePath": "scenes\\levelScenes\\CityScene0.fire"
-  },
-  "e746dff5-8554-4b61-b6b4-926d437bb6b8": {
-    "asset": 1609760238139,
-    "meta": 1609760238293,
-    "relativePath": "resources\\maps\\landform\\stone.jpg"
   },
   "39360c0f-6db1-4783-a118-8dc4d5d86af4": {
     "asset": 1609760689230,
     "meta": 1609760692794,
     "relativePath": "resources\\maps\\map.tmx"
   },
-  "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
-    "asset": 1609761387589,
-    "meta": 1609761394154,
-    "relativePath": "scripts\\TiledMapData.js"
-  },
   "e34105df-8fb7-4623-b5f6-fe6c2b3d716c": {
     "asset": 1609761880671,
     "meta": 1609761883277,
     "relativePath": "scripts\\ChoiceScript.js"
-  },
-  "7f0b0f03-730e-45ee-8585-977ea080a442": {
-    "asset": 1609762100197,
-    "meta": 1609762109792,
-    "relativePath": "scripts\\CityScript.js"
   },
   "5a823ffc-18d0-45f7-960e-02013631df02": {
     "asset": 1609846451548,
@@ -1243,5 +1173,65 @@
     "asset": 1609849687132,
     "meta": 1609849689631,
     "relativePath": "joystick\\scripts\\JoystickCtrl.js"
+  },
+  "5f077e1c-157a-4d10-8990-d076858e4af2": {
+    "asset": 1610016700341,
+    "meta": 1610016700439,
+    "relativePath": "resources\\img\\bmg1.png"
+  },
+  "3ad2bc92-2bbd-46b3-83aa-f0c997813ee3": {
+    "asset": 1610018963493,
+    "meta": 1610019431648,
+    "relativePath": "resources\\maps\\star.tmx"
+  },
+  "ece19d25-f256-497a-9637-171737859f94": {
+    "asset": 1610017867218,
+    "meta": 1610019431641,
+    "relativePath": "resources\\maps\\landform\\stoneimg.png"
+  },
+  "13d2c6a6-43ce-4175-8d09-640263682214": {
+    "asset": 1610020188755,
+    "meta": 1610020188778,
+    "relativePath": "resources\\maps\\star2.tmx"
+  },
+  "7f0b0f03-730e-45ee-8585-977ea080a442": {
+    "asset": 1610023332537,
+    "meta": 1610023335253,
+    "relativePath": "scripts\\CityScript.js"
+  },
+  "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
+    "asset": 1610023405047,
+    "meta": 1610023412178,
+    "relativePath": "scripts\\TiledMapData.js"
+  },
+  "a0517c28-dab3-4c76-93c3-dab072ff5752": {
+    "asset": 1610023487136,
+    "meta": 1610023487578,
+    "relativePath": "resources\\img\\bmg5.png"
+  },
+  "2a142d66-aca1-4909-ad80-55e12b607a8d": {
+    "asset": 1610023487139,
+    "meta": 1610023487584,
+    "relativePath": "resources\\img\\bmg6.png"
+  },
+  "1a8a6180-7ad6-48ec-8b68-50fb59f9d1e9": {
+    "asset": 1610023487188,
+    "meta": 1610023487655,
+    "relativePath": "resources\\img\\bmg4.png"
+  },
+  "f470b295-7cb5-4d7d-96f7-194097a8aba6": {
+    "asset": 1610023487326,
+    "meta": 1610023487737,
+    "relativePath": "resources\\img\\bmg7.png"
+  },
+  "96708dc9-7d3d-411f-a0f9-7f281c132d46": {
+    "asset": 1610023487236,
+    "meta": 1610023487862,
+    "relativePath": "resources\\img\\bmg3.png"
+  },
+  "e1a5cfc2-a178-44e3-8b3b-145f9ae8553a": {
+    "asset": 1610023487450,
+    "meta": 1610023488337,
+    "relativePath": "resources\\img\\bmg2.png"
   }
 }
