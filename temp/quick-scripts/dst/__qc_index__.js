@@ -23,6 +23,7 @@ require('./assets/scripts/StartScript');
 require('./assets/scripts/TankData');
 require('./assets/scripts/TankScript');
 require('./assets/scripts/TiledMapData');
+require('./assets/scripts/Zindex');
 
                     }
                     if (nodeEnv) {
