@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "JoystickBG",
-    "texture": "5a823ffc-18d0-45f7-960e-02013631df02",
+    "name": "image",
+    "texture": "51fbbbbd-6de8-4e5d-9581-d5d4254a859a",
     "atlas": "",
     "rect": [
-      1,
-      1,
-      112,
-      112
+      32,
+      0,
+      192,
+      32
     ],
     "offset": [
-      0.5,
-      -0.5
+      16,
+      0
     ],
     "originalSize": [
-      113,
-      113
+      224,
+      32
     ],
     "capInsets": [
       0,

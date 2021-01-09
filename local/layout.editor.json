@@ -20,7 +20,11 @@
                 ],
                 "height": 226,
                 "type": "panel",
+<<<<<<< HEAD
                 "width": 218
+=======
+                "width": 329
+>>>>>>> parent of 9f66940... save
               },
               {
                 "active": 0,
@@ -30,12 +34,20 @@
                 ],
                 "height": 426,
                 "type": "panel",
+<<<<<<< HEAD
                 "width": 218
+=======
+                "width": 329
+>>>>>>> parent of 9f66940... save
               }
             ],
             "height": 655,
             "type": "dock-v",
+<<<<<<< HEAD
             "width": 218
+=======
+            "width": 329
+>>>>>>> parent of 9f66940... save
           },
           {
             "children": [
@@ -46,15 +58,22 @@
                     "children": [
                       "scene"
                     ],
+<<<<<<< HEAD
                     "height": 346.71875,
                     "type": "panel",
                     "width": 551
+=======
+                    "height": 347.28125,
+                    "type": "panel",
+                    "width": 414
+>>>>>>> parent of 9f66940... save
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
+<<<<<<< HEAD
                     "height": 346.71875,
                     "type": "panel",
                     "width": 280
@@ -63,6 +82,16 @@
                 "height": 346.71875,
                 "type": "dock-h",
                 "width": 834
+=======
+                    "height": 347.28125,
+                    "type": "panel",
+                    "width": 285
+                  }
+                ],
+                "height": 347.28125,
+                "type": "dock-h",
+                "width": 702
+>>>>>>> parent of 9f66940... save
               },
               {
                 "active": 0,
@@ -71,14 +100,24 @@
                   "timeline",
                   "game-window"
                 ],
+<<<<<<< HEAD
                 "height": 273.765625,
                 "type": "panel",
                 "width": 834
+=======
+                "height": 273.21875,
+                "type": "panel",
+                "width": 702
+>>>>>>> parent of 9f66940... save
               }
             ],
             "height": 623.5,
             "type": "dock-v",
+<<<<<<< HEAD
             "width": 834
+=======
+            "width": 702
+>>>>>>> parent of 9f66940... save
           },
           {
             "active": 0,
@@ -88,7 +127,11 @@
             ],
             "height": 623.5,
             "type": "panel",
+<<<<<<< HEAD
             "width": 308
+=======
+            "width": 329
+>>>>>>> parent of 9f66940... save
           }
         ],
         "type": "dock-h"
@@ -107,6 +150,7 @@
       ]
     }
   },
+<<<<<<< HEAD
   "panels": {
     "sprite-editor": {
       "x": 425,
@@ -121,6 +165,9 @@
       "height": 728
     }
   },
+=======
+  "panels": {},
+>>>>>>> parent of 9f66940... save
   "panelLabelWidth": {
     "inspector": null
   }

@@ -60,7 +60,7 @@ cc.Class({
     this.curAngle = 0;
     this.initPos = this.node.position;
     this.initBarPos = this.joystickBar.position;
-    this.node.opacity = 255;
+    this.node.opacity = 50;
   },
   addJoyStickTouchChangeListener: function addJoyStickTouchChangeListener(callback) {
     this.angleChange = callback;
@@ -112,8 +112,7 @@ cc.Class({
 
         this._getAngle(touchPos);
       } else {
-        //this.node.opacity = 50
-        this.node.opacity = 255; //摇杆恢复位置
+        this.node.opacity = 50; //摇杆恢复位置
 
         this.joystickBar.setPosition(cc.Vec2(0, 0));
         this.curAngle = null; //调用角度变化回调
@@ -139,8 +138,7 @@ cc.Class({
     }
   },
   onTouchEnded: function onTouchEnded(event) {
-    //this.node.opacity = 50
-    this.node.opacity = 255; //如果触摸类型为FOLLOW，离开触摸后隐藏
+    this.node.opacity = 50; //如果触摸类型为FOLLOW，离开触摸后隐藏
 
     if (this.touchType == TouchType.FOLLOW) {
       this.node.position = this.initPos;
