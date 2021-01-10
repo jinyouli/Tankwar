@@ -219,12 +219,7 @@ cc.Class({
     },
 
     turnGreen: function(index){
-        //this.node.getComponent(cc.Sprite).spriteFrame = this.spriteFrames[index];
-        if(index == 0){
-            this.node.opacity = 55
-        }else{
-            this.node.opacity = 255
-        }
+        this.node.getComponent(cc.Sprite).spriteFrame = this.spriteFrames[index];
     },
 
 });

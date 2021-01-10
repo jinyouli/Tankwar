@@ -128,7 +128,7 @@ cc.Class({
 
     cc.gameData.bulletList = []; //获取组件
 
-    this.tankNode = cc.find("/Canvas/Map"); //this.tankNode = cc.find("/Canvas/map1/layer0");
+    this.tankNode = cc.find("/Canvas/Map/layer_0"); //this.tankNode = cc.find("/Canvas/map1/layer0");
     //加入player
 
     this.player = this.addPlayerTank(); //获取坦克控制组件
@@ -149,11 +149,9 @@ cc.Class({
     this.doubleFire = !this.doubleFire;
 
     if (this.doubleFire) {
-      //this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
-      this.doubleFireBtn.opacity = 235;
+      this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
     } else {
-      //this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[0];
-      this.doubleFireBtn.opacity = 255;
+      this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[0];
     }
   },
   //注册输入事件
@@ -249,6 +247,8 @@ cc.Class({
     var gid = this.mapLayer0.getTileGIDAt(cc.v2(parseInt(point.x / this._curMapTileSize.width), parseInt(point.y / this._curMapTileSize.height)));
 
     if (this._tiledMapData.gidToTileType[gid] != this._tiledMapData.tileType.tileNone && this._tiledMapData.gidToTileType[gid] != this._tiledMapData.tileType.tileGrass) {
+      cc.log("gid =" + gid);
+
       if (bullet && this._tiledMapData.gidToTileType[gid] == this._tiledMapData.tileType.tileWall) {
         this.mapLayer0.setTileGIDAt(0, parseInt(point.x / this._curMapTileSize.width), parseInt(point.y / this._curMapTileSize.height), 1);
       } else if (bullet && this._tiledMapData.gidToTileType[gid] == this._tiledMapData.tileType.tileKing) {
@@ -258,6 +258,7 @@ cc.Class({
         // this.mapLayer0.setTileGIDAt(0, 13, 24, 1);
         this.mapLayer0.setTileGIDAt(0, parseInt(point.x / this._curMapTileSize.width), parseInt(point.y / this._curMapTileSize.height), 1);
         this.gameOver();
+        cc.log("失败");
       }
 
       return true;
@@ -299,7 +300,6 @@ cc.Class({
 
       tankCtrl.blood = 1;
       tankCtrl.die = false;
-      tankCtrl.zIndex = -1;
 
       if (!team) {
         if (cc.gameData.single) {
@@ -337,7 +337,6 @@ cc.Class({
       tankCtrl.fireTime = this.tankFireTimes[index];
       tankCtrl.blood = this.tankBloods[index];
       tankCtrl.die = false;
-      tankCtrl.zIndex = -1;
 
       if (!team) {
         if (cc.gameData.single) {
@@ -377,20 +376,15 @@ cc.Class({
     }
   },
   tankBoom: function tankBoom(tank) {
-    tank.parent = null;
-    tank.getComponent("TankScript").die = true;
-    this.tankPool.put(tank);
-
+    // tank.parent = null;
+    // tank.getComponent("TankScript").die = true;
+    // this.tankPool.put(tank);
     if (cc.gameData.single && tank.getComponent("TankScript").team == 0) {
       this.life--;
       this.lifeNum.string = this.life + "";
 
       if (this.life > 0) {
         this.addPlayerTank();
-
-        if (this.doubleFire) {
-          this.setDoubleFire();
-        }
       } else {
         this.gameOver();
       }

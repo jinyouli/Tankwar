@@ -5,7 +5,7 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 2,
+      "x": 0,
       "y": 0,
       "width": 1366,
       "height": 753,
@@ -21,10 +21,14 @@
                 "height": 226,
                 "type": "panel",
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "width": 218
 =======
                 "width": 329
 >>>>>>> parent of 9f66940... save
+=======
+                "width": 204
+>>>>>>> parent of ae1aa1c... 完成
               },
               {
                 "active": 0,
@@ -35,19 +39,27 @@
                 "height": 426,
                 "type": "panel",
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "width": 218
 =======
                 "width": 329
 >>>>>>> parent of 9f66940... save
+=======
+                "width": 204
+>>>>>>> parent of ae1aa1c... 完成
               }
             ],
             "height": 655,
             "type": "dock-v",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "width": 218
 =======
             "width": 329
 >>>>>>> parent of 9f66940... save
+=======
+            "width": 204
+>>>>>>> parent of ae1aa1c... 完成
           },
           {
             "children": [
@@ -59,6 +71,7 @@
                       "scene"
                     ],
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "height": 346.71875,
                     "type": "panel",
                     "width": 551
@@ -67,6 +80,11 @@
                     "type": "panel",
                     "width": 414
 >>>>>>> parent of 9f66940... save
+=======
+                    "height": 351.71875,
+                    "type": "panel",
+                    "width": 451
+>>>>>>> parent of ae1aa1c... 完成
                   },
                   {
                     "active": 0,
@@ -74,13 +92,18 @@
                       "node-library"
                     ],
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "height": 346.71875,
+=======
+                    "height": 351.71875,
+>>>>>>> parent of ae1aa1c... 完成
                     "type": "panel",
-                    "width": 280
+                    "width": 382
                   }
                 ],
-                "height": 346.71875,
+                "height": 351.71875,
                 "type": "dock-h",
+<<<<<<< HEAD
                 "width": 834
 =======
                     "height": 347.28125,
@@ -92,6 +115,9 @@
                 "type": "dock-h",
                 "width": 702
 >>>>>>> parent of 9f66940... save
+=======
+                "width": 836
+>>>>>>> parent of ae1aa1c... 完成
               },
               {
                 "active": 0,
@@ -101,6 +127,7 @@
                   "game-window"
                 ],
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "height": 273.765625,
                 "type": "panel",
                 "width": 834
@@ -109,15 +136,24 @@
                 "type": "panel",
                 "width": 702
 >>>>>>> parent of 9f66940... save
+=======
+                "height": 277.78125,
+                "type": "panel",
+                "width": 836
+>>>>>>> parent of ae1aa1c... 完成
               }
             ],
-            "height": 623.5,
+            "height": 632.5,
             "type": "dock-v",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "width": 834
 =======
             "width": 702
 >>>>>>> parent of 9f66940... save
+=======
+            "width": 836
+>>>>>>> parent of ae1aa1c... 完成
           },
           {
             "active": 0,
@@ -125,13 +161,17 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 623.5,
+            "height": 632.5,
             "type": "panel",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "width": 308
 =======
             "width": 329
 >>>>>>> parent of 9f66940... save
+=======
+            "width": 304
+>>>>>>> parent of ae1aa1c... 完成
           }
         ],
         "type": "dock-h"
@@ -157,12 +197,6 @@
       "y": 84,
       "width": 516,
       "height": 539
-    },
-    "builder": {
-      "x": 417,
-      "y": 0,
-      "width": 516,
-      "height": 728
     }
   },
 =======

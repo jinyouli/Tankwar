@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "star",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"26\" height=\"26\" tilewidth=\"16\" tileheight=\"16\">\n <tileset firstgid=\"1\" name=\"star\" tilewidth=\"16\" tileheight=\"16\">\n  <image source=\"landform/stoneimg.png\" width=\"384\" height=\"64\"/>\n </tileset>\n <layer name=\"layer_0\" width=\"26\" height=\"26\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJztkckKgDAMBQVX0JsruILeXP//63yXgpRWY1BB6MAwUApNqGUZnsCGDqN3KWHFqOEbXOgR6sOAUB01bAhtYUfo1T5vI+Z9G+4+8v9dwd1H/r+/E8LopBxSmElnPRxOymGGi3RGmTuGiaJibl2PUOYe4aSomFtXgyGHxQfvrHC7cX8HZD0MKw==\n  </data>\n </layer>\n</map>\n",
+  "textures": [
+    {
+      "__uuid__": "ece19d25-f256-497a-9637-171737859f94"
+    }
+  ],
+  "textureNames": [
+    "landform/stoneimg.png"
+  ],
+  "textureSizes": [
+    {
+      "__type__": "cc.Size",
+      "width": 384,
+      "height": 64
+    }
+  ],
+  "imageLayerTextures": [],
+  "imageLayerTextureNames": [],
+  "tsxFiles": [],
+  "tsxFileNames": []
+}
