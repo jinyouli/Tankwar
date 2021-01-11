@@ -195,7 +195,7 @@
       "array": [
         0,
         0,
-        290.9845356715714,
+        269.33390057696045,
         0,
         0,
         0,
@@ -704,7 +704,7 @@
     },
     "_enabled": true,
     "_tmxFile": {
-      "__uuid__": "0f71fa6a-3ce3-4ff1-94f8-2e6c81e52884"
+      "__uuid__": "ea186c77-e95b-4d50-8470-77f7e6c11a0a"
     },
     "_id": "21fjG/BdNB6IF3uH0p6+aD"
   },
@@ -1360,9 +1360,7 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_spriteFrame": {
-      "__uuid__": "87ec8436-56e5-4a82-91dd-167ba98b5100"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_sizeMode": 1,
     "_fillType": 0,
@@ -1454,9 +1452,7 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_spriteFrame": {
-      "__uuid__": "d5ff628b-6be3-4754-98ac-828e34498207"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_sizeMode": 1,
     "_fillType": 0,

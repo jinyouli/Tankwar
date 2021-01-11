@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="13" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="star" tilewidth="32" tileheight="32">
-  <image source="landform/stoneimg.png" width="384" height="64"/>
+  <image source="landform/stoneimg.png" width="416" height="64"/>
  </tileset>
  <layer name="layer_0" width="13" height="13">
   <data encoding="base64" compression="zlib">
-   eJxjYKAtYIFiGGAigJH1EQPI0YPuPhDgQsPcWDC9ACcV9XCiYXY0PFgADx45ACQzAOQ=
+   eJydUYsKgCAMHG4Spf3/75bg0XVKSAfDvW6bm9k/xC3e9dLthkxv6gK4cJq+U050XhAnEadSDD7kO3GC8irNxH184jfiKFAfdTeJH/b++wqKPfODo3s0G3eifVxs+Jij0D3C9zX7rE+a2Hz3vDBLyz1tvANwAd+rAVI=
   </data>
  </layer>
 </map>

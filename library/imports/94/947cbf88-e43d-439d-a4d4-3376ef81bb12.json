@@ -2,20 +2,20 @@
   "__type__": "cc.SpriteFrame",
   "content": {
     "name": "stoneimg",
-    "texture": "ece19d25-f256-497a-9637-171737859f94",
+    "texture": "573edc7d-225b-43f8-9549-55d360228f14",
     "atlas": "",
     "rect": [
       32,
       1,
-      350,
-      32
+      383,
+      31
     ],
     "offset": [
-      15,
-      15
+      15.5,
+      15.5
     ],
     "originalSize": [
-      384,
+      416,
       64
     ],
     "capInsets": [
