@@ -54,7 +54,7 @@ cc.Class({
         this.initPos = this.node.position
         this.initBarPos = this.joystickBar.position
         
-        this.node.opacity = 255
+        this.node.opacity = 50
     },
 
     addJoyStickTouchChangeListener: function(callback) {
@@ -115,8 +115,7 @@ cc.Class({
                 //更新角度
                 this._getAngle(touchPos)
             }else {
-                //this.node.opacity = 50
-                this.node.opacity = 255
+                this.node.opacity = 50
                 //摇杆恢复位置
                 this.joystickBar.setPosition(cc.Vec2(0,0));
             
@@ -144,8 +143,7 @@ cc.Class({
 
     },
     onTouchEnded: function(event) {        
-        //this.node.opacity = 50
-        this.node.opacity = 255
+        this.node.opacity = 50
 
         //如果触摸类型为FOLLOW，离开触摸后隐藏
         if(this.touchType == TouchType.FOLLOW){

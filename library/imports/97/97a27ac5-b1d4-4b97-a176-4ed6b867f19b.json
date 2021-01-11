@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "left_press",
+    "texture": "96c21fd8-4e49-4364-b548-2137f70d6ce6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
