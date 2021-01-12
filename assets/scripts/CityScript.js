@@ -268,24 +268,20 @@ cc.Class({
         if (this._tiledMapData.gidToTileType[gid] != this._tiledMapData.tileType.tileNone && 
             this._tiledMapData.gidToTileType[gid] != this._tiledMapData.tileType.tileGrass){
 
-            cc.log("gid =" + gid);
             if(bullet && this._tiledMapData.gidToTileType[gid] == this._tiledMapData.tileType.tileWall){
-                this.mapLayer0.setTileGIDAt(0, parseInt(point.x / this._curMapTileSize.width),parseInt(point.y / this._curMapTileSize.height), 1);
+
+                var num = parseInt(Math.random()*(13-10+1)+10,10);
+ 
+                this.mapLayer0.setTileGIDAt(num, parseInt(point.x / this._curMapTileSize.width),parseInt(point.y / this._curMapTileSize.height), 1);
             }
             else if(bullet && this._tiledMapData.gidToTileType[gid] == this._tiledMapData.tileType.tileKing){
-                
-                // this.mapLayer0.setTileGIDAt(0, 12, 25, 1);
-                // this.mapLayer0.setTileGIDAt(0, 12, 24, 1);
-                // this.mapLayer0.setTileGIDAt(0, 13, 25, 1);
-                // this.mapLayer0.setTileGIDAt(0, 13, 24, 1);
 
                 this.mapLayer0.setTileGIDAt(0, parseInt(point.x / this._curMapTileSize.width),parseInt(point.y / this._curMapTileSize.height), 1);
-
                 this.gameOver();
-                cc.log("失败");
             }
             return true;
         }
+
         if(points.length>0){
             return this._collisionTest(points, bullet);
         }else{

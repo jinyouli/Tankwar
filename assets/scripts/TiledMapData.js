@@ -11,7 +11,9 @@ var _tileType = cc.Enum({
 
 var _gidToTileType = [
 	_tileType.tileNone,
-    _tileType.tileNone, _tileType.tileWall, _tileType.tileWall, _tileType.tileWall, _tileType.tileWall, _tileType.tileRiver, _tileType.tileRiver, _tileType.tileRiver, _tileType.tileRiver, _tileType.tileGrass, _tileType.tileGrass, _tileType.tileKing,
+    _tileType.tileNone, 
+    _tileType.tileWall, _tileType.tileWall, _tileType.tileWall, _tileType.tileWall, 
+    _tileType.tileRiver, _tileType.tileRiver, _tileType.tileRiver, _tileType.tileRiver, _tileType.tileGrass, _tileType.tileGrass, _tileType.tileGrass, _tileType.tileGrass,_tileType.tileKing,
 
     _tileType.tileNone,
     _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone, _tileType.tileNone

@@ -3,7 +3,7 @@
   "_name": "star2",
   "_objFlags": 0,
   "_native": "",
-  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"13\" height=\"13\" tilewidth=\"32\" tileheight=\"32\">\n <tileset firstgid=\"1\" name=\"star\" tilewidth=\"32\" tileheight=\"32\">\n  <image source=\"landform/stoneimg.png\" width=\"384\" height=\"64\"/>\n </tileset>\n <layer name=\"layer_0\" width=\"13\" height=\"13\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJxjYKAtYIFiGGAigJH1EQPI0YPuPhDgQsPcWDC9ACcV9XCiYXY0PFgADx45ACQzAOQ=\n  </data>\n </layer>\n</map>\n",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<map version=\"1.0\" orientation=\"orthogonal\" renderorder=\"right-down\" width=\"13\" height=\"13\" tilewidth=\"32\" tileheight=\"32\">\r\n <tileset firstgid=\"1\" name=\"star\" tilewidth=\"32\" tileheight=\"32\">\r\n  <image source=\"landform/stoneimg.png\" width=\"384\" height=\"64\"/>\r\n </tileset>\r\n <layer name=\"layer_0\" width=\"13\" height=\"13\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJxjYKAtYIFiGGAigJH1EQPI0YPuPhDgQsPcWDC9ACcV9XCiYXY0PFgADx45ACQzAOQ=\r\n  </data>\r\n </layer>\r\n</map>\r\n",
   "textures": [
     {
       "__uuid__": "ece19d25-f256-497a-9637-171737859f94"
