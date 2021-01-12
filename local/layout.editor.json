@@ -5,20 +5,37 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": -8,
-      "y": -8,
-      "width": 1382,
-      "height": 744,
+      "x": 2,
+      "y": 0,
+      "width": 1366,
+      "height": 753,
       "layout": {
         "children": [
           {
-            "active": 0,
             "children": [
-              "hierarchy"
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 226,
+                "type": "panel",
+                "width": 218
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets",
+                  "cloud-function"
+                ],
+                "height": 426,
+                "type": "panel",
+                "width": 218
+              }
             ],
-            "height": 626,
-            "type": "panel",
-            "width": 206.421875
+            "height": 655,
+            "type": "dock-v",
+            "width": 218
           },
           {
             "children": [
@@ -29,55 +46,39 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 349.71875,
+                    "height": 346.71875,
                     "type": "panel",
-                    "width": 556.578125
+                    "width": 551
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
-                    "height": 349.71875,
+                    "height": 346.71875,
                     "type": "panel",
-                    "width": 286.375
+                    "width": 280
                   }
                 ],
-                "height": 349.71875,
+                "height": 346.71875,
                 "type": "dock-h",
-                "width": 845.953125
+                "width": 834
               },
               {
+                "active": 0,
                 "children": [
-                  {
-                    "active": 0,
-                    "children": [
-                      "assets"
-                    ],
-                    "height": 273.28125,
-                    "type": "panel",
-                    "width": 332.9375
-                  },
-                  {
-                    "active": 0,
-                    "children": [
-                      "console",
-                      "timeline",
-                      "game-window"
-                    ],
-                    "height": 273.28125,
-                    "type": "panel",
-                    "width": 510.015625
-                  }
+                  "console",
+                  "timeline",
+                  "game-window"
                 ],
-                "height": 273.28125,
-                "type": "dock-h",
-                "width": 845.953125
+                "height": 273.765625,
+                "type": "panel",
+                "width": 834
               }
             ],
-            "height": 626,
+            "height": 623.5,
             "type": "dock-v",
-            "width": 845.953125
+            "width": 834
           },
           {
             "active": 0,
@@ -85,18 +86,19 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 626,
+            "height": 623.5,
             "type": "panel",
-            "width": 307.625
+            "width": 308
           }
         ],
         "type": "dock-h"
       },
       "panels": [
         "hierarchy",
+        "assets",
+        "cloud-function",
         "scene",
         "node-library",
-        "assets",
         "console",
         "timeline",
         "game-window",
@@ -117,28 +119,9 @@
       "y": 0,
       "width": 516,
       "height": 728
-    },
-    "preferences": {
-      "x": 545,
-      "y": 90,
-      "width": 600,
-      "height": 565
-    },
-    "assets": {
-      "x": 594,
-      "y": 295,
-      "width": 569,
-      "height": 439
-    },
-    "cloud-function": {
-      "x": 525,
-      "y": 134,
-      "width": 316,
-      "height": 439
     }
   },
   "panelLabelWidth": {
-    "inspector": null,
-    "preferences": null
+    "inspector": null
   }
 }
