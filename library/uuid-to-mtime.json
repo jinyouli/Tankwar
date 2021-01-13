@@ -1136,8 +1136,8 @@
   },
   "6e7937fe-b2a5-401e-91ee-a4e402db9edf": {
     "asset": 1610455479676,
-    "meta": 1610455481365,
-    "relativePath": "resources\\maps\\Map1.tmx"
+    "meta": 1610541112858,
+    "relativePath": "resources\\maps\\Map0.tmx"
   },
   "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
     "asset": 1610456025261,
@@ -1213,5 +1213,55 @@
     "asset": 1610539822287,
     "meta": 1610539825678,
     "relativePath": "scripts\\CityScript.js"
+  },
+  "875c060a-b66e-4696-b2fc-f31d1246597f": {
+    "asset": 1610541143002,
+    "meta": 1610541143020,
+    "relativePath": "resources\\maps\\Map1.tmx"
+  },
+  "08cca8d6-9019-4721-8558-a783f715ecfa": {
+    "asset": 1610541330300,
+    "meta": 1610541330367,
+    "relativePath": "scenes\\levelScenes\\CityScene0 - 002.fire"
+  },
+  "561d1d9e-2b26-49c4-afbc-28e96c5cab39": {
+    "asset": 1610541343732,
+    "meta": 1610541349828,
+    "relativePath": "scenes\\levelScenes\\CityScene0 - 001.fire"
+  },
+  "e7576095-11c8-4995-808d-fe631e88956d": {
+    "asset": 1610541515024,
+    "meta": 1610542390854,
+    "relativePath": "resources\\maps\\Map2.tmx"
+  },
+  "0552fc28-08f2-46c4-83cb-7c8cbc64af1e": {
+    "asset": 1610541682225,
+    "meta": 1610542390860,
+    "relativePath": "resources\\maps\\Map3.tmx"
+  },
+  "dc14eec3-73f9-46f4-8326-d5602e6fddea": {
+    "asset": 1610541827261,
+    "meta": 1610542390869,
+    "relativePath": "resources\\maps\\Map4.tmx"
+  },
+  "0f6a5b4c-67e8-4c7d-81af-ca2452d12fef": {
+    "asset": 1610541953310,
+    "meta": 1610542390874,
+    "relativePath": "resources\\maps\\Map5.tmx"
+  },
+  "82e931d7-1641-4a6a-85cc-0febe373cef9": {
+    "asset": 1610542085205,
+    "meta": 1610542390879,
+    "relativePath": "resources\\maps\\Map6.tmx"
+  },
+  "20ff29b6-af87-4ae5-bdc2-98ca37316f6b": {
+    "asset": 1610542198488,
+    "meta": 1610542390887,
+    "relativePath": "resources\\maps\\Map7.tmx"
+  },
+  "0e2081e7-2096-4f05-9546-b7e05397cf0f": {
+    "asset": 1610542315805,
+    "meta": 1610542390893,
+    "relativePath": "resources\\maps\\Map8.tmx"
   }
 }
