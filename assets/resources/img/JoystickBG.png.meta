@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "59b205f5-4455-41a1-b661-c4eae277ee77",
+  "uuid": "f1d6d1e4-a588-4ccb-af7b-34f0b20894b4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "JoystickBG": {
       "ver": "1.0.4",
-      "uuid": "0a282426-4f94-46eb-9a51-b43052c4abaa",
-      "rawTextureUuid": "59b205f5-4455-41a1-b661-c4eae277ee77",
+      "uuid": "3b9acae4-2b17-429f-9253-0bc313bceea2",
+      "rawTextureUuid": "f1d6d1e4-a588-4ccb-af7b-34f0b20894b4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

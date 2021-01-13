@@ -133,7 +133,7 @@ cc.Class({
         cc.gameData.bulletList = [];
 
         //获取组件
-        this.tankNode = cc.find("/Canvas/Map/layer_0");
+        this.tankNode = cc.find("/Canvas/Map");
         //this.tankNode = cc.find("/Canvas/map1/layer0");
         //加入player
         this.player = this.addPlayerTank();
@@ -159,9 +159,11 @@ cc.Class({
         this.doubleFire = !this.doubleFire;
         
         if(this.doubleFire){
-            this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
+            this.doubleFireBtn.opacity = 240
+            //this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
         }else{
-            this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[0];
+            this.doubleFireBtn.opacity = 255
+            //this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[0];
         }
         
     },
@@ -309,6 +311,7 @@ cc.Class({
             var tank = this.tankPool.get();
             tank.getComponent(cc.Sprite).spriteFrame = this.spriteFrames[this.spriteFrames.length-1];
             tank.position = this.bornPoses[this.bornPoses.length-1];
+            tank.zIndex = -1;
             //获取坦克控制组件
             var tankCtrl = tank.getComponent("TankScript");
             //设置坦克属性
@@ -346,6 +349,7 @@ cc.Class({
     addAITank: function(dt, team) {
         if(this.tankPool.size()>0 && this.maxCount > 0){
             var tank = this.tankPool.get();
+            tank.zIndex = -1;
             var index = parseInt(Math.random()*3, 10);
             //获取坦克控制组件
             var tankCtrl = tank.getComponent("TankScript");
@@ -396,9 +400,9 @@ cc.Class({
     },
 
     tankBoom: function(tank) {
-        // tank.parent = null;
-        // tank.getComponent("TankScript").die = true;
-        // this.tankPool.put(tank);
+        tank.parent = null;
+        tank.getComponent("TankScript").die = true;
+        this.tankPool.put(tank);
         if(cc.gameData.single && tank.getComponent("TankScript").team == 0){
             this.life --;
             this.lifeNum.string = this.life + "";

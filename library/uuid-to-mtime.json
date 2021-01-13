@@ -565,13 +565,13 @@
     "relativePath": "resources\\blast.png"
   },
   "ee75bbc9-d5a8-4ae0-9d83-d1549a4210f0": {
-    "asset": 1610455227531,
-    "meta": 1610455265974,
+    "asset": 1610455350872,
+    "meta": 1610456780795,
     "relativePath": "resources\\maps"
   },
   "9a838efa-f4a2-4fc5-9700-64e764b1042e": {
-    "asset": 1610455226124,
-    "meta": 1610455265977,
+    "asset": 1610455475591,
+    "meta": 1610456780798,
     "relativePath": "resources\\maps\\landform"
   },
   "b80feaeb-ec5d-4062-b8bf-ae3a23375970": {
@@ -920,8 +920,8 @@
     "relativePath": "resources\\img\\hero.png"
   },
   "5d1d0198-2d26-473c-b5dc-222f8ec16b81": {
-    "asset": 1610455204818,
-    "meta": 1610455265971,
+    "asset": 1610456621500,
+    "meta": 1610456780791,
     "relativePath": "resources\\img"
   },
   "24743f36-c052-4056-b8a3-fc5960bf853a": {
@@ -969,30 +969,10 @@
     "meta": 1610107706034,
     "relativePath": "resources\\paddle\\fire.png"
   },
-  "dae4f56f-0242-4141-807f-adf243ebb237": {
-    "asset": 1610365008754,
-    "meta": 1610365204944,
-    "relativePath": "joystick\\scripts\\JoystickCtrl.js"
-  },
-  "6feea4ff-ffda-479d-889f-646cbed156bd": {
-    "asset": 1610455242376,
-    "meta": 1610455242379,
-    "relativePath": "joystick\\prefabs\\Joystick.prefab"
-  },
   "66856a8e-aaff-48b0-9c4d-359516ca8625": {
     "asset": 1610455146487,
     "meta": 1610455242391,
     "relativePath": "joystick\\JoystickScene.fire"
-  },
-  "c1d78ee5-44a4-4db1-882f-ae121b006704": {
-    "asset": 1610365008761,
-    "meta": 1610455242471,
-    "relativePath": "joystick\\textures\\JoystickBar.png"
-  },
-  "5a823ffc-18d0-45f7-960e-02013631df02": {
-    "asset": 1610365008756,
-    "meta": 1610455242480,
-    "relativePath": "joystick\\textures\\JoystickBG.png"
   },
   "5f077e1c-157a-4d10-8990-d076858e4af2": {
     "asset": 1610455204806,
@@ -1084,40 +1064,15 @@
     "meta": 1610455243970,
     "relativePath": "resources\\prefabs\\TankPref.prefab"
   },
-  "02046376-32a0-4c2c-9fde-6b489f904cc0": {
-    "asset": 1610455146698,
-    "meta": 1610455243973,
-    "relativePath": "resources\\test"
-  },
   "41a63e9b-47bc-4d95-b3b5-3f306b4ea2df": {
     "asset": 1610455205215,
     "meta": 1610455243980,
     "relativePath": "resources\\paddle\\top_press.png"
   },
-  "ef21f46a-00a6-495c-8564-c0668691db73": {
-    "asset": 1610365008871,
-    "meta": 1610455243987,
-    "relativePath": "resources\\test\\image1.tsx"
-  },
-  "8f28cba0-9091-4bc9-a279-6f7980027058": {
-    "asset": 1610365008873,
-    "meta": 1610455245354,
-    "relativePath": "resources\\test\\map1.tmx"
-  },
   "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3": {
     "asset": 1610455146701,
     "meta": 1610455244124,
     "relativePath": "scenes\\ChoiceScene.fire"
-  },
-  "51fbbbbd-6de8-4e5d-9581-d5d4254a859a": {
-    "asset": 1610365008866,
-    "meta": 1610455244130,
-    "relativePath": "resources\\test\\image.png"
-  },
-  "4d15fe15-0de9-4533-b236-f79eaad4906d": {
-    "asset": 1610456722846,
-    "meta": 1610456722877,
-    "relativePath": "scenes\\levelScenes\\CityScene0.fire"
   },
   "b1d8c820-cda2-4f2d-baa0-4d330a475854": {
     "asset": 1610455226179,
@@ -1184,34 +1139,79 @@
     "meta": 1610455481365,
     "relativePath": "resources\\maps\\Map1.tmx"
   },
-  "bf8f2ad4-2b33-4ab1-93f4-81998220b2c4": {
-    "asset": 1610455563358,
-    "meta": 1610455563481,
-    "relativePath": "resources\\img\\JoystickBar.png"
-  },
-  "e85d4615-3e2f-46f1-ae02-6c600e1882d1": {
-    "asset": 1610455563359,
-    "meta": 1610455563557,
-    "relativePath": "resources\\img\\gun.png"
-  },
-  "7f0b0f03-730e-45ee-8585-977ea080a442": {
-    "asset": 1610455836588,
-    "meta": 1610455843978,
-    "relativePath": "scripts\\CityScript.js"
-  },
   "e0850747-7f75-4cb3-a0da-15b80db8fd24": {
     "asset": 1610456025261,
     "meta": 1610456029216,
     "relativePath": "scripts\\TiledMapData.js"
   },
+  "6feea4ff-ffda-479d-889f-646cbed156bd": {
+    "asset": 1610539116789,
+    "meta": 1610539116793,
+    "relativePath": "joystick\\prefabs\\Joystick.prefab"
+  },
+  "c1d78ee5-44a4-4db1-882f-ae121b006704": {
+    "asset": 1610539101249,
+    "meta": 1610539116841,
+    "relativePath": "joystick\\textures\\JoystickBar.png"
+  },
+  "5a823ffc-18d0-45f7-960e-02013631df02": {
+    "asset": 1610539101253,
+    "meta": 1610539116849,
+    "relativePath": "joystick\\textures\\JoystickBG.png"
+  },
+  "e85d4615-3e2f-46f1-ae02-6c600e1882d1": {
+    "asset": 1610455563359,
+    "meta": 1610539116873,
+    "relativePath": "resources\\img\\gun.png"
+  },
+  "02046376-32a0-4c2c-9fde-6b489f904cc0": {
+    "asset": 1610539101269,
+    "meta": 1610539116877,
+    "relativePath": "resources\\test"
+  },
   "4b3ac112-bf8c-426f-aa46-d2de6e5e1539": {
     "asset": 1610455563359,
-    "meta": 1610456560553,
+    "meta": 1610539116881,
     "relativePath": "resources\\img\\shoot.png"
   },
-  "59b205f5-4455-41a1-b661-c4eae277ee77": {
-    "asset": 1610455169955,
-    "meta": 1610456621535,
+  "ef21f46a-00a6-495c-8564-c0668691db73": {
+    "asset": 1610539101265,
+    "meta": 1610539116889,
+    "relativePath": "resources\\test\\image1.tsx"
+  },
+  "8f28cba0-9091-4bc9-a279-6f7980027058": {
+    "asset": 1610539101265,
+    "meta": 1610539116953,
+    "relativePath": "resources\\test\\map1.tmx"
+  },
+  "4d15fe15-0de9-4533-b236-f79eaad4906d": {
+    "asset": 1610539267616,
+    "meta": 1610539267644,
+    "relativePath": "scenes\\levelScenes\\CityScene0.fire"
+  },
+  "51fbbbbd-6de8-4e5d-9581-d5d4254a859a": {
+    "asset": 1610539101261,
+    "meta": 1610539116937,
+    "relativePath": "resources\\test\\image.png"
+  },
+  "25ed8523-d643-48da-bef5-bbe0711eb5af": {
+    "asset": 1610539225744,
+    "meta": 1610539225792,
+    "relativePath": "resources\\img\\JoystickBar.png"
+  },
+  "f1d6d1e4-a588-4ccb-af7b-34f0b20894b4": {
+    "asset": 1610539225744,
+    "meta": 1610539225860,
     "relativePath": "resources\\img\\JoystickBG.png"
+  },
+  "dae4f56f-0242-4141-807f-adf243ebb237": {
+    "asset": 1610539390114,
+    "meta": 1610539393937,
+    "relativePath": "joystick\\scripts\\JoystickCtrl.js"
+  },
+  "7f0b0f03-730e-45ee-8585-977ea080a442": {
+    "asset": 1610539822287,
+    "meta": 1610539825678,
+    "relativePath": "scripts\\CityScript.js"
   }
 }
