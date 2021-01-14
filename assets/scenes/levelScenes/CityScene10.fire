@@ -195,7 +195,7 @@
       "array": [
         0,
         0,
-        215.8433002463372,
+        209.57814771583418,
         0,
         0,
         0,
@@ -456,7 +456,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "c1f69376-e17e-4f62-bd9e-a5bc3a165a51"
+      "__uuid__": "df9c7178-ca7e-4f7a-9c22-a014ae4488b3"
     },
     "_type": 0,
     "_sizeMode": 0,
@@ -1603,21 +1603,11 @@
       "a": 255
     },
     "_N$normalSprite": null,
-    "_N$pressedSprite": {
-      "__uuid__": "36eb94c4-e558-44d0-8ba4-5f1fce52de71"
-    },
-    "pressedSprite": {
-      "__uuid__": "36eb94c4-e558-44d0-8ba4-5f1fce52de71"
-    },
-    "_N$hoverSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
-    "hoverSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
-    "_N$disabledSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
+    "_N$pressedSprite": null,
+    "pressedSprite": null,
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
+    "_N$disabledSprite": null,
     "_N$target": {
       "__id__": 32
     },
@@ -1784,14 +1774,7 @@
     "doubleFireBtn": {
       "__id__": 38
     },
-    "doubleFireFrames": [
-      {
-        "__uuid__": "44850430-f521-4309-bbb8-b43cdac08031"
-      },
-      {
-        "__uuid__": "9989bb7f-a0b6-4ec0-96d2-bf5731a4b894"
-      }
-    ],
+    "doubleFireFrames": [],
     "_id": "cdje0WmPFEdpMCAKAfYC/t"
   },
   {
@@ -1957,24 +1940,12 @@
       "b": 255,
       "a": 255
     },
-    "_N$normalSprite": {
-      "__uuid__": "44850430-f521-4309-bbb8-b43cdac08031"
-    },
-    "_N$pressedSprite": {
-      "__uuid__": "36eb94c4-e558-44d0-8ba4-5f1fce52de71"
-    },
-    "pressedSprite": {
-      "__uuid__": "36eb94c4-e558-44d0-8ba4-5f1fce52de71"
-    },
-    "_N$hoverSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
-    "hoverSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
-    "_N$disabledSprite": {
-      "__uuid__": "8d75f4ba-8c92-425c-ae3f-9d795558e960"
-    },
+    "_N$normalSprite": null,
+    "_N$pressedSprite": null,
+    "pressedSprite": null,
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
+    "_N$disabledSprite": null,
     "_N$target": {
       "__id__": 38
     },
