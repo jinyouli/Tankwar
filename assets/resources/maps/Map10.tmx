@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="13" height="13" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="star" tilewidth="32" tileheight="32">
+  <image source="landform/img.png" width="448" height="33"/>
+ </tileset>
+ <layer name="layer_0" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJx9UgEKgCAMHM7WBOn/zy3hDi+xBsfk1t1c0+w/6g9PlI/a4A/hHZxvNL7Ule84nw8CmRiRohlcg6YITtyJfZro6UFNB0LO9A+ZMaW+01TMn9K7iQ/nSeSw+b9VE+LlknmndUcFmsPmDqhjsMY90F+/MXvvosK3Ab7pre+CkeL79V6ujRc1NytlAnQ=
+  </data>
+ </layer>
+</map>

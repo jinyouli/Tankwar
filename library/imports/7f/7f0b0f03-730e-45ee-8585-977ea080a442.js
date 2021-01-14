@@ -81,10 +81,9 @@ cc.Class({
   start: function start(err) {
     if (err) {
       return;
-    } // alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {
-    // });
-    //默认角度
+    }
 
+    alert.show.call(this, "关卡" + cc.gameData.curLevel, function () {}); //默认角度
 
     this.curAngle = null;
     var self = this; //注册监听事件
@@ -372,22 +371,18 @@ cc.Class({
     }
   },
   tankBoom: function tankBoom(tank) {
-    tank.parent = null;
-    tank.getComponent("TankScript").die = true;
-    this.tankPool.put(tank);
-
-    if (cc.gameData.single && tank.getComponent("TankScript").team == 0) {
-      this.life--;
-      this.lifeNum.string = this.life + "";
-
-      if (this.life > 0) {
-        this.addPlayerTank();
-      } else {
-        this.gameOver();
-      }
-
-      tank.getComponent("TankScript").blood = 1;
+    if (cc.gameData.single && tank.getComponent("TankScript").team == 0) {// this.life --;
+      // this.lifeNum.string = this.life + "";
+      // if(this.life > 0){
+      //     this.addPlayerTank();
+      // }else{
+      //     this.gameOver();
+      // }
+      // tank.getComponent("TankScript").blood = 1;
     } else {
+      tank.parent = null;
+      tank.getComponent("TankScript").die = true;
+      this.tankPool.put(tank);
       tank.parent = null;
       tank.getComponent("TankScript").die = true;
       this.tankPool.put(tank);
