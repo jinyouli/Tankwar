@@ -1,9 +1,9 @@
 {
   "ver": "1.1.2",
-  "uuid": "4317535f-fedc-4a49-911b-8bf143bfb39d",
+  "uuid": "c865d164-2c95-459c-9b2f-abc53f54f70b",
   "isBundle": true,
-  "bundleName": "resources",
-  "priority": 8,
+  "bundleName": "bmg",
+  "priority": 1,
   "compressionType": {
     "wechatgame": "subpackage"
   },

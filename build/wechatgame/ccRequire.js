@@ -1,6 +1,5 @@
 let moduleMap = {
 'assets/internal/index.js' () { return require('assets/internal/index.js') },
-'assets/resources/index.js' () { return require('assets/resources/index.js') },
 'assets/main/index.js' () { return require('assets/main/index.js') },
 // tail
 };

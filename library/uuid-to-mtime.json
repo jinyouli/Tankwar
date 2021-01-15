@@ -531,7 +531,7 @@
   },
   "4317535f-fedc-4a49-911b-8bf143bfb39d": {
     "asset": 1610626140049,
-    "meta": 1610627362561,
+    "meta": 1610714146786,
     "relativePath": "resources"
   },
   "7b18ce3b-8acc-47fa-a4f0-396a962b7069": {
@@ -775,8 +775,8 @@
     "relativePath": "resources\\img\\hero.png"
   },
   "5d1d0198-2d26-473c-b5dc-222f8ec16b81": {
-    "asset": 1610627274565,
-    "meta": 1610627362565,
+    "asset": 1610707005738,
+    "meta": 1610707600027,
     "relativePath": "resources\\img"
   },
   "24743f36-c052-4056-b8a3-fc5960bf853a": {
@@ -815,8 +815,8 @@
     "relativePath": "scenes\\ChoiceScene.fire"
   },
   "1a638409-0db1-4127-bac7-947b76afed54": {
-    "asset": 1610626552891,
-    "meta": 1610626552951,
+    "asset": 1610712356069,
+    "meta": 1610712356085,
     "relativePath": "scenes\\StartScene.fire"
   },
   "6ce61b48-5151-47fb-841c-cc932b3f5703": {
@@ -880,13 +880,13 @@
     "relativePath": "resources\\maps\\Map1.tmx"
   },
   "08cca8d6-9019-4721-8558-a783f715ecfa": {
-    "asset": 1610627469107,
-    "meta": 1610627469137,
+    "asset": 1610712251511,
+    "meta": 1610712251559,
     "relativePath": "scenes\\levelScenes\\CityScene2.fire"
   },
   "561d1d9e-2b26-49c4-afbc-28e96c5cab39": {
-    "asset": 1610627457028,
-    "meta": 1610627457055,
+    "asset": 1610712266411,
+    "meta": 1610712266439,
     "relativePath": "scenes\\levelScenes\\CityScene1.fire"
   },
   "e7576095-11c8-4995-808d-fe631e88956d": {
@@ -920,33 +920,33 @@
     "relativePath": "resources\\maps\\Map8.tmx"
   },
   "3cd821a8-385d-4d7c-a6ce-6429bf56b738": {
-    "asset": 1610627479689,
-    "meta": 1610627479716,
+    "asset": 1610712277034,
+    "meta": 1610712277054,
     "relativePath": "scenes\\levelScenes\\CityScene3.fire"
   },
   "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e": {
-    "asset": 1610627489826,
-    "meta": 1610627489845,
+    "asset": 1610712286082,
+    "meta": 1610712286137,
     "relativePath": "scenes\\levelScenes\\CityScene4.fire"
   },
   "9ecf1d84-8260-46d9-9519-f66077f4f49f": {
-    "asset": 1610627500152,
-    "meta": 1610627500175,
+    "asset": 1610712297587,
+    "meta": 1610712297631,
     "relativePath": "scenes\\levelScenes\\CityScene5.fire"
   },
   "55ffd609-7b90-4ae7-841b-13aefd47ec8c": {
-    "asset": 1610627511529,
-    "meta": 1610627511551,
+    "asset": 1610712306765,
+    "meta": 1610712306817,
     "relativePath": "scenes\\levelScenes\\CityScene6.fire"
   },
   "8fbdbad9-6107-48dc-9128-939f65716498": {
-    "asset": 1610627521550,
-    "meta": 1610627521575,
+    "asset": 1610712314842,
+    "meta": 1610712314886,
     "relativePath": "scenes\\levelScenes\\CityScene7.fire"
   },
   "6d2f0aea-f4e0-4044-8579-d5b9c9f90667": {
-    "asset": 1610627532879,
-    "meta": 1610627532902,
+    "asset": 1610712323983,
+    "meta": 1610712324007,
     "relativePath": "scenes\\levelScenes\\CityScene8.fire"
   },
   "83d8b9d4-0e16-4066-8d2a-c40073ac16f4": {
@@ -960,13 +960,13 @@
     "relativePath": "resources\\maps\\Map10.tmx"
   },
   "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443": {
-    "asset": 1610627554949,
-    "meta": 1610627554969,
+    "asset": 1610712349041,
+    "meta": 1610712349065,
     "relativePath": "scenes\\levelScenes\\CityScene10.fire"
   },
   "55d49213-eb43-4d26-a91e-c383b5ae6668": {
-    "asset": 1610627542262,
-    "meta": 1610627542285,
+    "asset": 1610712333492,
+    "meta": 1610712333516,
     "relativePath": "scenes\\levelScenes\\CityScene9.fire"
   },
   "e34105df-8fb7-4623-b5f6-fe6c2b3d716c": {
@@ -994,39 +994,44 @@
     "meta": 1610626939033,
     "relativePath": "scripts\\CityScript.js"
   },
-  "0d38b0c4-3275-42c0-8b2d-d5eeafb807e3": {
-    "asset": 1610627396997,
-    "meta": 1610627397194,
-    "relativePath": "resources\\img\\bmg4.png"
+  "c865d164-2c95-459c-9b2f-abc53f54f70b": {
+    "asset": 1610707630156,
+    "meta": 1610713074493,
+    "relativePath": "bmg"
   },
-  "39a53a44-622f-4f87-8036-e54932851ba8": {
-    "asset": 1610627397001,
-    "meta": 1610627397222,
-    "relativePath": "resources\\img\\bmg1.png"
+  "fae1fdd0-91d5-4267-aac0-b484a1a2df28": {
+    "asset": 1610707630122,
+    "meta": 1610707630225,
+    "relativePath": "bmg\\3.png"
   },
-  "62070c04-b378-466d-b161-2dc0b300e601": {
-    "asset": 1610627397002,
-    "meta": 1610627397259,
-    "relativePath": "resources\\img\\bmg5.png"
+  "4417a41d-ab2f-4c11-a7ed-d5c7ef10cfc0": {
+    "asset": 1610707630123,
+    "meta": 1610707630231,
+    "relativePath": "bmg\\5.png"
   },
-  "ef33c5b8-e39b-41f2-a356-dfc156363691": {
-    "asset": 1610627397007,
-    "meta": 1610627397288,
-    "relativePath": "resources\\img\\bmg6.png"
+  "98b64f65-b11f-48a1-b343-2f2845259cd9": {
+    "asset": 1610707630126,
+    "meta": 1610707630271,
+    "relativePath": "bmg\\4.png"
   },
-  "435a5409-b84c-4e38-b0c9-00df8ce2be86": {
-    "asset": 1610627397008,
-    "meta": 1610627397340,
-    "relativePath": "resources\\img\\bmg7.png"
+  "03870e8e-b8bb-4443-8f4c-8360094b3783": {
+    "asset": 1610707630127,
+    "meta": 1610707630280,
+    "relativePath": "bmg\\6.png"
   },
-  "e8b3b542-9890-4e08-bd24-b70152e7078e": {
-    "asset": 1610627397027,
-    "meta": 1610627397483,
-    "relativePath": "resources\\img\\bmg3.png"
+  "f6b75c93-d305-4b76-b3a6-5c56f57a1b5e": {
+    "asset": 1610707630128,
+    "meta": 1610707630326,
+    "relativePath": "bmg\\1.png"
   },
-  "b243569c-c449-4809-bc2a-52b08758cf8f": {
-    "asset": 1610627397041,
-    "meta": 1610627397576,
-    "relativePath": "resources\\img\\bmg2.png"
+  "437ea563-931a-4624-9c45-d02c3840de2a": {
+    "asset": 1610707630124,
+    "meta": 1610707630332,
+    "relativePath": "bmg\\2.png"
+  },
+  "38992a0e-2c27-4b42-9f10-42d44bb3616f": {
+    "asset": 1610707630134,
+    "meta": 1610707630371,
+    "relativePath": "bmg\\7.png"
   }
 }
