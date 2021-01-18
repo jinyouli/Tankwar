@@ -1,125 +1,1201 @@
-2021-01-15T11:49:22.268Z - normal: Load ~/.CocosCreator/settings.json
-2021-01-15T11:49:22.362Z - normal: Initializing Asset Database
-2021-01-15T11:49:22.370Z - normal: checking language setting...
-2021-01-15T11:49:22.370Z - normal: Language: zh
-2021-01-15T11:49:24.584Z - success: protocol editor-framework registered
-2021-01-15T11:49:24.585Z - success: protocol app registered
-2021-01-15T11:49:24.585Z - success: protocol theme registered
-2021-01-15T11:49:24.586Z - success: protocol packages registered
-2021-01-15T11:49:24.587Z - success: protocol uuid registerred
-2021-01-15T11:49:24.587Z - success: protocol db registerred
-2021-01-15T11:49:24.587Z - success: protocol thumbnail registerred
-2021-01-15T11:49:24.588Z - success: protocol unpack registerred
-2021-01-15T11:49:24.588Z - success: protocol disable-commonjs registerred
-2021-01-15T11:49:25.100Z - normal: connected!
-2021-01-15T11:49:25.102Z - normal: Check project E:\github\Tankwar
-2021-01-15T11:49:25.105Z - normal: Initializing project E:\github\Tankwar
-2021-01-15T11:49:25.503Z - success: adapters loaded
-2021-01-15T11:49:25.507Z - success: asset-db-debugger loaded
-2021-01-15T11:49:25.632Z - success: fb-audience-network loaded
-2021-01-15T11:49:25.682Z - success: fb-live-stream loaded
-2021-01-15T11:49:25.686Z - success: google-play-instant loaded
-2021-01-15T11:49:25.687Z - success: jsb-adapter loaded
-2021-01-15T11:49:25.691Z - success: package-manager loaded
-2021-01-15T11:49:25.692Z - success: runtime-adapters loaded
-2021-01-15T11:49:25.695Z - success: runtime-dev-tools loaded
-2021-01-15T11:49:25.701Z - success: ui-kit-preview-extra loaded
-2021-01-15T11:49:25.704Z - success: ui-kit-preview loaded
-2021-01-15T11:49:25.799Z - success: alipay-minigame loaded
-2021-01-15T11:49:25.891Z - success: assets loaded
-2021-01-15T11:49:25.895Z - success: baidugame-opendata loaded
-2021-01-15T11:49:25.899Z - success: baidugame loaded
-2021-01-15T11:49:25.903Z - success: builder loaded
-2021-01-15T11:49:25.906Z - success: bytedance-opendata loaded
-2021-01-15T11:49:25.909Z - success: bytedance loaded
-2021-01-15T11:49:25.913Z - success: channel-upload-tools loaded
-2021-01-15T11:49:25.919Z - success: cloud-function loaded
-2021-01-15T11:49:26.446Z - success: cocos-services loaded
-2021-01-15T11:49:26.453Z - success: console loaded
-2021-01-15T11:49:26.458Z - success: curve-editor loaded
-2021-01-15T11:49:26.494Z - success: fb-instant-games loaded
-2021-01-15T11:49:26.498Z - success: game-window loaded
-2021-01-15T11:49:26.500Z - success: google-instant-games loaded
-2021-01-15T11:49:26.507Z - success: hierarchy loaded
-2021-01-15T11:49:26.512Z - success: huawei-agc loaded
-2021-01-15T11:49:26.519Z - success: huawei-runtime loaded
-2021-01-15T11:49:26.525Z - success: inspector loaded
-2021-01-15T11:49:26.563Z - success: cpk-publish loaded
-2021-01-15T11:49:26.564Z - success: keystore loaded
-2021-01-15T11:49:26.600Z - success: link-sure-runtime loaded
-2021-01-15T11:49:26.628Z - success: node-library loaded
-2021-01-15T11:49:26.629Z - success: open-recent-items loaded
-2021-01-15T11:49:26.637Z - success: oppo-runtime loaded
-2021-01-15T11:49:26.643Z - success: package-asset loaded
-2021-01-15T11:49:26.645Z - success: preferences loaded
-2021-01-15T11:49:26.649Z - success: project-importer loaded
-2021-01-15T11:49:26.652Z - success: project-settings loaded
-2021-01-15T11:49:26.692Z - success: qtt-runtime loaded
-2021-01-15T11:49:26.698Z - success: scene loaded
-2021-01-15T11:49:26.700Z - success: simulator-debugger loaded
-2021-01-15T11:49:26.701Z - success: sprite-editor loaded
-2021-01-15T11:49:26.783Z - success: store loaded
-2021-01-15T11:49:26.790Z - success: timeline loaded
-2021-01-15T11:49:26.798Z - success: vivo-runtime loaded
-2021-01-15T11:49:26.802Z - success: wechatgame-opendata loaded
-2021-01-15T11:49:26.809Z - success: wechatgame loaded
-2021-01-15T11:49:26.818Z - success: xiaomi-runtime loaded
-2021-01-15T11:49:27.323Z - success: im-plugin loaded
-2021-01-15T11:49:27.333Z - success: preview server running at http://localhost:7456
-2021-01-15T11:49:30.122Z - normal: Initializing Cocos2d
-2021-01-15T11:49:30.693Z - normal: Initializing engine extends
-2021-01-15T11:49:31.312Z - info: Cocos Service load base data!
-2021-01-15T11:49:32.997Z - normal: Loading packages
-2021-01-15T11:49:33.004Z - normal: Watching packages
-2021-01-15T11:49:33.066Z - normal: Run Application
-2021-01-15T11:50:13.142Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2021-01-15T11:50:13.143Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
-2021-01-15T11:50:13.144Z - normal: Simulator: FRAME SCALE = 0.50
-2021-01-15T11:50:13.423Z - normal: Simulator: Ready for GLSL
-2021-01-15T11:50:13.424Z - normal: Simulator: Ready for OpenGL 2.0
-2021-01-15T11:50:13.425Z - normal: Simulator: Project Config:
-2021-01-15T11:50:13.426Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
-2021-01-15T11:50:13.427Z - normal: Simulator:     writable path: $(PROJDIR)\
-2021-01-15T11:50:13.427Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2021-01-15T11:50:13.428Z - normal: Simulator:     frame size: 750 x 1334
-2021-01-15T11:50:13.428Z - normal: Simulator:     frame scale: 0.50
-2021-01-15T11:50:13.428Z - normal: Simulator:     show console: NO
-2021-01-15T11:50:13.429Z - normal: Simulator:     write debug log: NO ()
-2021-01-15T11:50:13.430Z - normal: Simulator:     listen: 
-2021-01-15T11:50:13.431Z - normal: Simulator:     debugger: none
-2021-01-15T11:50:13.432Z - normal: Simulator:     add searching path:
-2021-01-15T11:50:13.433Z - normal: Simulator: 
-2021-01-15T11:50:13.434Z - normal: Simulator: 
-2021-01-15T11:50:13.434Z - normal: Simulator: 
-2021-01-15T11:50:13.435Z - normal: Simulator: resetDesignResolution request
-2021-01-15T11:50:13.435Z - normal: Simulator: ------------------------------------------------
-2021-01-15T11:50:13.436Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2021-01-15T11:50:13.436Z - normal: Simulator: ------------------------------------------------
-2021-01-15T11:50:13.436Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
-2021-01-15T11:50:13.437Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2021-01-15T11:50:13.437Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2021-01-15T11:50:13.438Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2021-01-15T11:50:13.486Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
-2021-01-15T11:50:13.490Z - normal: Simulator: resetDesignResolution request
-2021-01-15T11:50:13.491Z - normal: Simulator: ------------------------------------------------
-2021-01-15T11:50:13.491Z - normal: Simulator: LOAD Js FILE: main.js
-2021-01-15T11:50:13.492Z - normal: Simulator: ------------------------------------------------
-2021-01-15T11:50:13.957Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
-2021-01-15T11:50:14.006Z - normal: Simulator: iShow!
-2021-01-15T11:50:14.068Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 52.797000000000025ms
-2021-01-15T11:50:14.357Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
-2021-01-15T11:50:14.358Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
-2021-01-15T11:50:16.014Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
-2021-01-15T11:50:16.027Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 122, all objects: 338
-2021-01-15T11:50:16.069Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 74, all objects: 290
-2021-01-15T11:50:16.069Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 74, all objects: 290
-2021-01-15T11:50:16.070Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 74, all objects: 290
-2021-01-15T11:50:16.079Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
-2021-01-15T11:50:16.080Z - normal: Simulator: D/jswrapper (532): Function object is released!
-2021-01-15T11:50:16.080Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
-2021-01-15T11:50:16.085Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
-2021-01-15T11:50:16.292Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
-2021-01-15T11:50:26.328Z - normal: Start building with options : {
+2021-01-18T10:47:49.395Z - normal: Load ~/.CocosCreator/settings.json
+2021-01-18T10:47:49.841Z - normal: Initializing Asset Database
+2021-01-18T10:47:50.077Z - normal: checking language setting...
+2021-01-18T10:47:50.077Z - normal: Language: zh
+2021-01-18T10:48:00.490Z - success: protocol editor-framework registered
+2021-01-18T10:48:00.490Z - success: protocol app registered
+2021-01-18T10:48:00.491Z - success: protocol theme registered
+2021-01-18T10:48:00.491Z - success: protocol packages registered
+2021-01-18T10:48:00.496Z - success: protocol uuid registerred
+2021-01-18T10:48:00.496Z - success: protocol db registerred
+2021-01-18T10:48:00.496Z - success: protocol thumbnail registerred
+2021-01-18T10:48:00.496Z - success: protocol unpack registerred
+2021-01-18T10:48:00.496Z - success: protocol disable-commonjs registerred
+2021-01-18T10:48:00.714Z - normal: connected!
+2021-01-18T10:48:00.720Z - normal: Check project E:\github\Tankwar
+2021-01-18T10:48:00.728Z - normal: Initializing project E:\github\Tankwar
+2021-01-18T10:48:02.867Z - success: adapters loaded
+2021-01-18T10:48:02.888Z - success: asset-db-debugger loaded
+2021-01-18T10:48:03.389Z - success: fb-audience-network loaded
+2021-01-18T10:48:03.542Z - success: fb-live-stream loaded
+2021-01-18T10:48:03.596Z - success: google-play-instant loaded
+2021-01-18T10:48:03.597Z - success: jsb-adapter loaded
+2021-01-18T10:48:03.612Z - success: package-manager loaded
+2021-01-18T10:48:03.614Z - success: runtime-adapters loaded
+2021-01-18T10:48:03.635Z - success: runtime-dev-tools loaded
+2021-01-18T10:48:03.675Z - success: ui-kit-preview-extra loaded
+2021-01-18T10:48:03.681Z - success: ui-kit-preview loaded
+2021-01-18T10:48:04.134Z - success: alipay-minigame loaded
+2021-01-18T10:48:04.326Z - success: assets loaded
+2021-01-18T10:48:04.329Z - success: baidugame-opendata loaded
+2021-01-18T10:48:04.335Z - success: baidugame loaded
+2021-01-18T10:48:04.377Z - success: builder loaded
+2021-01-18T10:48:04.384Z - success: bytedance-opendata loaded
+2021-01-18T10:48:04.391Z - success: bytedance loaded
+2021-01-18T10:48:04.396Z - success: channel-upload-tools loaded
+2021-01-18T10:48:04.448Z - success: cloud-function loaded
+2021-01-18T10:48:05.813Z - success: cocos-services loaded
+2021-01-18T10:48:05.819Z - success: console loaded
+2021-01-18T10:48:05.822Z - success: curve-editor loaded
+2021-01-18T10:48:05.837Z - success: fb-instant-games loaded
+2021-01-18T10:48:05.840Z - success: game-window loaded
+2021-01-18T10:48:05.842Z - success: google-instant-games loaded
+2021-01-18T10:48:05.847Z - success: hierarchy loaded
+2021-01-18T10:48:05.850Z - success: huawei-agc loaded
+2021-01-18T10:48:05.855Z - success: huawei-runtime loaded
+2021-01-18T10:48:05.878Z - success: inspector loaded
+2021-01-18T10:48:05.907Z - success: cpk-publish loaded
+2021-01-18T10:48:05.908Z - success: keystore loaded
+2021-01-18T10:48:05.955Z - success: link-sure-runtime loaded
+2021-01-18T10:48:05.989Z - success: node-library loaded
+2021-01-18T10:48:05.991Z - success: open-recent-items loaded
+2021-01-18T10:48:05.997Z - success: oppo-runtime loaded
+2021-01-18T10:48:06.016Z - success: package-asset loaded
+2021-01-18T10:48:06.017Z - success: preferences loaded
+2021-01-18T10:48:06.019Z - success: project-importer loaded
+2021-01-18T10:48:06.021Z - success: project-settings loaded
+2021-01-18T10:48:06.052Z - success: qtt-runtime loaded
+2021-01-18T10:48:06.057Z - success: scene loaded
+2021-01-18T10:48:06.058Z - success: simulator-debugger loaded
+2021-01-18T10:48:06.059Z - success: sprite-editor loaded
+2021-01-18T10:48:06.491Z - success: store loaded
+2021-01-18T10:48:06.507Z - success: timeline loaded
+2021-01-18T10:48:06.518Z - success: vivo-runtime loaded
+2021-01-18T10:48:06.523Z - success: wechatgame-opendata loaded
+2021-01-18T10:48:06.563Z - success: wechatgame loaded
+2021-01-18T10:48:06.591Z - success: xiaomi-runtime loaded
+2021-01-18T10:48:10.396Z - success: im-plugin loaded
+2021-01-18T10:48:10.429Z - success: preview server running at http://localhost:7456
+2021-01-18T10:48:14.139Z - normal: Initializing Cocos2d
+2021-01-18T10:48:16.047Z - normal: Initializing engine extends
+2021-01-18T10:48:23.675Z - normal: Loading packages
+2021-01-18T10:48:23.681Z - normal: Watching packages
+2021-01-18T10:48:23.761Z - normal: Run Application
+2021-01-18T10:48:26.015Z - info: Cocos Service load base data!
+2021-01-18T10:56:02.248Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-18T10:56:02.254Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2021-01-18T10:56:02.255Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-18T10:56:02.520Z - normal: Simulator: Ready for GLSL
+2021-01-18T10:56:02.521Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-18T10:56:02.521Z - normal: Simulator: Project Config:
+2021-01-18T10:56:02.522Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
+2021-01-18T10:56:02.523Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-18T10:56:02.524Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-18T10:56:02.526Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-18T10:56:02.527Z - normal: Simulator:     frame scale: 0.50
+2021-01-18T10:56:02.528Z - normal: Simulator:     show console: NO
+2021-01-18T10:56:02.528Z - normal: Simulator:     write debug log: NO ()
+2021-01-18T10:56:02.529Z - normal: Simulator:     listen: 
+2021-01-18T10:56:02.530Z - normal: Simulator:     debugger: none
+2021-01-18T10:56:02.530Z - normal: Simulator:     add searching path:
+2021-01-18T10:56:02.530Z - normal: Simulator: 
+2021-01-18T10:56:02.531Z - normal: Simulator: 
+2021-01-18T10:56:02.531Z - normal: Simulator: 
+2021-01-18T10:56:02.532Z - normal: Simulator: resetDesignResolution request
+2021-01-18T10:56:02.532Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:56:02.533Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-18T10:56:02.533Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:56:02.534Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
+2021-01-18T10:56:02.534Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-18T10:56:02.535Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-18T10:56:02.535Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-18T10:56:02.578Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
+2021-01-18T10:56:02.584Z - normal: Simulator: resetDesignResolution request
+2021-01-18T10:56:02.584Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:56:02.585Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-18T10:56:02.585Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:56:03.127Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
+2021-01-18T10:56:03.174Z - normal: Simulator: iShow!
+2021-01-18T10:56:03.256Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 60.86800000000005ms
+2021-01-18T10:56:03.572Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-18T10:56:03.573Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
+2021-01-18T10:56:04.952Z - normal: Simulator: D/jswrapper (132): JS: LoadScene ChoiceScene: 37.304999999999836ms
+2021-01-18T10:56:07.887Z - normal: Simulator: D/jswrapper (132): JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2021-01-18T10:56:07.924Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T10:56:07.926Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T10:56:07.926Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T10:56:07.928Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T10:56:07.929Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T10:56:07.931Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T10:56:07.937Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T10:56:07.938Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T10:56:07.939Z - normal: Simulator: D/jswrapper (132): JS: 9/23
+2021-01-18T10:56:07.939Z - normal: Simulator: D/jswrapper (132): JS: 10/25
+2021-01-18T10:56:07.940Z - normal: Simulator: D/jswrapper (132): JS: 11/26
+2021-01-18T10:56:07.943Z - normal: Simulator: D/jswrapper (132): JS: 12/27
+2021-01-18T10:56:07.943Z - normal: Simulator: D/jswrapper (132): JS: 13/28
+2021-01-18T10:56:07.947Z - normal: Simulator: D/jswrapper (132): JS: 14/29
+2021-01-18T10:56:07.957Z - normal: Simulator: D/jswrapper (132): JS: 15/30
+2021-01-18T10:56:07.958Z - normal: Simulator: D/jswrapper (132): JS: 16/31
+2021-01-18T10:56:07.958Z - normal: Simulator: D/jswrapper (132): JS: 17/32
+2021-01-18T10:56:07.959Z - normal: Simulator: D/jswrapper (132): JS: 18/33
+2021-01-18T10:56:07.959Z - normal: Simulator: D/jswrapper (132): JS: 19/34
+2021-01-18T10:56:07.960Z - normal: Simulator: D/jswrapper (132): JS: 20/35
+2021-01-18T10:56:07.961Z - normal: Simulator: D/jswrapper (132): JS: 21/36
+2021-01-18T10:56:07.963Z - normal: Simulator: D/jswrapper (132): JS: 22/37
+2021-01-18T10:56:07.966Z - normal: Simulator: D/jswrapper (132): JS: 23/81
+2021-01-18T10:56:07.975Z - normal: Simulator: D/jswrapper (132): JS: 24/84
+2021-01-18T10:56:07.976Z - normal: Simulator: D/jswrapper (132): JS: 25/85
+2021-01-18T10:56:07.976Z - normal: Simulator: D/jswrapper (132): JS: 26/86
+2021-01-18T10:56:07.976Z - normal: Simulator: D/jswrapper (132): JS: 27/87
+2021-01-18T10:56:07.977Z - normal: Simulator: D/jswrapper (132): JS: 28/88
+2021-01-18T10:56:07.977Z - normal: Simulator: D/jswrapper (132): JS: 29/89
+2021-01-18T10:56:07.979Z - normal: Simulator: D/jswrapper (132): JS: 30/90
+2021-01-18T10:56:07.980Z - normal: Simulator: D/jswrapper (132): JS: 31/90
+2021-01-18T10:56:07.987Z - normal: Simulator: D/jswrapper (132): JS: 32/90
+2021-01-18T10:56:07.988Z - normal: Simulator: D/jswrapper (132): JS: 33/90
+2021-01-18T10:56:07.988Z - normal: Simulator: D/jswrapper (132): JS: 34/90
+2021-01-18T10:56:07.989Z - normal: Simulator: D/jswrapper (132): JS: 35/90
+2021-01-18T10:56:07.989Z - normal: Simulator: D/jswrapper (132): JS: 36/90
+2021-01-18T10:56:07.989Z - normal: Simulator: D/jswrapper (132): JS: 37/91
+2021-01-18T10:56:07.990Z - normal: Simulator: D/jswrapper (132): JS: 38/91
+2021-01-18T10:56:07.990Z - normal: Simulator: D/jswrapper (132): JS: 39/91
+2021-01-18T10:56:07.993Z - normal: Simulator: D/jswrapper (132): JS: 40/91
+2021-01-18T10:56:07.995Z - normal: Simulator: D/jswrapper (132): JS: 41/91
+2021-01-18T10:56:07.996Z - normal: Simulator: D/jswrapper (132): JS: 42/91
+2021-01-18T10:56:07.998Z - normal: Simulator: D/jswrapper (132): JS: 43/91
+2021-01-18T10:56:07.998Z - normal: Simulator: D/jswrapper (132): JS: 44/91
+2021-01-18T10:56:08.004Z - normal: Simulator: D/jswrapper (132): JS: 45/91
+2021-01-18T10:56:08.005Z - normal: Simulator: D/jswrapper (132): JS: 46/91
+2021-01-18T10:56:08.006Z - normal: Simulator: D/jswrapper (132): JS: 47/91
+2021-01-18T10:56:08.006Z - normal: Simulator: D/jswrapper (132): JS: 48/91
+2021-01-18T10:56:08.010Z - normal: Simulator: D/jswrapper (132): JS: 49/91
+2021-01-18T10:56:08.011Z - normal: Simulator: D/jswrapper (132): JS: 50/91
+2021-01-18T10:56:08.013Z - normal: Simulator: D/jswrapper (132): JS: 51/91
+2021-01-18T10:56:08.013Z - normal: Simulator: D/jswrapper (132): JS: 52/91
+2021-01-18T10:56:08.015Z - normal: Simulator: D/jswrapper (132): JS: 53/91
+2021-01-18T10:56:08.022Z - normal: Simulator: D/jswrapper (132): JS: 54/91
+2021-01-18T10:56:08.022Z - normal: Simulator: D/jswrapper (132): JS: 55/91
+2021-01-18T10:56:08.022Z - normal: Simulator: D/jswrapper (132): JS: 56/91
+2021-01-18T10:56:08.023Z - normal: Simulator: D/jswrapper (132): JS: 57/91
+2021-01-18T10:56:08.023Z - normal: Simulator: D/jswrapper (132): JS: 58/91
+2021-01-18T10:56:08.027Z - normal: Simulator: D/jswrapper (132): JS: 59/91
+2021-01-18T10:56:08.029Z - normal: Simulator: D/jswrapper (132): JS: 60/91
+2021-01-18T10:56:08.031Z - normal: Simulator: D/jswrapper (132): JS: 61/91
+2021-01-18T10:56:08.037Z - normal: Simulator: D/jswrapper (132): JS: 62/91
+2021-01-18T10:56:08.038Z - normal: Simulator: D/jswrapper (132): JS: 63/91
+2021-01-18T10:56:08.038Z - normal: Simulator: D/jswrapper (132): JS: 64/91
+2021-01-18T10:56:08.039Z - normal: Simulator: D/jswrapper (132): JS: 65/91
+2021-01-18T10:56:08.040Z - normal: Simulator: D/jswrapper (132): JS: 66/91
+2021-01-18T10:56:08.042Z - normal: Simulator: D/jswrapper (132): JS: 67/91
+2021-01-18T10:56:08.045Z - normal: Simulator: D/jswrapper (132): JS: 68/91
+2021-01-18T10:56:08.046Z - normal: Simulator: D/jswrapper (132): JS: 69/91
+2021-01-18T10:56:08.049Z - normal: Simulator: D/jswrapper (132): JS: 70/91
+2021-01-18T10:56:08.056Z - normal: Simulator: D/jswrapper (132): JS: 71/91
+2021-01-18T10:56:08.056Z - normal: Simulator: D/jswrapper (132): JS: 72/91
+2021-01-18T10:56:08.057Z - normal: Simulator: D/jswrapper (132): JS: 73/91
+2021-01-18T10:56:08.060Z - normal: Simulator: D/jswrapper (132): JS: 74/91
+2021-01-18T10:56:08.061Z - normal: Simulator: D/jswrapper (132): JS: 75/91
+2021-01-18T10:56:08.063Z - normal: Simulator: D/jswrapper (132): JS: 76/91
+2021-01-18T10:56:08.065Z - normal: Simulator: D/jswrapper (132): JS: 77/91
+2021-01-18T10:56:08.072Z - normal: Simulator: D/jswrapper (132): JS: 78/91
+2021-01-18T10:56:08.073Z - normal: Simulator: D/jswrapper (132): JS: 79/91
+2021-01-18T10:56:08.074Z - normal: Simulator: D/jswrapper (132): JS: 80/91
+2021-01-18T10:56:08.075Z - normal: Simulator: D/jswrapper (132): JS: 81/91
+2021-01-18T10:56:08.075Z - normal: Simulator: D/jswrapper (132): JS: 82/92
+2021-01-18T10:56:08.078Z - normal: Simulator: D/jswrapper (132): JS: 83/99
+2021-01-18T10:56:08.080Z - normal: Simulator: D/jswrapper (132): JS: 84/99
+2021-01-18T10:56:08.080Z - normal: Simulator: D/jswrapper (132): JS: 85/99
+2021-01-18T10:56:08.081Z - normal: Simulator: D/jswrapper (132): JS: 86/99
+2021-01-18T10:56:08.081Z - normal: Simulator: D/jswrapper (132): JS: 87/99
+2021-01-18T10:56:08.082Z - normal: Simulator: D/jswrapper (132): JS: 88/99
+2021-01-18T10:56:08.088Z - normal: Simulator: D/jswrapper (132): JS: 89/99
+2021-01-18T10:56:08.089Z - normal: Simulator: D/jswrapper (132): JS: 90/99
+2021-01-18T10:56:08.089Z - normal: Simulator: D/jswrapper (132): JS: 91/99
+2021-01-18T10:56:08.089Z - normal: Simulator: D/jswrapper (132): JS: 92/100
+2021-01-18T10:56:08.090Z - normal: Simulator: D/jswrapper (132): JS: 93/100
+2021-01-18T10:56:08.090Z - normal: Simulator: D/jswrapper (132): JS: 94/100
+2021-01-18T10:56:08.095Z - normal: Simulator: D/jswrapper (132): JS: 95/100
+2021-01-18T10:56:08.096Z - normal: Simulator: D/jswrapper (132): JS: 96/100
+2021-01-18T10:56:08.097Z - normal: Simulator: D/jswrapper (132): JS: 97/100
+2021-01-18T10:56:08.098Z - normal: Simulator: D/jswrapper (132): JS: 98/100
+2021-01-18T10:56:08.104Z - normal: Simulator: D/jswrapper (132): JS: 99/100
+2021-01-18T10:56:08.104Z - normal: Simulator: D/jswrapper (132): JS: 100/100
+2021-01-18T10:56:08.114Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T10:56:08.115Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T10:56:08.115Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T10:56:08.125Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T10:56:08.125Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T10:56:08.126Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T10:56:08.126Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T10:56:08.127Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T10:56:08.127Z - normal: Simulator: D/jswrapper (132): JS: 9/22
+2021-01-18T10:56:08.132Z - normal: Simulator: D/jswrapper (132): JS: 10/23
+2021-01-18T10:56:08.133Z - normal: Simulator: D/jswrapper (132): JS: 11/24
+2021-01-18T10:56:08.141Z - normal: Simulator: D/jswrapper (132): JS: 12/25
+2021-01-18T10:56:08.141Z - normal: Simulator: D/jswrapper (132): JS: 13/26
+2021-01-18T10:56:08.143Z - normal: Simulator: D/jswrapper (132): JS: 14/27
+2021-01-18T10:56:08.144Z - normal: Simulator: D/jswrapper (132): JS: 15/28
+2021-01-18T10:56:08.144Z - normal: Simulator: D/jswrapper (132): JS: 16/29
+2021-01-18T10:56:08.149Z - normal: Simulator: D/jswrapper (132): JS: 17/35
+2021-01-18T10:56:08.150Z - normal: Simulator: D/jswrapper (132): JS: 18/35
+2021-01-18T10:56:08.150Z - normal: Simulator: D/jswrapper (132): JS: 19/36
+2021-01-18T10:56:08.159Z - normal: Simulator: D/jswrapper (132): JS: 20/37
+2021-01-18T10:56:08.159Z - normal: Simulator: D/jswrapper (132): JS: 21/37
+2021-01-18T10:56:08.159Z - normal: Simulator: D/jswrapper (132): JS: 22/39
+2021-01-18T10:56:08.160Z - normal: Simulator: D/jswrapper (132): JS: 23/40
+2021-01-18T10:56:08.160Z - normal: Simulator: D/jswrapper (132): JS: 24/41
+2021-01-18T10:56:08.165Z - normal: Simulator: D/jswrapper (132): JS: 25/46
+2021-01-18T10:56:08.166Z - normal: Simulator: D/jswrapper (132): JS: 26/46
+2021-01-18T10:56:08.166Z - normal: Simulator: D/jswrapper (132): JS: 27/47
+2021-01-18T10:56:08.170Z - normal: Simulator: D/jswrapper (132): JS: 28/47
+2021-01-18T10:56:08.171Z - normal: Simulator: D/jswrapper (132): JS: 29/48
+2021-01-18T10:56:08.173Z - normal: Simulator: D/jswrapper (132): JS: 30/48
+2021-01-18T10:56:08.173Z - normal: Simulator: D/jswrapper (132): JS: 31/49
+2021-01-18T10:56:08.174Z - normal: Simulator: D/jswrapper (132): JS: 32/49
+2021-01-18T10:56:08.175Z - normal: Simulator: D/jswrapper (132): JS: 33/50
+2021-01-18T10:56:08.175Z - normal: Simulator: D/jswrapper (132): JS: 34/50
+2021-01-18T10:56:08.191Z - normal: Simulator: D/jswrapper (132): JS: 35/51
+2021-01-18T10:56:08.192Z - normal: Simulator: D/jswrapper (132): JS: 36/51
+2021-01-18T10:56:08.194Z - normal: Simulator: D/jswrapper (132): JS: 37/52
+2021-01-18T10:56:08.195Z - normal: Simulator: D/jswrapper (132): JS: 38/53
+2021-01-18T10:56:08.197Z - normal: Simulator: D/jswrapper (132): JS: 39/54
+2021-01-18T10:56:08.197Z - normal: Simulator: D/jswrapper (132): JS: 40/55
+2021-01-18T10:56:08.201Z - normal: Simulator: D/jswrapper (132): JS: 41/55
+2021-01-18T10:56:08.202Z - normal: Simulator: D/jswrapper (132): JS: 42/56
+2021-01-18T10:56:08.202Z - normal: Simulator: D/jswrapper (132): JS: 43/57
+2021-01-18T10:56:08.204Z - normal: Simulator: D/jswrapper (132): JS: 44/57
+2021-01-18T10:56:08.205Z - normal: Simulator: D/jswrapper (132): JS: 45/58
+2021-01-18T10:56:08.205Z - normal: Simulator: D/jswrapper (132): JS: 46/59
+2021-01-18T10:56:08.205Z - normal: Simulator: D/jswrapper (132): JS: 47/60
+2021-01-18T10:56:08.206Z - normal: Simulator: D/jswrapper (132): JS: 48/60
+2021-01-18T10:56:08.211Z - normal: Simulator: D/jswrapper (132): JS: 49/60
+2021-01-18T10:56:08.211Z - normal: Simulator: D/jswrapper (132): JS: 50/60
+2021-01-18T10:56:08.213Z - normal: Simulator: D/jswrapper (132): JS: 51/60
+2021-01-18T10:56:08.214Z - normal: Simulator: D/jswrapper (132): JS: 52/60
+2021-01-18T10:56:08.219Z - normal: Simulator: D/jswrapper (132): JS: 53/60
+2021-01-18T10:56:08.219Z - normal: Simulator: D/jswrapper (132): JS: 54/60
+2021-01-18T10:56:08.225Z - normal: Simulator: D/jswrapper (132): JS: 55/60
+2021-01-18T10:56:08.227Z - normal: Simulator: D/jswrapper (132): JS: 56/60
+2021-01-18T10:56:08.228Z - normal: Simulator: D/jswrapper (132): JS: 57/60
+2021-01-18T10:56:08.228Z - normal: Simulator: D/jswrapper (132): JS: 58/60
+2021-01-18T10:56:08.236Z - normal: Simulator: D/jswrapper (132): JS: 59/60
+2021-01-18T10:56:08.246Z - normal: Simulator: D/jswrapper (132): JS: 60/60
+2021-01-18T10:56:08.246Z - normal: Simulator: D/jswrapper (132): JS: LoadScene CityScene2: 138.5729999999994ms
+2021-01-18T10:56:08.923Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T10:56:08.923Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T10:56:08.923Z - normal: Simulator: D/jswrapper (132): JS: 3/5
+2021-01-18T10:56:08.925Z - normal: Simulator: D/jswrapper (132): JS: 4/6
+2021-01-18T10:56:08.926Z - normal: Simulator: D/jswrapper (132): JS: 5/7
+2021-01-18T10:56:08.929Z - normal: Simulator: D/jswrapper (132): JS: 6/8
+2021-01-18T10:56:08.930Z - normal: Simulator: D/jswrapper (132): JS: 7/9
+2021-01-18T10:56:08.937Z - normal: Simulator: D/jswrapper (132): JS: this._curMapTileSize =(32.00, 32.00)
+2021-01-18T10:56:08.937Z - normal: Simulator: D/jswrapper (132): JS: this._curMapSize =(416.00, 416.00)
+2021-01-18T10:56:09.016Z - normal: Simulator: D/jswrapper (132): JS: 8/9
+2021-01-18T10:56:09.018Z - normal: Simulator: D/jswrapper (132): JS: 9/9
+2021-01-18T10:56:09.262Z - normal: Simulator: D/jswrapper (132): JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2021-01-18T10:56:11.521Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
+2021-01-18T10:56:11.522Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 277, all objects: 601
+2021-01-18T10:56:11.556Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 185, all objects: 481
+2021-01-18T10:56:11.557Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 185, all objects: 481
+2021-01-18T10:56:11.564Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 185, all objects: 481
+2021-01-18T10:56:11.586Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
+2021-01-18T10:56:11.586Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2021-01-18T10:56:11.587Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
+2021-01-18T10:56:11.596Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
+2021-01-18T10:56:11.814Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2021-01-18T10:59:03.209Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-18T10:59:03.212Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2021-01-18T10:59:03.213Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-18T10:59:03.618Z - normal: Simulator: Ready for GLSL
+2021-01-18T10:59:03.618Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-18T10:59:03.618Z - normal: Simulator: Project Config:
+2021-01-18T10:59:03.619Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
+2021-01-18T10:59:03.619Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-18T10:59:03.619Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-18T10:59:03.620Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-18T10:59:03.620Z - normal: Simulator:     frame scale: 0.50
+2021-01-18T10:59:03.621Z - normal: Simulator:     show console: NO
+2021-01-18T10:59:03.621Z - normal: Simulator:     write debug log: NO ()
+2021-01-18T10:59:03.621Z - normal: Simulator:     listen: 
+2021-01-18T10:59:03.622Z - normal: Simulator:     debugger: none
+2021-01-18T10:59:03.622Z - normal: Simulator:     add searching path:
+2021-01-18T10:59:03.623Z - normal: Simulator: 
+2021-01-18T10:59:03.623Z - normal: Simulator: 
+2021-01-18T10:59:03.624Z - normal: Simulator: 
+2021-01-18T10:59:03.624Z - normal: Simulator: resetDesignResolution request
+2021-01-18T10:59:03.625Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:59:03.625Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-18T10:59:03.625Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:59:03.626Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
+2021-01-18T10:59:03.626Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-18T10:59:03.626Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-18T10:59:03.627Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-18T10:59:03.637Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
+2021-01-18T10:59:03.637Z - normal: Simulator: resetDesignResolution request
+2021-01-18T10:59:03.638Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:59:03.638Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-18T10:59:03.638Z - normal: Simulator: ------------------------------------------------
+2021-01-18T10:59:04.131Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
+2021-01-18T10:59:04.179Z - normal: Simulator: iShow!
+2021-01-18T10:59:04.275Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 64.18099999999993ms
+2021-01-18T10:59:04.544Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-18T10:59:04.544Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
+2021-01-18T11:01:09.205Z - normal: Simulator: D/jswrapper (132): JS: LoadScene ChoiceScene: 35.705999999991036ms
+2021-01-18T11:01:11.896Z - normal: Simulator: D/jswrapper (132): JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2021-01-18T11:01:11.901Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:01:11.902Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:01:11.902Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:01:11.905Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:01:11.913Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:01:11.913Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:01:11.914Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:01:11.914Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:01:11.914Z - normal: Simulator: D/jswrapper (132): JS: 9/23
+2021-01-18T11:01:11.917Z - normal: Simulator: D/jswrapper (132): JS: 10/25
+2021-01-18T11:01:11.919Z - normal: Simulator: D/jswrapper (132): JS: 11/26
+2021-01-18T11:01:11.921Z - normal: Simulator: D/jswrapper (132): JS: 12/27
+2021-01-18T11:01:11.923Z - normal: Simulator: D/jswrapper (132): JS: 13/28
+2021-01-18T11:01:11.926Z - normal: Simulator: D/jswrapper (132): JS: 14/29
+2021-01-18T11:01:11.927Z - normal: Simulator: D/jswrapper (132): JS: 15/30
+2021-01-18T11:01:11.929Z - normal: Simulator: D/jswrapper (132): JS: 16/31
+2021-01-18T11:01:11.931Z - normal: Simulator: D/jswrapper (132): JS: 17/32
+2021-01-18T11:01:11.933Z - normal: Simulator: D/jswrapper (132): JS: 18/33
+2021-01-18T11:01:11.941Z - normal: Simulator: D/jswrapper (132): JS: 19/34
+2021-01-18T11:01:11.942Z - normal: Simulator: D/jswrapper (132): JS: 20/35
+2021-01-18T11:01:11.942Z - normal: Simulator: D/jswrapper (132): JS: 21/36
+2021-01-18T11:01:11.943Z - normal: Simulator: D/jswrapper (132): JS: 22/37
+2021-01-18T11:01:11.943Z - normal: Simulator: D/jswrapper (132): JS: 23/81
+2021-01-18T11:01:11.944Z - normal: Simulator: D/jswrapper (132): JS: 24/84
+2021-01-18T11:01:11.945Z - normal: Simulator: D/jswrapper (132): JS: 25/85
+2021-01-18T11:01:11.947Z - normal: Simulator: D/jswrapper (132): JS: 26/86
+2021-01-18T11:01:11.949Z - normal: Simulator: D/jswrapper (132): JS: 27/87
+2021-01-18T11:01:11.951Z - normal: Simulator: D/jswrapper (132): JS: 28/88
+2021-01-18T11:01:11.952Z - normal: Simulator: D/jswrapper (132): JS: 29/89
+2021-01-18T11:01:11.954Z - normal: Simulator: D/jswrapper (132): JS: 30/90
+2021-01-18T11:01:11.954Z - normal: Simulator: D/jswrapper (132): JS: 31/90
+2021-01-18T11:01:11.966Z - normal: Simulator: D/jswrapper (132): JS: 32/90
+2021-01-18T11:01:11.967Z - normal: Simulator: D/jswrapper (132): JS: 33/90
+2021-01-18T11:01:11.967Z - normal: Simulator: D/jswrapper (132): JS: 34/90
+2021-01-18T11:01:11.968Z - normal: Simulator: D/jswrapper (132): JS: 35/90
+2021-01-18T11:01:11.968Z - normal: Simulator: D/jswrapper (132): JS: 36/90
+2021-01-18T11:01:11.968Z - normal: Simulator: D/jswrapper (132): JS: 37/91
+2021-01-18T11:01:11.969Z - normal: Simulator: D/jswrapper (132): JS: 38/91
+2021-01-18T11:01:11.969Z - normal: Simulator: D/jswrapper (132): JS: 39/91
+2021-01-18T11:01:11.969Z - normal: Simulator: D/jswrapper (132): JS: 40/91
+2021-01-18T11:01:11.970Z - normal: Simulator: D/jswrapper (132): JS: 41/91
+2021-01-18T11:01:11.971Z - normal: Simulator: D/jswrapper (132): JS: 42/91
+2021-01-18T11:01:11.971Z - normal: Simulator: D/jswrapper (132): JS: 43/91
+2021-01-18T11:01:11.980Z - normal: Simulator: D/jswrapper (132): JS: 44/91
+2021-01-18T11:01:11.980Z - normal: Simulator: D/jswrapper (132): JS: 45/91
+2021-01-18T11:01:11.981Z - normal: Simulator: D/jswrapper (132): JS: 46/91
+2021-01-18T11:01:11.994Z - normal: Simulator: D/jswrapper (132): JS: 47/91
+2021-01-18T11:01:11.995Z - normal: Simulator: D/jswrapper (132): JS: 48/91
+2021-01-18T11:01:11.995Z - normal: Simulator: D/jswrapper (132): JS: 49/91
+2021-01-18T11:01:11.995Z - normal: Simulator: D/jswrapper (132): JS: 50/91
+2021-01-18T11:01:11.996Z - normal: Simulator: D/jswrapper (132): JS: 51/91
+2021-01-18T11:01:11.997Z - normal: Simulator: D/jswrapper (132): JS: 52/91
+2021-01-18T11:01:11.998Z - normal: Simulator: D/jswrapper (132): JS: 53/91
+2021-01-18T11:01:11.999Z - normal: Simulator: D/jswrapper (132): JS: 54/91
+2021-01-18T11:01:11.999Z - normal: Simulator: D/jswrapper (132): JS: 55/91
+2021-01-18T11:01:11.999Z - normal: Simulator: D/jswrapper (132): JS: 56/91
+2021-01-18T11:01:12.000Z - normal: Simulator: D/jswrapper (132): JS: 57/91
+2021-01-18T11:01:12.000Z - normal: Simulator: D/jswrapper (132): JS: 58/91
+2021-01-18T11:01:12.000Z - normal: Simulator: D/jswrapper (132): JS: 59/91
+2021-01-18T11:01:12.003Z - normal: Simulator: D/jswrapper (132): JS: 60/91
+2021-01-18T11:01:12.004Z - normal: Simulator: D/jswrapper (132): JS: 61/91
+2021-01-18T11:01:12.006Z - normal: Simulator: D/jswrapper (132): JS: 62/91
+2021-01-18T11:01:12.011Z - normal: Simulator: D/jswrapper (132): JS: 63/91
+2021-01-18T11:01:12.011Z - normal: Simulator: D/jswrapper (132): JS: 64/91
+2021-01-18T11:01:12.011Z - normal: Simulator: D/jswrapper (132): JS: 65/91
+2021-01-18T11:01:12.012Z - normal: Simulator: D/jswrapper (132): JS: 66/91
+2021-01-18T11:01:12.013Z - normal: Simulator: D/jswrapper (132): JS: 67/91
+2021-01-18T11:01:12.014Z - normal: Simulator: D/jswrapper (132): JS: 68/91
+2021-01-18T11:01:12.015Z - normal: Simulator: D/jswrapper (132): JS: 69/91
+2021-01-18T11:01:12.025Z - normal: Simulator: D/jswrapper (132): JS: 70/91
+2021-01-18T11:01:12.028Z - normal: Simulator: D/jswrapper (132): JS: 71/91
+2021-01-18T11:01:12.028Z - normal: Simulator: D/jswrapper (132): JS: 72/91
+2021-01-18T11:01:12.030Z - normal: Simulator: D/jswrapper (132): JS: 73/91
+2021-01-18T11:01:12.031Z - normal: Simulator: D/jswrapper (132): JS: 74/91
+2021-01-18T11:01:12.031Z - normal: Simulator: D/jswrapper (132): JS: 75/91
+2021-01-18T11:01:12.032Z - normal: Simulator: D/jswrapper (132): JS: 76/91
+2021-01-18T11:01:12.032Z - normal: Simulator: D/jswrapper (132): JS: 77/91
+2021-01-18T11:01:12.034Z - normal: Simulator: D/jswrapper (132): JS: 78/91
+2021-01-18T11:01:12.038Z - normal: Simulator: D/jswrapper (132): JS: 79/91
+2021-01-18T11:01:12.038Z - normal: Simulator: D/jswrapper (132): JS: 80/91
+2021-01-18T11:01:12.039Z - normal: Simulator: D/jswrapper (132): JS: 81/91
+2021-01-18T11:01:12.042Z - normal: Simulator: D/jswrapper (132): JS: 82/92
+2021-01-18T11:01:12.044Z - normal: Simulator: D/jswrapper (132): JS: 83/99
+2021-01-18T11:01:12.045Z - normal: Simulator: D/jswrapper (132): JS: 84/99
+2021-01-18T11:01:12.045Z - normal: Simulator: D/jswrapper (132): JS: 85/99
+2021-01-18T11:01:12.046Z - normal: Simulator: D/jswrapper (132): JS: 86/99
+2021-01-18T11:01:12.046Z - normal: Simulator: D/jswrapper (132): JS: 87/99
+2021-01-18T11:01:12.048Z - normal: Simulator: D/jswrapper (132): JS: 88/99
+2021-01-18T11:01:12.048Z - normal: Simulator: D/jswrapper (132): JS: 89/99
+2021-01-18T11:01:12.049Z - normal: Simulator: D/jswrapper (132): JS: 90/99
+2021-01-18T11:01:12.049Z - normal: Simulator: D/jswrapper (132): JS: 91/99
+2021-01-18T11:01:12.058Z - normal: Simulator: D/jswrapper (132): JS: 92/100
+2021-01-18T11:01:12.059Z - normal: Simulator: D/jswrapper (132): JS: 93/100
+2021-01-18T11:01:12.060Z - normal: Simulator: D/jswrapper (132): JS: 94/100
+2021-01-18T11:01:12.063Z - normal: Simulator: D/jswrapper (132): JS: 95/100
+2021-01-18T11:01:12.064Z - normal: Simulator: D/jswrapper (132): JS: 96/100
+2021-01-18T11:01:12.066Z - normal: Simulator: D/jswrapper (132): JS: 97/100
+2021-01-18T11:01:12.067Z - normal: Simulator: D/jswrapper (132): JS: 98/100
+2021-01-18T11:01:12.067Z - normal: Simulator: D/jswrapper (132): JS: 99/100
+2021-01-18T11:01:12.067Z - normal: Simulator: D/jswrapper (132): JS: 100/100
+2021-01-18T11:01:12.078Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:01:12.079Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:01:12.079Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:01:12.086Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:01:12.093Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:01:12.094Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:01:12.094Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:01:12.094Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:01:12.095Z - normal: Simulator: D/jswrapper (132): JS: 9/22
+2021-01-18T11:01:12.096Z - normal: Simulator: D/jswrapper (132): JS: 10/23
+2021-01-18T11:01:12.096Z - normal: Simulator: D/jswrapper (132): JS: 11/24
+2021-01-18T11:01:12.097Z - normal: Simulator: D/jswrapper (132): JS: 12/25
+2021-01-18T11:01:12.098Z - normal: Simulator: D/jswrapper (132): JS: 13/26
+2021-01-18T11:01:12.124Z - normal: Simulator: D/jswrapper (132): JS: 14/27
+2021-01-18T11:01:12.124Z - normal: Simulator: D/jswrapper (132): JS: 15/28
+2021-01-18T11:01:12.125Z - normal: Simulator: D/jswrapper (132): JS: 16/29
+2021-01-18T11:01:12.128Z - normal: Simulator: D/jswrapper (132): JS: 17/35
+2021-01-18T11:01:12.129Z - normal: Simulator: D/jswrapper (132): JS: 18/35
+2021-01-18T11:01:12.130Z - normal: Simulator: D/jswrapper (132): JS: 19/36
+2021-01-18T11:01:12.130Z - normal: Simulator: D/jswrapper (132): JS: 20/37
+2021-01-18T11:01:12.130Z - normal: Simulator: D/jswrapper (132): JS: 21/37
+2021-01-18T11:01:12.131Z - normal: Simulator: D/jswrapper (132): JS: 22/39
+2021-01-18T11:01:12.131Z - normal: Simulator: D/jswrapper (132): JS: 23/40
+2021-01-18T11:01:12.131Z - normal: Simulator: D/jswrapper (132): JS: 24/41
+2021-01-18T11:01:12.132Z - normal: Simulator: D/jswrapper (132): JS: 25/46
+2021-01-18T11:01:12.133Z - normal: Simulator: D/jswrapper (132): JS: 26/46
+2021-01-18T11:01:12.133Z - normal: Simulator: D/jswrapper (132): JS: 27/47
+2021-01-18T11:01:12.133Z - normal: Simulator: D/jswrapper (132): JS: 28/47
+2021-01-18T11:01:12.134Z - normal: Simulator: D/jswrapper (132): JS: 29/48
+2021-01-18T11:01:12.134Z - normal: Simulator: D/jswrapper (132): JS: 30/48
+2021-01-18T11:01:12.134Z - normal: Simulator: D/jswrapper (132): JS: 31/49
+2021-01-18T11:01:12.135Z - normal: Simulator: D/jswrapper (132): JS: 32/49
+2021-01-18T11:01:12.136Z - normal: Simulator: D/jswrapper (132): JS: 33/50
+2021-01-18T11:01:12.136Z - normal: Simulator: D/jswrapper (132): JS: 34/50
+2021-01-18T11:01:12.137Z - normal: Simulator: D/jswrapper (132): JS: 35/51
+2021-01-18T11:01:12.137Z - normal: Simulator: D/jswrapper (132): JS: 36/51
+2021-01-18T11:01:12.138Z - normal: Simulator: D/jswrapper (132): JS: 37/52
+2021-01-18T11:01:12.139Z - normal: Simulator: D/jswrapper (132): JS: 38/53
+2021-01-18T11:01:12.140Z - normal: Simulator: D/jswrapper (132): JS: 39/54
+2021-01-18T11:01:12.140Z - normal: Simulator: D/jswrapper (132): JS: 40/55
+2021-01-18T11:01:12.141Z - normal: Simulator: D/jswrapper (132): JS: 41/55
+2021-01-18T11:01:12.141Z - normal: Simulator: D/jswrapper (132): JS: 42/56
+2021-01-18T11:01:12.141Z - normal: Simulator: D/jswrapper (132): JS: 43/57
+2021-01-18T11:01:12.142Z - normal: Simulator: D/jswrapper (132): JS: 44/57
+2021-01-18T11:01:12.142Z - normal: Simulator: D/jswrapper (132): JS: 45/58
+2021-01-18T11:01:12.145Z - normal: Simulator: D/jswrapper (132): JS: 46/59
+2021-01-18T11:01:12.147Z - normal: Simulator: D/jswrapper (132): JS: 47/60
+2021-01-18T11:01:12.147Z - normal: Simulator: D/jswrapper (132): JS: 48/60
+2021-01-18T11:01:12.172Z - normal: Simulator: D/jswrapper (132): JS: 49/60
+2021-01-18T11:01:12.173Z - normal: Simulator: D/jswrapper (132): JS: 50/60
+2021-01-18T11:01:12.174Z - normal: Simulator: D/jswrapper (132): JS: 51/60
+2021-01-18T11:01:12.176Z - normal: Simulator: D/jswrapper (132): JS: 52/60
+2021-01-18T11:01:12.176Z - normal: Simulator: D/jswrapper (132): JS: 53/60
+2021-01-18T11:01:12.176Z - normal: Simulator: D/jswrapper (132): JS: 54/60
+2021-01-18T11:01:12.177Z - normal: Simulator: D/jswrapper (132): JS: 55/60
+2021-01-18T11:01:12.177Z - normal: Simulator: D/jswrapper (132): JS: 56/60
+2021-01-18T11:01:12.178Z - normal: Simulator: D/jswrapper (132): JS: 57/60
+2021-01-18T11:01:12.178Z - normal: Simulator: D/jswrapper (132): JS: 58/60
+2021-01-18T11:01:12.185Z - normal: Simulator: D/jswrapper (132): JS: 59/60
+2021-01-18T11:01:12.188Z - normal: Simulator: D/jswrapper (132): JS: 60/60
+2021-01-18T11:01:12.192Z - normal: Simulator: D/jswrapper (132): JS: LoadScene CityScene2: 122.86700000001292ms
+2021-01-18T11:01:12.678Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T11:01:12.678Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T11:01:12.678Z - normal: Simulator: D/jswrapper (132): JS: 3/5
+2021-01-18T11:01:12.680Z - normal: Simulator: D/jswrapper (132): JS: 4/6
+2021-01-18T11:01:12.681Z - normal: Simulator: D/jswrapper (132): JS: 5/7
+2021-01-18T11:01:12.683Z - normal: Simulator: D/jswrapper (132): JS: 6/8
+2021-01-18T11:01:12.685Z - normal: Simulator: D/jswrapper (132): JS: 7/9
+2021-01-18T11:01:12.689Z - normal: Simulator: D/jswrapper (132): JS: this._curMapTileSize =(32.00, 32.00)
+2021-01-18T11:01:12.690Z - normal: Simulator: D/jswrapper (132): JS: this._curMapSize =(416.00, 416.00)
+2021-01-18T11:01:12.885Z - normal: Simulator: D/jswrapper (132): JS: 8/9
+2021-01-18T11:01:12.887Z - normal: Simulator: D/jswrapper (132): JS: 9/9
+2021-01-18T11:01:12.907Z - normal: Simulator: D/jswrapper (132): JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2021-01-18T11:01:40.959Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
+2021-01-18T11:01:40.961Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 264, all objects: 654
+2021-01-18T11:01:40.994Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 230, all objects: 613
+2021-01-18T11:01:40.994Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 230, all objects: 613
+2021-01-18T11:01:41.002Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 230, all objects: 613
+2021-01-18T11:01:41.016Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:01:41.016Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2021-01-18T11:01:41.017Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:01:41.032Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
+2021-01-18T11:01:41.142Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2021-01-18T11:03:17.677Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-18T11:03:17.678Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2021-01-18T11:03:17.678Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-18T11:03:17.788Z - normal: Simulator: Ready for GLSL
+2021-01-18T11:03:17.789Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-18T11:03:18.097Z - normal: Simulator: Project Config:
+2021-01-18T11:03:18.098Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
+2021-01-18T11:03:18.099Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-18T11:03:18.099Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-18T11:03:18.100Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-18T11:03:18.100Z - normal: Simulator:     frame scale: 0.50
+2021-01-18T11:03:18.101Z - normal: Simulator:     show console: NO
+2021-01-18T11:03:18.101Z - normal: Simulator:     write debug log: NO ()
+2021-01-18T11:03:18.102Z - normal: Simulator:     listen: 
+2021-01-18T11:03:18.102Z - normal: Simulator:     debugger: none
+2021-01-18T11:03:18.103Z - normal: Simulator:     add searching path:
+2021-01-18T11:03:18.103Z - normal: Simulator: 
+2021-01-18T11:03:18.104Z - normal: Simulator: 
+2021-01-18T11:03:18.104Z - normal: Simulator: 
+2021-01-18T11:03:18.104Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:03:18.105Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:03:18.105Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-18T11:03:18.107Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:03:18.107Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
+2021-01-18T11:03:18.108Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-18T11:03:18.110Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-18T11:03:18.110Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-18T11:03:18.145Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
+2021-01-18T11:03:18.146Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:03:18.146Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:03:18.147Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-18T11:03:18.147Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:03:18.685Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
+2021-01-18T11:03:18.731Z - normal: Simulator: iShow!
+2021-01-18T11:03:18.788Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 40.88199999999995ms
+2021-01-18T11:03:19.062Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-18T11:03:19.063Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
+2021-01-18T11:03:21.251Z - normal: Simulator: D/jswrapper (132): JS: LoadScene ChoiceScene: 32.521000000000186ms
+2021-01-18T11:03:22.836Z - normal: Simulator: D/jswrapper (132): JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2021-01-18T11:03:22.849Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:03:22.850Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:03:22.851Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:03:22.852Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:03:22.852Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:03:22.852Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:03:22.853Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:03:22.853Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:03:22.863Z - normal: Simulator: D/jswrapper (132): JS: 9/23
+2021-01-18T11:03:22.864Z - normal: Simulator: D/jswrapper (132): JS: 10/25
+2021-01-18T11:03:22.864Z - normal: Simulator: D/jswrapper (132): JS: 11/26
+2021-01-18T11:03:22.867Z - normal: Simulator: D/jswrapper (132): JS: 12/27
+2021-01-18T11:03:22.874Z - normal: Simulator: D/jswrapper (132): JS: 13/28
+2021-01-18T11:03:22.875Z - normal: Simulator: D/jswrapper (132): JS: 14/29
+2021-01-18T11:03:22.876Z - normal: Simulator: D/jswrapper (132): JS: 15/30
+2021-01-18T11:03:22.877Z - normal: Simulator: D/jswrapper (132): JS: 16/31
+2021-01-18T11:03:22.880Z - normal: Simulator: D/jswrapper (132): JS: 17/32
+2021-01-18T11:03:22.883Z - normal: Simulator: D/jswrapper (132): JS: 18/33
+2021-01-18T11:03:22.883Z - normal: Simulator: D/jswrapper (132): JS: 19/34
+2021-01-18T11:03:22.885Z - normal: Simulator: D/jswrapper (132): JS: 20/35
+2021-01-18T11:03:22.890Z - normal: Simulator: D/jswrapper (132): JS: 21/36
+2021-01-18T11:03:22.891Z - normal: Simulator: D/jswrapper (132): JS: 22/37
+2021-01-18T11:03:22.892Z - normal: Simulator: D/jswrapper (132): JS: 23/81
+2021-01-18T11:03:22.902Z - normal: Simulator: D/jswrapper (132): JS: 24/84
+2021-01-18T11:03:22.903Z - normal: Simulator: D/jswrapper (132): JS: 25/85
+2021-01-18T11:03:22.903Z - normal: Simulator: D/jswrapper (132): JS: 26/86
+2021-01-18T11:03:22.904Z - normal: Simulator: D/jswrapper (132): JS: 27/87
+2021-01-18T11:03:22.904Z - normal: Simulator: D/jswrapper (132): JS: 28/88
+2021-01-18T11:03:22.904Z - normal: Simulator: D/jswrapper (132): JS: 29/89
+2021-01-18T11:03:22.905Z - normal: Simulator: D/jswrapper (132): JS: 30/90
+2021-01-18T11:03:22.905Z - normal: Simulator: D/jswrapper (132): JS: 31/90
+2021-01-18T11:03:22.905Z - normal: Simulator: D/jswrapper (132): JS: 32/90
+2021-01-18T11:03:22.912Z - normal: Simulator: D/jswrapper (132): JS: 33/90
+2021-01-18T11:03:22.915Z - normal: Simulator: D/jswrapper (132): JS: 34/90
+2021-01-18T11:03:22.916Z - normal: Simulator: D/jswrapper (132): JS: 35/90
+2021-01-18T11:03:22.917Z - normal: Simulator: D/jswrapper (132): JS: 36/90
+2021-01-18T11:03:22.924Z - normal: Simulator: D/jswrapper (132): JS: 37/91
+2021-01-18T11:03:22.926Z - normal: Simulator: D/jswrapper (132): JS: 38/91
+2021-01-18T11:03:22.926Z - normal: Simulator: D/jswrapper (132): JS: 39/91
+2021-01-18T11:03:22.929Z - normal: Simulator: D/jswrapper (132): JS: 40/91
+2021-01-18T11:03:22.930Z - normal: Simulator: D/jswrapper (132): JS: 41/91
+2021-01-18T11:03:22.931Z - normal: Simulator: D/jswrapper (132): JS: 42/91
+2021-01-18T11:03:22.933Z - normal: Simulator: D/jswrapper (132): JS: 43/91
+2021-01-18T11:03:22.934Z - normal: Simulator: D/jswrapper (132): JS: 44/91
+2021-01-18T11:03:22.934Z - normal: Simulator: D/jswrapper (132): JS: 45/91
+2021-01-18T11:03:22.934Z - normal: Simulator: D/jswrapper (132): JS: 46/91
+2021-01-18T11:03:22.935Z - normal: Simulator: D/jswrapper (132): JS: 47/91
+2021-01-18T11:03:22.935Z - normal: Simulator: D/jswrapper (132): JS: 48/91
+2021-01-18T11:03:22.938Z - normal: Simulator: D/jswrapper (132): JS: 49/91
+2021-01-18T11:03:22.946Z - normal: Simulator: D/jswrapper (132): JS: 50/91
+2021-01-18T11:03:22.947Z - normal: Simulator: D/jswrapper (132): JS: 51/91
+2021-01-18T11:03:22.949Z - normal: Simulator: D/jswrapper (132): JS: 52/91
+2021-01-18T11:03:22.950Z - normal: Simulator: D/jswrapper (132): JS: 53/91
+2021-01-18T11:03:22.955Z - normal: Simulator: D/jswrapper (132): JS: 54/91
+2021-01-18T11:03:22.955Z - normal: Simulator: D/jswrapper (132): JS: 55/91
+2021-01-18T11:03:22.956Z - normal: Simulator: D/jswrapper (132): JS: 56/91
+2021-01-18T11:03:22.957Z - normal: Simulator: D/jswrapper (132): JS: 57/91
+2021-01-18T11:03:22.957Z - normal: Simulator: D/jswrapper (132): JS: 58/91
+2021-01-18T11:03:22.958Z - normal: Simulator: D/jswrapper (132): JS: 59/91
+2021-01-18T11:03:22.958Z - normal: Simulator: D/jswrapper (132): JS: 60/91
+2021-01-18T11:03:22.958Z - normal: Simulator: D/jswrapper (132): JS: 61/91
+2021-01-18T11:03:22.959Z - normal: Simulator: D/jswrapper (132): JS: 62/91
+2021-01-18T11:03:22.960Z - normal: Simulator: D/jswrapper (132): JS: 63/91
+2021-01-18T11:03:22.962Z - normal: Simulator: D/jswrapper (132): JS: 64/91
+2021-01-18T11:03:22.963Z - normal: Simulator: D/jswrapper (132): JS: 65/91
+2021-01-18T11:03:22.963Z - normal: Simulator: D/jswrapper (132): JS: 66/91
+2021-01-18T11:03:22.965Z - normal: Simulator: D/jswrapper (132): JS: 67/91
+2021-01-18T11:03:22.975Z - normal: Simulator: D/jswrapper (132): JS: 68/91
+2021-01-18T11:03:22.980Z - normal: Simulator: D/jswrapper (132): JS: 69/91
+2021-01-18T11:03:22.980Z - normal: Simulator: D/jswrapper (132): JS: 70/91
+2021-01-18T11:03:22.982Z - normal: Simulator: D/jswrapper (132): JS: 71/91
+2021-01-18T11:03:22.984Z - normal: Simulator: D/jswrapper (132): JS: 72/91
+2021-01-18T11:03:22.986Z - normal: Simulator: D/jswrapper (132): JS: 73/91
+2021-01-18T11:03:22.987Z - normal: Simulator: D/jswrapper (132): JS: 74/91
+2021-01-18T11:03:22.988Z - normal: Simulator: D/jswrapper (132): JS: 75/91
+2021-01-18T11:03:22.988Z - normal: Simulator: D/jswrapper (132): JS: 76/91
+2021-01-18T11:03:22.988Z - normal: Simulator: D/jswrapper (132): JS: 77/91
+2021-01-18T11:03:22.989Z - normal: Simulator: D/jswrapper (132): JS: 78/91
+2021-01-18T11:03:22.989Z - normal: Simulator: D/jswrapper (132): JS: 79/91
+2021-01-18T11:03:22.989Z - normal: Simulator: D/jswrapper (132): JS: 80/91
+2021-01-18T11:03:22.990Z - normal: Simulator: D/jswrapper (132): JS: 81/91
+2021-01-18T11:03:22.991Z - normal: Simulator: D/jswrapper (132): JS: 82/92
+2021-01-18T11:03:22.991Z - normal: Simulator: D/jswrapper (132): JS: 83/99
+2021-01-18T11:03:22.993Z - normal: Simulator: D/jswrapper (132): JS: 84/99
+2021-01-18T11:03:22.994Z - normal: Simulator: D/jswrapper (132): JS: 85/99
+2021-01-18T11:03:22.996Z - normal: Simulator: D/jswrapper (132): JS: 86/99
+2021-01-18T11:03:22.997Z - normal: Simulator: D/jswrapper (132): JS: 87/99
+2021-01-18T11:03:22.997Z - normal: Simulator: D/jswrapper (132): JS: 88/99
+2021-01-18T11:03:22.998Z - normal: Simulator: D/jswrapper (132): JS: 89/99
+2021-01-18T11:03:22.998Z - normal: Simulator: D/jswrapper (132): JS: 90/99
+2021-01-18T11:03:22.999Z - normal: Simulator: D/jswrapper (132): JS: 91/99
+2021-01-18T11:03:22.999Z - normal: Simulator: D/jswrapper (132): JS: 92/100
+2021-01-18T11:03:23.000Z - normal: Simulator: D/jswrapper (132): JS: 93/100
+2021-01-18T11:03:23.004Z - normal: Simulator: D/jswrapper (132): JS: 94/100
+2021-01-18T11:03:23.011Z - normal: Simulator: D/jswrapper (132): JS: 95/100
+2021-01-18T11:03:23.013Z - normal: Simulator: D/jswrapper (132): JS: 96/100
+2021-01-18T11:03:23.013Z - normal: Simulator: D/jswrapper (132): JS: 97/100
+2021-01-18T11:03:23.015Z - normal: Simulator: D/jswrapper (132): JS: 98/100
+2021-01-18T11:03:23.016Z - normal: Simulator: D/jswrapper (132): JS: 99/100
+2021-01-18T11:03:23.017Z - normal: Simulator: D/jswrapper (132): JS: 100/100
+2021-01-18T11:03:23.028Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:03:23.030Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:03:23.032Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:03:23.033Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:03:23.037Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:03:23.037Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:03:23.038Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:03:23.038Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:03:23.040Z - normal: Simulator: D/jswrapper (132): JS: 9/22
+2021-01-18T11:03:23.041Z - normal: Simulator: D/jswrapper (132): JS: 10/23
+2021-01-18T11:03:23.041Z - normal: Simulator: D/jswrapper (132): JS: 11/24
+2021-01-18T11:03:23.042Z - normal: Simulator: D/jswrapper (132): JS: 12/25
+2021-01-18T11:03:23.043Z - normal: Simulator: D/jswrapper (132): JS: 13/26
+2021-01-18T11:03:23.053Z - normal: Simulator: D/jswrapper (132): JS: 14/27
+2021-01-18T11:03:23.055Z - normal: Simulator: D/jswrapper (132): JS: 15/28
+2021-01-18T11:03:23.056Z - normal: Simulator: D/jswrapper (132): JS: 16/29
+2021-01-18T11:03:23.056Z - normal: Simulator: D/jswrapper (132): JS: 17/35
+2021-01-18T11:03:23.057Z - normal: Simulator: D/jswrapper (132): JS: 18/35
+2021-01-18T11:03:23.059Z - normal: Simulator: D/jswrapper (132): JS: 19/36
+2021-01-18T11:03:23.061Z - normal: Simulator: D/jswrapper (132): JS: 20/37
+2021-01-18T11:03:23.062Z - normal: Simulator: D/jswrapper (132): JS: 21/37
+2021-01-18T11:03:23.067Z - normal: Simulator: D/jswrapper (132): JS: 22/39
+2021-01-18T11:03:23.068Z - normal: Simulator: D/jswrapper (132): JS: 23/40
+2021-01-18T11:03:23.069Z - normal: Simulator: D/jswrapper (132): JS: 24/41
+2021-01-18T11:03:23.070Z - normal: Simulator: D/jswrapper (132): JS: 25/46
+2021-01-18T11:03:23.070Z - normal: Simulator: D/jswrapper (132): JS: 26/46
+2021-01-18T11:03:23.081Z - normal: Simulator: D/jswrapper (132): JS: 27/47
+2021-01-18T11:03:23.083Z - normal: Simulator: D/jswrapper (132): JS: 28/47
+2021-01-18T11:03:23.086Z - normal: Simulator: D/jswrapper (132): JS: 29/48
+2021-01-18T11:03:23.087Z - normal: Simulator: D/jswrapper (132): JS: 30/48
+2021-01-18T11:03:23.087Z - normal: Simulator: D/jswrapper (132): JS: 31/49
+2021-01-18T11:03:23.089Z - normal: Simulator: D/jswrapper (132): JS: 32/49
+2021-01-18T11:03:23.091Z - normal: Simulator: D/jswrapper (132): JS: 33/50
+2021-01-18T11:03:23.091Z - normal: Simulator: D/jswrapper (132): JS: 34/50
+2021-01-18T11:03:23.093Z - normal: Simulator: D/jswrapper (132): JS: 35/51
+2021-01-18T11:03:23.094Z - normal: Simulator: D/jswrapper (132): JS: 36/51
+2021-01-18T11:03:23.095Z - normal: Simulator: D/jswrapper (132): JS: 37/52
+2021-01-18T11:03:23.095Z - normal: Simulator: D/jswrapper (132): JS: 38/53
+2021-01-18T11:03:23.095Z - normal: Simulator: D/jswrapper (132): JS: 39/54
+2021-01-18T11:03:23.096Z - normal: Simulator: D/jswrapper (132): JS: 40/55
+2021-01-18T11:03:23.096Z - normal: Simulator: D/jswrapper (132): JS: 41/55
+2021-01-18T11:03:23.097Z - normal: Simulator: D/jswrapper (132): JS: 42/56
+2021-01-18T11:03:23.097Z - normal: Simulator: D/jswrapper (132): JS: 43/57
+2021-01-18T11:03:23.098Z - normal: Simulator: D/jswrapper (132): JS: 44/57
+2021-01-18T11:03:23.100Z - normal: Simulator: D/jswrapper (132): JS: 45/58
+2021-01-18T11:03:23.102Z - normal: Simulator: D/jswrapper (132): JS: 46/59
+2021-01-18T11:03:23.104Z - normal: Simulator: D/jswrapper (132): JS: 47/60
+2021-01-18T11:03:23.104Z - normal: Simulator: D/jswrapper (132): JS: 48/60
+2021-01-18T11:03:23.105Z - normal: Simulator: D/jswrapper (132): JS: 49/60
+2021-01-18T11:03:23.105Z - normal: Simulator: D/jswrapper (132): JS: 50/60
+2021-01-18T11:03:23.114Z - normal: Simulator: D/jswrapper (132): JS: 51/60
+2021-01-18T11:03:23.115Z - normal: Simulator: D/jswrapper (132): JS: 52/60
+2021-01-18T11:03:23.117Z - normal: Simulator: D/jswrapper (132): JS: 53/60
+2021-01-18T11:03:23.120Z - normal: Simulator: D/jswrapper (132): JS: 54/60
+2021-01-18T11:03:23.124Z - normal: Simulator: D/jswrapper (132): JS: 55/60
+2021-01-18T11:03:23.127Z - normal: Simulator: D/jswrapper (132): JS: 56/60
+2021-01-18T11:03:23.129Z - normal: Simulator: D/jswrapper (132): JS: 57/60
+2021-01-18T11:03:23.131Z - normal: Simulator: D/jswrapper (132): JS: 58/60
+2021-01-18T11:03:23.131Z - normal: Simulator: D/jswrapper (132): JS: 59/60
+2021-01-18T11:03:23.132Z - normal: Simulator: D/jswrapper (132): JS: 60/60
+2021-01-18T11:03:23.132Z - normal: Simulator: D/jswrapper (132): JS: LoadScene CityScene1: 113.8149999999996ms
+2021-01-18T11:03:23.651Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T11:03:23.651Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T11:03:23.652Z - normal: Simulator: D/jswrapper (132): JS: 3/5
+2021-01-18T11:03:23.654Z - normal: Simulator: D/jswrapper (132): JS: 4/6
+2021-01-18T11:03:23.654Z - normal: Simulator: D/jswrapper (132): JS: 5/7
+2021-01-18T11:03:23.657Z - normal: Simulator: D/jswrapper (132): JS: 6/8
+2021-01-18T11:03:23.666Z - normal: Simulator: D/jswrapper (132): JS: 7/9
+2021-01-18T11:03:23.667Z - normal: Simulator: D/jswrapper (132): JS: this._curMapTileSize =(32.00, 32.00)
+2021-01-18T11:03:23.668Z - normal: Simulator: D/jswrapper (132): JS: this._curMapSize =(416.00, 416.00)
+2021-01-18T11:03:23.749Z - normal: Simulator: D/jswrapper (132): JS: 8/9
+2021-01-18T11:03:23.751Z - normal: Simulator: D/jswrapper (132): JS: 9/9
+2021-01-18T11:03:23.770Z - normal: Simulator: D/jswrapper (132): JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2021-01-18T11:04:00.040Z - normal: Simulator: D/jswrapper (132): JS: 1/1
+2021-01-18T11:04:02.927Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T11:04:02.928Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T11:04:02.930Z - normal: Simulator: D/jswrapper (132): JS: 3/6
+2021-01-18T11:04:02.931Z - normal: Simulator: D/jswrapper (132): JS: 4/7
+2021-01-18T11:04:02.939Z - normal: Simulator: D/jswrapper (132): JS: 5/8
+2021-01-18T11:04:02.944Z - normal: Simulator: D/jswrapper (132): JS: 6/9
+2021-01-18T11:04:02.945Z - normal: Simulator: D/jswrapper (132): JS: 7/10
+2021-01-18T11:04:02.947Z - normal: Simulator: D/jswrapper (132): JS: 8/11
+2021-01-18T11:04:02.948Z - normal: Simulator: D/jswrapper (132): JS: 9/11
+2021-01-18T11:04:02.967Z - normal: Simulator: D/jswrapper (132): JS: 10/11
+2021-01-18T11:04:02.968Z - normal: Simulator: D/jswrapper (132): JS: 11/11
+2021-01-18T11:04:02.969Z - normal: Simulator: D/jswrapper (132): JS: LoadScene StartScene: 46.84200000000419ms
+2021-01-18T11:04:05.220Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
+2021-01-18T11:04:05.221Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 330, all objects: 766
+2021-01-18T11:04:05.261Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 145, all objects: 458
+2021-01-18T11:04:05.262Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 145, all objects: 458
+2021-01-18T11:04:05.276Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 145, all objects: 458
+2021-01-18T11:04:05.287Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:04:05.288Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2021-01-18T11:04:05.288Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:04:05.297Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
+2021-01-18T11:04:05.403Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2021-01-18T11:04:35.435Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-18T11:04:35.448Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2021-01-18T11:04:35.448Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-18T11:04:35.769Z - normal: Simulator: Ready for GLSL
+2021-01-18T11:04:35.770Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-18T11:04:35.771Z - normal: Simulator: Project Config:
+2021-01-18T11:04:35.771Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
+2021-01-18T11:04:35.772Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-18T11:04:35.772Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-18T11:04:35.773Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-18T11:04:35.773Z - normal: Simulator:     frame scale: 0.50
+2021-01-18T11:04:35.774Z - normal: Simulator:     show console: NO
+2021-01-18T11:04:35.774Z - normal: Simulator:     write debug log: NO ()
+2021-01-18T11:04:35.774Z - normal: Simulator:     listen: 
+2021-01-18T11:04:35.775Z - normal: Simulator:     debugger: none
+2021-01-18T11:04:35.775Z - normal: Simulator:     add searching path:
+2021-01-18T11:04:35.776Z - normal: Simulator: 
+2021-01-18T11:04:35.776Z - normal: Simulator: 
+2021-01-18T11:04:35.776Z - normal: Simulator: 
+2021-01-18T11:04:35.777Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:04:35.778Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:04:35.778Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-18T11:04:35.778Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:04:35.779Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
+2021-01-18T11:04:35.779Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-18T11:04:35.779Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-18T11:04:35.780Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-18T11:04:35.808Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
+2021-01-18T11:04:35.809Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:04:35.809Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:04:35.810Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-18T11:04:35.810Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:04:36.290Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
+2021-01-18T11:04:36.337Z - normal: Simulator: iShow!
+2021-01-18T11:04:36.435Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 51.83299999999997ms
+2021-01-18T11:04:36.692Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-18T11:04:36.693Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
+2021-01-18T11:04:37.960Z - normal: Simulator: D/jswrapper (132): JS: LoadScene ChoiceScene: 35.32100000000037ms
+2021-01-18T11:04:38.683Z - normal: Simulator: D/jswrapper (132): JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2021-01-18T11:04:38.687Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:04:38.688Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:04:38.691Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:04:38.691Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:04:38.701Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:04:38.702Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:04:38.702Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:04:38.703Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:04:38.703Z - normal: Simulator: D/jswrapper (132): JS: 9/23
+2021-01-18T11:04:38.703Z - normal: Simulator: D/jswrapper (132): JS: 10/25
+2021-01-18T11:04:38.704Z - normal: Simulator: D/jswrapper (132): JS: 11/26
+2021-01-18T11:04:38.710Z - normal: Simulator: D/jswrapper (132): JS: 12/27
+2021-01-18T11:04:38.716Z - normal: Simulator: D/jswrapper (132): JS: 13/28
+2021-01-18T11:04:38.717Z - normal: Simulator: D/jswrapper (132): JS: 14/29
+2021-01-18T11:04:38.717Z - normal: Simulator: D/jswrapper (132): JS: 15/30
+2021-01-18T11:04:38.718Z - normal: Simulator: D/jswrapper (132): JS: 16/31
+2021-01-18T11:04:38.719Z - normal: Simulator: D/jswrapper (132): JS: 17/32
+2021-01-18T11:04:38.719Z - normal: Simulator: D/jswrapper (132): JS: 18/33
+2021-01-18T11:04:38.721Z - normal: Simulator: D/jswrapper (132): JS: 19/34
+2021-01-18T11:04:38.727Z - normal: Simulator: D/jswrapper (132): JS: 20/35
+2021-01-18T11:04:38.728Z - normal: Simulator: D/jswrapper (132): JS: 21/36
+2021-01-18T11:04:38.736Z - normal: Simulator: D/jswrapper (132): JS: 22/37
+2021-01-18T11:04:38.736Z - normal: Simulator: D/jswrapper (132): JS: 23/81
+2021-01-18T11:04:38.737Z - normal: Simulator: D/jswrapper (132): JS: 24/84
+2021-01-18T11:04:38.739Z - normal: Simulator: D/jswrapper (132): JS: 25/85
+2021-01-18T11:04:38.739Z - normal: Simulator: D/jswrapper (132): JS: 26/86
+2021-01-18T11:04:38.740Z - normal: Simulator: D/jswrapper (132): JS: 27/87
+2021-01-18T11:04:38.740Z - normal: Simulator: D/jswrapper (132): JS: 28/88
+2021-01-18T11:04:38.741Z - normal: Simulator: D/jswrapper (132): JS: 29/89
+2021-01-18T11:04:38.741Z - normal: Simulator: D/jswrapper (132): JS: 30/90
+2021-01-18T11:04:38.743Z - normal: Simulator: D/jswrapper (132): JS: 31/90
+2021-01-18T11:04:38.757Z - normal: Simulator: D/jswrapper (132): JS: 32/90
+2021-01-18T11:04:38.758Z - normal: Simulator: D/jswrapper (132): JS: 33/90
+2021-01-18T11:04:38.758Z - normal: Simulator: D/jswrapper (132): JS: 34/90
+2021-01-18T11:04:38.760Z - normal: Simulator: D/jswrapper (132): JS: 35/90
+2021-01-18T11:04:38.764Z - normal: Simulator: D/jswrapper (132): JS: 36/90
+2021-01-18T11:04:38.764Z - normal: Simulator: D/jswrapper (132): JS: 37/91
+2021-01-18T11:04:38.765Z - normal: Simulator: D/jswrapper (132): JS: 38/91
+2021-01-18T11:04:38.765Z - normal: Simulator: D/jswrapper (132): JS: 39/91
+2021-01-18T11:04:38.765Z - normal: Simulator: D/jswrapper (132): JS: 40/91
+2021-01-18T11:04:38.766Z - normal: Simulator: D/jswrapper (132): JS: 41/91
+2021-01-18T11:04:38.766Z - normal: Simulator: D/jswrapper (132): JS: 42/91
+2021-01-18T11:04:38.766Z - normal: Simulator: D/jswrapper (132): JS: 43/91
+2021-01-18T11:04:38.767Z - normal: Simulator: D/jswrapper (132): JS: 44/91
+2021-01-18T11:04:38.769Z - normal: Simulator: D/jswrapper (132): JS: 45/91
+2021-01-18T11:04:38.777Z - normal: Simulator: D/jswrapper (132): JS: 46/91
+2021-01-18T11:04:38.779Z - normal: Simulator: D/jswrapper (132): JS: 47/91
+2021-01-18T11:04:38.781Z - normal: Simulator: D/jswrapper (132): JS: 48/91
+2021-01-18T11:04:38.781Z - normal: Simulator: D/jswrapper (132): JS: 49/91
+2021-01-18T11:04:38.789Z - normal: Simulator: D/jswrapper (132): JS: 50/91
+2021-01-18T11:04:38.790Z - normal: Simulator: D/jswrapper (132): JS: 51/91
+2021-01-18T11:04:38.791Z - normal: Simulator: D/jswrapper (132): JS: 52/91
+2021-01-18T11:04:38.793Z - normal: Simulator: D/jswrapper (132): JS: 53/91
+2021-01-18T11:04:38.795Z - normal: Simulator: D/jswrapper (132): JS: 54/91
+2021-01-18T11:04:38.796Z - normal: Simulator: D/jswrapper (132): JS: 55/91
+2021-01-18T11:04:38.796Z - normal: Simulator: D/jswrapper (132): JS: 56/91
+2021-01-18T11:04:38.796Z - normal: Simulator: D/jswrapper (132): JS: 57/91
+2021-01-18T11:04:38.797Z - normal: Simulator: D/jswrapper (132): JS: 58/91
+2021-01-18T11:04:38.797Z - normal: Simulator: D/jswrapper (132): JS: 59/91
+2021-01-18T11:04:38.805Z - normal: Simulator: D/jswrapper (132): JS: 60/91
+2021-01-18T11:04:38.806Z - normal: Simulator: D/jswrapper (132): JS: 61/91
+2021-01-18T11:04:38.806Z - normal: Simulator: D/jswrapper (132): JS: 62/91
+2021-01-18T11:04:38.806Z - normal: Simulator: D/jswrapper (132): JS: 63/91
+2021-01-18T11:04:38.807Z - normal: Simulator: D/jswrapper (132): JS: 64/91
+2021-01-18T11:04:38.811Z - normal: Simulator: D/jswrapper (132): JS: 65/91
+2021-01-18T11:04:38.819Z - normal: Simulator: D/jswrapper (132): JS: 66/91
+2021-01-18T11:04:38.819Z - normal: Simulator: D/jswrapper (132): JS: 67/91
+2021-01-18T11:04:38.820Z - normal: Simulator: D/jswrapper (132): JS: 68/91
+2021-01-18T11:04:38.820Z - normal: Simulator: D/jswrapper (132): JS: 69/91
+2021-01-18T11:04:38.821Z - normal: Simulator: D/jswrapper (132): JS: 70/91
+2021-01-18T11:04:38.821Z - normal: Simulator: D/jswrapper (132): JS: 71/91
+2021-01-18T11:04:38.822Z - normal: Simulator: D/jswrapper (132): JS: 72/91
+2021-01-18T11:04:38.822Z - normal: Simulator: D/jswrapper (132): JS: 73/91
+2021-01-18T11:04:38.822Z - normal: Simulator: D/jswrapper (132): JS: 74/91
+2021-01-18T11:04:38.823Z - normal: Simulator: D/jswrapper (132): JS: 75/91
+2021-01-18T11:04:38.833Z - normal: Simulator: D/jswrapper (132): JS: 76/91
+2021-01-18T11:04:38.840Z - normal: Simulator: D/jswrapper (132): JS: 77/91
+2021-01-18T11:04:38.841Z - normal: Simulator: D/jswrapper (132): JS: 78/91
+2021-01-18T11:04:38.841Z - normal: Simulator: D/jswrapper (132): JS: 79/91
+2021-01-18T11:04:38.842Z - normal: Simulator: D/jswrapper (132): JS: 80/91
+2021-01-18T11:04:38.842Z - normal: Simulator: D/jswrapper (132): JS: 81/91
+2021-01-18T11:04:38.842Z - normal: Simulator: D/jswrapper (132): JS: 82/92
+2021-01-18T11:04:38.843Z - normal: Simulator: D/jswrapper (132): JS: 83/99
+2021-01-18T11:04:38.844Z - normal: Simulator: D/jswrapper (132): JS: 84/99
+2021-01-18T11:04:38.844Z - normal: Simulator: D/jswrapper (132): JS: 85/99
+2021-01-18T11:04:38.844Z - normal: Simulator: D/jswrapper (132): JS: 86/99
+2021-01-18T11:04:38.845Z - normal: Simulator: D/jswrapper (132): JS: 87/99
+2021-01-18T11:04:38.845Z - normal: Simulator: D/jswrapper (132): JS: 88/99
+2021-01-18T11:04:38.845Z - normal: Simulator: D/jswrapper (132): JS: 89/99
+2021-01-18T11:04:38.846Z - normal: Simulator: D/jswrapper (132): JS: 90/99
+2021-01-18T11:04:38.846Z - normal: Simulator: D/jswrapper (132): JS: 91/99
+2021-01-18T11:04:38.846Z - normal: Simulator: D/jswrapper (132): JS: 92/100
+2021-01-18T11:04:38.847Z - normal: Simulator: D/jswrapper (132): JS: 93/100
+2021-01-18T11:04:38.859Z - normal: Simulator: D/jswrapper (132): JS: 94/100
+2021-01-18T11:04:38.860Z - normal: Simulator: D/jswrapper (132): JS: 95/100
+2021-01-18T11:04:38.860Z - normal: Simulator: D/jswrapper (132): JS: 96/100
+2021-01-18T11:04:38.863Z - normal: Simulator: D/jswrapper (132): JS: 97/100
+2021-01-18T11:04:38.864Z - normal: Simulator: D/jswrapper (132): JS: 98/100
+2021-01-18T11:04:38.864Z - normal: Simulator: D/jswrapper (132): JS: 99/100
+2021-01-18T11:04:38.864Z - normal: Simulator: D/jswrapper (132): JS: 100/100
+2021-01-18T11:04:38.881Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:04:38.881Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:04:38.882Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:04:38.882Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:04:38.882Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:04:38.891Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:04:38.892Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:04:38.892Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:04:38.894Z - normal: Simulator: D/jswrapper (132): JS: 9/22
+2021-01-18T11:04:38.898Z - normal: Simulator: D/jswrapper (132): JS: 10/23
+2021-01-18T11:04:38.899Z - normal: Simulator: D/jswrapper (132): JS: 11/24
+2021-01-18T11:04:38.899Z - normal: Simulator: D/jswrapper (132): JS: 12/25
+2021-01-18T11:04:38.900Z - normal: Simulator: D/jswrapper (132): JS: 13/26
+2021-01-18T11:04:38.918Z - normal: Simulator: D/jswrapper (132): JS: 14/27
+2021-01-18T11:04:38.919Z - normal: Simulator: D/jswrapper (132): JS: 15/28
+2021-01-18T11:04:38.920Z - normal: Simulator: D/jswrapper (132): JS: 16/29
+2021-01-18T11:04:38.923Z - normal: Simulator: D/jswrapper (132): JS: 17/35
+2021-01-18T11:04:38.924Z - normal: Simulator: D/jswrapper (132): JS: 18/35
+2021-01-18T11:04:38.924Z - normal: Simulator: D/jswrapper (132): JS: 19/36
+2021-01-18T11:04:38.925Z - normal: Simulator: D/jswrapper (132): JS: 20/37
+2021-01-18T11:04:38.925Z - normal: Simulator: D/jswrapper (132): JS: 21/37
+2021-01-18T11:04:38.926Z - normal: Simulator: D/jswrapper (132): JS: 22/39
+2021-01-18T11:04:38.926Z - normal: Simulator: D/jswrapper (132): JS: 23/40
+2021-01-18T11:04:38.926Z - normal: Simulator: D/jswrapper (132): JS: 24/41
+2021-01-18T11:04:38.927Z - normal: Simulator: D/jswrapper (132): JS: 25/46
+2021-01-18T11:04:38.927Z - normal: Simulator: D/jswrapper (132): JS: 26/46
+2021-01-18T11:04:38.927Z - normal: Simulator: D/jswrapper (132): JS: 27/47
+2021-01-18T11:04:38.928Z - normal: Simulator: D/jswrapper (132): JS: 28/47
+2021-01-18T11:04:38.928Z - normal: Simulator: D/jswrapper (132): JS: 29/48
+2021-01-18T11:04:38.928Z - normal: Simulator: D/jswrapper (132): JS: 30/48
+2021-01-18T11:04:38.929Z - normal: Simulator: D/jswrapper (132): JS: 31/49
+2021-01-18T11:04:38.929Z - normal: Simulator: D/jswrapper (132): JS: 32/49
+2021-01-18T11:04:38.929Z - normal: Simulator: D/jswrapper (132): JS: 33/50
+2021-01-18T11:04:38.929Z - normal: Simulator: D/jswrapper (132): JS: 34/50
+2021-01-18T11:04:38.930Z - normal: Simulator: D/jswrapper (132): JS: 35/51
+2021-01-18T11:04:38.937Z - normal: Simulator: D/jswrapper (132): JS: 36/51
+2021-01-18T11:04:38.939Z - normal: Simulator: D/jswrapper (132): JS: 37/52
+2021-01-18T11:04:38.943Z - normal: Simulator: D/jswrapper (132): JS: 38/53
+2021-01-18T11:04:38.962Z - normal: Simulator: D/jswrapper (132): JS: 39/54
+2021-01-18T11:04:38.963Z - normal: Simulator: D/jswrapper (132): JS: 40/55
+2021-01-18T11:04:38.963Z - normal: Simulator: D/jswrapper (132): JS: 41/55
+2021-01-18T11:04:38.963Z - normal: Simulator: D/jswrapper (132): JS: 42/56
+2021-01-18T11:04:38.964Z - normal: Simulator: D/jswrapper (132): JS: 43/57
+2021-01-18T11:04:38.964Z - normal: Simulator: D/jswrapper (132): JS: 44/57
+2021-01-18T11:04:38.964Z - normal: Simulator: D/jswrapper (132): JS: 45/58
+2021-01-18T11:04:38.965Z - normal: Simulator: D/jswrapper (132): JS: 46/59
+2021-01-18T11:04:38.966Z - normal: Simulator: D/jswrapper (132): JS: 47/60
+2021-01-18T11:04:38.972Z - normal: Simulator: D/jswrapper (132): JS: 48/60
+2021-01-18T11:04:38.976Z - normal: Simulator: D/jswrapper (132): JS: 49/60
+2021-01-18T11:04:38.976Z - normal: Simulator: D/jswrapper (132): JS: 50/60
+2021-01-18T11:04:39.012Z - normal: Simulator: D/jswrapper (132): JS: 51/60
+2021-01-18T11:04:39.013Z - normal: Simulator: D/jswrapper (132): JS: 52/60
+2021-01-18T11:04:39.013Z - normal: Simulator: D/jswrapper (132): JS: 53/60
+2021-01-18T11:04:39.014Z - normal: Simulator: D/jswrapper (132): JS: 54/60
+2021-01-18T11:04:39.014Z - normal: Simulator: D/jswrapper (132): JS: 55/60
+2021-01-18T11:04:39.030Z - normal: Simulator: D/jswrapper (132): JS: 56/60
+2021-01-18T11:04:39.032Z - normal: Simulator: D/jswrapper (132): JS: 57/60
+2021-01-18T11:04:39.032Z - normal: Simulator: D/jswrapper (132): JS: 58/60
+2021-01-18T11:04:39.032Z - normal: Simulator: D/jswrapper (132): JS: 59/60
+2021-01-18T11:04:39.064Z - normal: Simulator: D/jswrapper (132): JS: 60/60
+2021-01-18T11:04:39.071Z - normal: Simulator: D/jswrapper (132): JS: LoadScene CityScene1: 122.36100000000033ms
+2021-01-18T11:04:39.564Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T11:04:39.564Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T11:04:39.564Z - normal: Simulator: D/jswrapper (132): JS: 3/5
+2021-01-18T11:04:39.567Z - normal: Simulator: D/jswrapper (132): JS: 4/6
+2021-01-18T11:04:39.568Z - normal: Simulator: D/jswrapper (132): JS: 5/7
+2021-01-18T11:04:39.571Z - normal: Simulator: D/jswrapper (132): JS: 6/8
+2021-01-18T11:04:39.573Z - normal: Simulator: D/jswrapper (132): JS: 7/9
+2021-01-18T11:04:39.575Z - normal: Simulator: D/jswrapper (132): JS: this._curMapTileSize =(32.00, 32.00)
+2021-01-18T11:04:39.583Z - normal: Simulator: D/jswrapper (132): JS: this._curMapSize =(416.00, 416.00)
+2021-01-18T11:04:39.658Z - normal: Simulator: D/jswrapper (132): JS: 8/9
+2021-01-18T11:04:39.661Z - normal: Simulator: D/jswrapper (132): JS: 9/9
+2021-01-18T11:04:39.675Z - normal: Simulator: D/jswrapper (132): JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2021-01-18T11:04:45.175Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
+2021-01-18T11:04:45.175Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 194, all objects: 505
+2021-01-18T11:04:45.206Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 194, all objects: 505
+2021-01-18T11:04:45.206Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 194, all objects: 505
+2021-01-18T11:04:45.207Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 194, all objects: 505
+2021-01-18T11:04:45.216Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:04:45.216Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2021-01-18T11:04:45.217Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:04:45.233Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
+2021-01-18T11:04:45.488Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2021-01-18T11:05:58.394Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2021-01-18T11:05:58.397Z - normal: Simulator: WORKAREA WIDTH 1358.00, HEIGHT 677.00
+2021-01-18T11:05:58.397Z - normal: Simulator: FRAME SCALE = 0.50
+2021-01-18T11:05:58.774Z - normal: Simulator: Ready for GLSL
+2021-01-18T11:05:58.775Z - normal: Simulator: Ready for OpenGL 2.0
+2021-01-18T11:05:58.775Z - normal: Simulator: Project Config:
+2021-01-18T11:05:58.775Z - normal: Simulator:     project dir: D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\cocos2d-x\simulator\win32\
+2021-01-18T11:05:58.776Z - normal: Simulator:     writable path: $(PROJDIR)\
+2021-01-18T11:05:58.777Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2021-01-18T11:05:58.777Z - normal: Simulator:     frame size: 750 x 1334
+2021-01-18T11:05:58.778Z - normal: Simulator:     frame scale: 0.50
+2021-01-18T11:05:58.779Z - normal: Simulator:     show console: NO
+2021-01-18T11:05:58.780Z - normal: Simulator:     write debug log: NO ()
+2021-01-18T11:05:58.780Z - normal: Simulator:     listen: 
+2021-01-18T11:05:58.781Z - normal: Simulator:     debugger: none
+2021-01-18T11:05:58.781Z - normal: Simulator:     add searching path:
+2021-01-18T11:05:58.782Z - normal: Simulator: 
+2021-01-18T11:05:58.783Z - normal: Simulator: 
+2021-01-18T11:05:58.783Z - normal: Simulator: 
+2021-01-18T11:05:58.783Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:05:58.784Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:05:58.784Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2021-01-18T11:05:58.785Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:05:58.785Z - normal: Simulator: D/jswrapper (380): Initializing V8, version: 8.0.426.16
+2021-01-18T11:05:58.786Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2021-01-18T11:05:58.786Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2021-01-18T11:05:58.787Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2021-01-18T11:05:58.816Z - normal: Simulator: D/jswrapper (132): JS: Enable batch GL commands optimization!
+2021-01-18T11:05:58.817Z - normal: Simulator: resetDesignResolution request
+2021-01-18T11:05:58.818Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:05:58.818Z - normal: Simulator: LOAD Js FILE: main.js
+2021-01-18T11:05:58.819Z - normal: Simulator: ------------------------------------------------
+2021-01-18T11:05:59.278Z - normal: Simulator: D/jswrapper (132): JS: Read json failed: Unexpected end of JSON input
+2021-01-18T11:05:59.327Z - normal: Simulator: iShow!
+2021-01-18T11:05:59.428Z - normal: Simulator: D/jswrapper (132): JS: load __quick_compile_project__: 69.70000000000005ms
+2021-01-18T11:05:59.710Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 16, maxFragUniforms: 256, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2021-01-18T11:05:59.710Z - normal: Simulator: D/jswrapper (132): JS: Cocos Creator v2.4.2
+2021-01-18T11:06:01.617Z - normal: Simulator: D/jswrapper (132): JS: LoadScene ChoiceScene: 30.942000000000007ms
+2021-01-18T11:06:05.490Z - normal: Simulator: D/jswrapper (132): JS: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2021-01-18T11:06:05.495Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:06:05.495Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:06:05.497Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:06:05.498Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:06:05.499Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:06:05.502Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:06:05.502Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:06:05.505Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:06:05.516Z - normal: Simulator: D/jswrapper (132): JS: 9/23
+2021-01-18T11:06:05.519Z - normal: Simulator: D/jswrapper (132): JS: 10/25
+2021-01-18T11:06:05.519Z - normal: Simulator: D/jswrapper (132): JS: 11/26
+2021-01-18T11:06:05.519Z - normal: Simulator: D/jswrapper (132): JS: 12/27
+2021-01-18T11:06:05.520Z - normal: Simulator: D/jswrapper (132): JS: 13/28
+2021-01-18T11:06:05.520Z - normal: Simulator: D/jswrapper (132): JS: 14/29
+2021-01-18T11:06:05.521Z - normal: Simulator: D/jswrapper (132): JS: 15/30
+2021-01-18T11:06:05.521Z - normal: Simulator: D/jswrapper (132): JS: 16/31
+2021-01-18T11:06:05.522Z - normal: Simulator: D/jswrapper (132): JS: 17/32
+2021-01-18T11:06:05.523Z - normal: Simulator: D/jswrapper (132): JS: 18/33
+2021-01-18T11:06:05.532Z - normal: Simulator: D/jswrapper (132): JS: 19/34
+2021-01-18T11:06:05.533Z - normal: Simulator: D/jswrapper (132): JS: 20/35
+2021-01-18T11:06:05.533Z - normal: Simulator: D/jswrapper (132): JS: 21/36
+2021-01-18T11:06:05.534Z - normal: Simulator: D/jswrapper (132): JS: 22/37
+2021-01-18T11:06:05.539Z - normal: Simulator: D/jswrapper (132): JS: 23/81
+2021-01-18T11:06:05.540Z - normal: Simulator: D/jswrapper (132): JS: 24/84
+2021-01-18T11:06:05.540Z - normal: Simulator: D/jswrapper (132): JS: 25/85
+2021-01-18T11:06:05.550Z - normal: Simulator: D/jswrapper (132): JS: 26/86
+2021-01-18T11:06:05.557Z - normal: Simulator: D/jswrapper (132): JS: 27/87
+2021-01-18T11:06:05.558Z - normal: Simulator: D/jswrapper (132): JS: 28/88
+2021-01-18T11:06:05.558Z - normal: Simulator: D/jswrapper (132): JS: 29/89
+2021-01-18T11:06:05.559Z - normal: Simulator: D/jswrapper (132): JS: 30/90
+2021-01-18T11:06:05.559Z - normal: Simulator: D/jswrapper (132): JS: 31/90
+2021-01-18T11:06:05.559Z - normal: Simulator: D/jswrapper (132): JS: 32/90
+2021-01-18T11:06:05.560Z - normal: Simulator: D/jswrapper (132): JS: 33/90
+2021-01-18T11:06:05.560Z - normal: Simulator: D/jswrapper (132): JS: 34/90
+2021-01-18T11:06:05.560Z - normal: Simulator: D/jswrapper (132): JS: 35/90
+2021-01-18T11:06:05.561Z - normal: Simulator: D/jswrapper (132): JS: 36/90
+2021-01-18T11:06:05.561Z - normal: Simulator: D/jswrapper (132): JS: 37/91
+2021-01-18T11:06:05.561Z - normal: Simulator: D/jswrapper (132): JS: 38/91
+2021-01-18T11:06:05.562Z - normal: Simulator: D/jswrapper (132): JS: 39/91
+2021-01-18T11:06:05.563Z - normal: Simulator: D/jswrapper (132): JS: 40/91
+2021-01-18T11:06:05.574Z - normal: Simulator: D/jswrapper (132): JS: 41/91
+2021-01-18T11:06:05.574Z - normal: Simulator: D/jswrapper (132): JS: 42/91
+2021-01-18T11:06:05.575Z - normal: Simulator: D/jswrapper (132): JS: 43/91
+2021-01-18T11:06:05.595Z - normal: Simulator: D/jswrapper (132): JS: 44/91
+2021-01-18T11:06:05.596Z - normal: Simulator: D/jswrapper (132): JS: 45/91
+2021-01-18T11:06:05.596Z - normal: Simulator: D/jswrapper (132): JS: 46/91
+2021-01-18T11:06:05.597Z - normal: Simulator: D/jswrapper (132): JS: 47/91
+2021-01-18T11:06:05.597Z - normal: Simulator: D/jswrapper (132): JS: 48/91
+2021-01-18T11:06:05.597Z - normal: Simulator: D/jswrapper (132): JS: 49/91
+2021-01-18T11:06:05.598Z - normal: Simulator: D/jswrapper (132): JS: 50/91
+2021-01-18T11:06:05.598Z - normal: Simulator: D/jswrapper (132): JS: 51/91
+2021-01-18T11:06:05.613Z - normal: Simulator: D/jswrapper (132): JS: 52/91
+2021-01-18T11:06:05.614Z - normal: Simulator: D/jswrapper (132): JS: 53/91
+2021-01-18T11:06:05.615Z - normal: Simulator: D/jswrapper (132): JS: 54/91
+2021-01-18T11:06:05.615Z - normal: Simulator: D/jswrapper (132): JS: 55/91
+2021-01-18T11:06:05.616Z - normal: Simulator: D/jswrapper (132): JS: 56/91
+2021-01-18T11:06:05.616Z - normal: Simulator: D/jswrapper (132): JS: 57/91
+2021-01-18T11:06:05.617Z - normal: Simulator: D/jswrapper (132): JS: 58/91
+2021-01-18T11:06:05.617Z - normal: Simulator: D/jswrapper (132): JS: 59/91
+2021-01-18T11:06:05.618Z - normal: Simulator: D/jswrapper (132): JS: 60/91
+2021-01-18T11:06:05.618Z - normal: Simulator: D/jswrapper (132): JS: 61/91
+2021-01-18T11:06:05.619Z - normal: Simulator: D/jswrapper (132): JS: 62/91
+2021-01-18T11:06:05.619Z - normal: Simulator: D/jswrapper (132): JS: 63/91
+2021-01-18T11:06:05.619Z - normal: Simulator: D/jswrapper (132): JS: 64/91
+2021-01-18T11:06:05.620Z - normal: Simulator: D/jswrapper (132): JS: 65/91
+2021-01-18T11:06:05.620Z - normal: Simulator: D/jswrapper (132): JS: 66/91
+2021-01-18T11:06:05.621Z - normal: Simulator: D/jswrapper (132): JS: 67/91
+2021-01-18T11:06:05.624Z - normal: Simulator: D/jswrapper (132): JS: 68/91
+2021-01-18T11:06:05.629Z - normal: Simulator: D/jswrapper (132): JS: 69/91
+2021-01-18T11:06:05.629Z - normal: Simulator: D/jswrapper (132): JS: 70/91
+2021-01-18T11:06:05.629Z - normal: Simulator: D/jswrapper (132): JS: 71/91
+2021-01-18T11:06:05.630Z - normal: Simulator: D/jswrapper (132): JS: 72/91
+2021-01-18T11:06:05.630Z - normal: Simulator: D/jswrapper (132): JS: 73/91
+2021-01-18T11:06:05.631Z - normal: Simulator: D/jswrapper (132): JS: 74/91
+2021-01-18T11:06:05.641Z - normal: Simulator: D/jswrapper (132): JS: 75/91
+2021-01-18T11:06:05.641Z - normal: Simulator: D/jswrapper (132): JS: 76/91
+2021-01-18T11:06:05.642Z - normal: Simulator: D/jswrapper (132): JS: 77/91
+2021-01-18T11:06:05.642Z - normal: Simulator: D/jswrapper (132): JS: 78/91
+2021-01-18T11:06:05.644Z - normal: Simulator: D/jswrapper (132): JS: 79/91
+2021-01-18T11:06:05.647Z - normal: Simulator: D/jswrapper (132): JS: 80/91
+2021-01-18T11:06:05.655Z - normal: Simulator: D/jswrapper (132): JS: 81/91
+2021-01-18T11:06:05.663Z - normal: Simulator: D/jswrapper (132): JS: 82/92
+2021-01-18T11:06:05.665Z - normal: Simulator: D/jswrapper (132): JS: 83/99
+2021-01-18T11:06:05.666Z - normal: Simulator: D/jswrapper (132): JS: 84/99
+2021-01-18T11:06:05.667Z - normal: Simulator: D/jswrapper (132): JS: 85/99
+2021-01-18T11:06:05.668Z - normal: Simulator: D/jswrapper (132): JS: 86/99
+2021-01-18T11:06:05.669Z - normal: Simulator: D/jswrapper (132): JS: 87/99
+2021-01-18T11:06:05.669Z - normal: Simulator: D/jswrapper (132): JS: 88/99
+2021-01-18T11:06:05.670Z - normal: Simulator: D/jswrapper (132): JS: 89/99
+2021-01-18T11:06:05.671Z - normal: Simulator: D/jswrapper (132): JS: 90/99
+2021-01-18T11:06:05.673Z - normal: Simulator: D/jswrapper (132): JS: 91/99
+2021-01-18T11:06:05.673Z - normal: Simulator: D/jswrapper (132): JS: 92/100
+2021-01-18T11:06:05.674Z - normal: Simulator: D/jswrapper (132): JS: 93/100
+2021-01-18T11:06:05.674Z - normal: Simulator: D/jswrapper (132): JS: 94/100
+2021-01-18T11:06:05.681Z - normal: Simulator: D/jswrapper (132): JS: 95/100
+2021-01-18T11:06:05.683Z - normal: Simulator: D/jswrapper (132): JS: 96/100
+2021-01-18T11:06:05.685Z - normal: Simulator: D/jswrapper (132): JS: 97/100
+2021-01-18T11:06:05.690Z - normal: Simulator: D/jswrapper (132): JS: 98/100
+2021-01-18T11:06:05.698Z - normal: Simulator: D/jswrapper (132): JS: 99/100
+2021-01-18T11:06:05.698Z - normal: Simulator: D/jswrapper (132): JS: 100/100
+2021-01-18T11:06:05.719Z - normal: Simulator: D/jswrapper (132): JS: 1/16
+2021-01-18T11:06:05.722Z - normal: Simulator: D/jswrapper (132): JS: 2/16
+2021-01-18T11:06:05.724Z - normal: Simulator: D/jswrapper (132): JS: 3/16
+2021-01-18T11:06:05.724Z - normal: Simulator: D/jswrapper (132): JS: 4/17
+2021-01-18T11:06:05.725Z - normal: Simulator: D/jswrapper (132): JS: 5/18
+2021-01-18T11:06:05.726Z - normal: Simulator: D/jswrapper (132): JS: 6/19
+2021-01-18T11:06:05.727Z - normal: Simulator: D/jswrapper (132): JS: 7/20
+2021-01-18T11:06:05.727Z - normal: Simulator: D/jswrapper (132): JS: 8/21
+2021-01-18T11:06:05.727Z - normal: Simulator: D/jswrapper (132): JS: 9/22
+2021-01-18T11:06:05.731Z - normal: Simulator: D/jswrapper (132): JS: 10/23
+2021-01-18T11:06:05.734Z - normal: Simulator: D/jswrapper (132): JS: 11/24
+2021-01-18T11:06:05.739Z - normal: Simulator: D/jswrapper (132): JS: 12/25
+2021-01-18T11:06:05.743Z - normal: Simulator: D/jswrapper (132): JS: 13/26
+2021-01-18T11:06:05.744Z - normal: Simulator: D/jswrapper (132): JS: 14/27
+2021-01-18T11:06:05.744Z - normal: Simulator: D/jswrapper (132): JS: 15/28
+2021-01-18T11:06:05.745Z - normal: Simulator: D/jswrapper (132): JS: 16/29
+2021-01-18T11:06:05.747Z - normal: Simulator: D/jswrapper (132): JS: 17/35
+2021-01-18T11:06:05.748Z - normal: Simulator: D/jswrapper (132): JS: 18/35
+2021-01-18T11:06:05.748Z - normal: Simulator: D/jswrapper (132): JS: 19/36
+2021-01-18T11:06:05.749Z - normal: Simulator: D/jswrapper (132): JS: 20/37
+2021-01-18T11:06:05.749Z - normal: Simulator: D/jswrapper (132): JS: 21/37
+2021-01-18T11:06:05.749Z - normal: Simulator: D/jswrapper (132): JS: 22/39
+2021-01-18T11:06:05.750Z - normal: Simulator: D/jswrapper (132): JS: 23/40
+2021-01-18T11:06:05.750Z - normal: Simulator: D/jswrapper (132): JS: 24/41
+2021-01-18T11:06:05.751Z - normal: Simulator: D/jswrapper (132): JS: 25/46
+2021-01-18T11:06:05.751Z - normal: Simulator: D/jswrapper (132): JS: 26/46
+2021-01-18T11:06:05.752Z - normal: Simulator: D/jswrapper (132): JS: 27/47
+2021-01-18T11:06:05.752Z - normal: Simulator: D/jswrapper (132): JS: 28/47
+2021-01-18T11:06:05.753Z - normal: Simulator: D/jswrapper (132): JS: 29/48
+2021-01-18T11:06:05.753Z - normal: Simulator: D/jswrapper (132): JS: 30/48
+2021-01-18T11:06:05.753Z - normal: Simulator: D/jswrapper (132): JS: 31/49
+2021-01-18T11:06:05.754Z - normal: Simulator: D/jswrapper (132): JS: 32/49
+2021-01-18T11:06:05.754Z - normal: Simulator: D/jswrapper (132): JS: 33/50
+2021-01-18T11:06:05.754Z - normal: Simulator: D/jswrapper (132): JS: 34/50
+2021-01-18T11:06:05.755Z - normal: Simulator: D/jswrapper (132): JS: 35/51
+2021-01-18T11:06:05.755Z - normal: Simulator: D/jswrapper (132): JS: 36/51
+2021-01-18T11:06:05.755Z - normal: Simulator: D/jswrapper (132): JS: 37/52
+2021-01-18T11:06:05.755Z - normal: Simulator: D/jswrapper (132): JS: 38/53
+2021-01-18T11:06:05.758Z - normal: Simulator: D/jswrapper (132): JS: 39/54
+2021-01-18T11:06:05.758Z - normal: Simulator: D/jswrapper (132): JS: 40/55
+2021-01-18T11:06:05.759Z - normal: Simulator: D/jswrapper (132): JS: 41/55
+2021-01-18T11:06:05.759Z - normal: Simulator: D/jswrapper (132): JS: 42/56
+2021-01-18T11:06:05.759Z - normal: Simulator: D/jswrapper (132): JS: 43/57
+2021-01-18T11:06:05.760Z - normal: Simulator: D/jswrapper (132): JS: 44/57
+2021-01-18T11:06:05.760Z - normal: Simulator: D/jswrapper (132): JS: 45/58
+2021-01-18T11:06:05.760Z - normal: Simulator: D/jswrapper (132): JS: 46/59
+2021-01-18T11:06:05.761Z - normal: Simulator: D/jswrapper (132): JS: 47/60
+2021-01-18T11:06:05.761Z - normal: Simulator: D/jswrapper (132): JS: 48/60
+2021-01-18T11:06:05.768Z - normal: Simulator: D/jswrapper (132): JS: 49/60
+2021-01-18T11:06:05.769Z - normal: Simulator: D/jswrapper (132): JS: 50/60
+2021-01-18T11:06:05.769Z - normal: Simulator: D/jswrapper (132): JS: 51/60
+2021-01-18T11:06:05.771Z - normal: Simulator: D/jswrapper (132): JS: 52/60
+2021-01-18T11:06:05.774Z - normal: Simulator: D/jswrapper (132): JS: 53/60
+2021-01-18T11:06:05.776Z - normal: Simulator: D/jswrapper (132): JS: 54/60
+2021-01-18T11:06:05.780Z - normal: Simulator: D/jswrapper (132): JS: 55/60
+2021-01-18T11:06:05.781Z - normal: Simulator: D/jswrapper (132): JS: 56/60
+2021-01-18T11:06:05.782Z - normal: Simulator: D/jswrapper (132): JS: 57/60
+2021-01-18T11:06:05.782Z - normal: Simulator: D/jswrapper (132): JS: 58/60
+2021-01-18T11:06:05.783Z - normal: Simulator: D/jswrapper (132): JS: 59/60
+2021-01-18T11:06:05.784Z - normal: Simulator: D/jswrapper (132): JS: 60/60
+2021-01-18T11:06:05.788Z - normal: Simulator: D/jswrapper (132): JS: LoadScene CityScene3: 107.60599999999977ms
+2021-01-18T11:06:06.278Z - normal: Simulator: D/jswrapper (132): JS: 1/5
+2021-01-18T11:06:06.278Z - normal: Simulator: D/jswrapper (132): JS: 2/5
+2021-01-18T11:06:06.279Z - normal: Simulator: D/jswrapper (132): JS: 3/5
+2021-01-18T11:06:06.284Z - normal: Simulator: D/jswrapper (132): JS: 4/6
+2021-01-18T11:06:06.285Z - normal: Simulator: D/jswrapper (132): JS: 5/7
+2021-01-18T11:06:06.286Z - normal: Simulator: D/jswrapper (132): JS: 6/8
+2021-01-18T11:06:06.299Z - normal: Simulator: D/jswrapper (132): JS: 7/9
+2021-01-18T11:06:06.299Z - normal: Simulator: D/jswrapper (132): JS: this._curMapTileSize =(32.00, 32.00)
+2021-01-18T11:06:06.300Z - normal: Simulator: D/jswrapper (132): JS: this._curMapSize =(416.00, 416.00)
+2021-01-18T11:06:06.379Z - normal: Simulator: D/jswrapper (132): JS: 8/9
+2021-01-18T11:06:06.381Z - normal: Simulator: D/jswrapper (132): JS: 9/9
+2021-01-18T11:06:06.399Z - normal: Simulator: D/jswrapper (132): JS: [WARN]: cc.Action is deprecated, please use cc.TweenAction instead
+2021-01-18T11:06:33.696Z - normal: Simulator: D/jswrapper (473): ScriptEngine::cleanup begin ...
+2021-01-18T11:06:33.696Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 255, all objects: 640
+2021-01-18T11:06:33.731Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 255, all objects: 640
+2021-01-18T11:06:33.732Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 255, all objects: 640
+2021-01-18T11:06:33.733Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 255, all objects: 640
+2021-01-18T11:06:33.749Z - normal: Simulator: D/jswrapper (613): GC begin ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:06:33.749Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2021-01-18T11:06:33.750Z - normal: Simulator: D/jswrapper (631): GC end ..., (js->native map) size: 0, all objects: -1
+2021-01-18T11:06:33.774Z - normal: Simulator: D/jswrapper (534): ScriptEngine::cleanup end ...
+2021-01-18T11:06:33.995Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2021-01-18T11:10:26.496Z - normal: Start building with options : {
   "actualPlatform": "wechatgame",
   "android": {
     "REMOTE_SERVER_ROOT": "",
@@ -218,48 +1294,20 @@
   "projectName": "TankWar",
   "debugBuildWorker": false
 }
-2021-01-15T11:50:26.332Z - normal: Building E:\github\Tankwar
-2021-01-15T11:50:26.332Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T11:50:26.741Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T11:50:31.144Z - normal: Start building assets
-2021-01-15T11:50:31.144Z - normal: Start spawn build-worker
-2021-01-15T11:50:32.175Z - normal: Finish spawn build-worker
-2021-01-15T11:50:32.176Z - normal: Start init build-worker
-2021-01-15T11:50:35.662Z - normal: Finish init build-worker
-2021-01-15T11:50:35.663Z - normal: Start build-assets in worker
-2021-01-15T11:50:38.050Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene10.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "df9c7178-ca7e-4f7a-9c22-a014ae4488b3"
-2021-01-15T11:50:38.053Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene2.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "824958a2-3cfe-41aa-bb64-340db6970966"
-2021-01-15T11:50:38.056Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene3.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "6c9bab4e-0fdc-4055-b20f-b4fa0bfc04f5"
-2021-01-15T11:50:38.059Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene4.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "c3bdbcce-9711-4a39-ab64-0ffe93cdd569"
-2021-01-15T11:50:38.061Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene6.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "c406f04b-6290-4b05-8567-f8a4e9360b7e"
-2021-01-15T11:50:38.063Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene8.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "e58dc5f5-b2d2-47a5-817a-7319b8118b93"
-2021-01-15T11:50:38.065Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene7.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "4fcafe6f-baea-44d1-beec-4035e6bed9e5"
-2021-01-15T11:50:38.644Z - normal: Finish build-assets in worker
-2021-01-15T11:50:38.706Z - normal: Finish building assets
-2021-01-15T11:50:38.810Z - normal: Start building plugin scripts
-2021-01-15T11:50:47.154Z - normal: Built wechatgame successfully
-2021-01-15T11:50:51.291Z - error: - initialize
+2021-01-18T11:10:26.498Z - normal: Building E:\github\Tankwar
+2021-01-18T11:10:26.498Z - normal: Destination E:\github\Tankwar\build\wechatgame
+2021-01-18T11:10:26.894Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
+2021-01-18T11:10:31.537Z - normal: Start building assets
+2021-01-18T11:10:31.538Z - normal: Start spawn build-worker
+2021-01-18T11:10:32.765Z - normal: Finish spawn build-worker
+2021-01-18T11:10:32.765Z - normal: Start init build-worker
+2021-01-18T11:10:36.083Z - normal: Finish init build-worker
+2021-01-18T11:10:36.083Z - normal: Start build-assets in worker
+2021-01-18T11:10:38.520Z - normal: Finish build-assets in worker
+2021-01-18T11:10:38.552Z - normal: Finish building assets
+2021-01-18T11:10:38.633Z - normal: Start building plugin scripts
+2021-01-18T11:10:47.150Z - normal: Built wechatgame successfully
+2021-01-18T11:10:50.564Z - error: - initialize
 
 
     at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
@@ -269,7 +1317,7 @@ uuid: "4fcafe6f-baea-44d1-beec-4035e6bed9e5"
     at readableAddChunk (_stream_readable.js:277:11)
     at Socket.Readable.push (_stream_readable.js:232:10)
     at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:50:51.421Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
+2021-01-18T11:10:50.689Z - error: √ IDE server has started, listening on http://127.0.0.1:40661
 
     at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
     at Socket.emit (events.js:194:13)
@@ -278,166 +1326,7 @@ uuid: "4fcafe6f-baea-44d1-beec-4035e6bed9e5"
     at readableAddChunk (_stream_readable.js:277:11)
     at Socket.Readable.push (_stream_readable.js:232:10)
     at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:50:51.422Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:50:52.893Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:57:17.897Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T11:57:17.898Z - normal: Building E:\github\Tankwar
-2021-01-15T11:57:17.898Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T11:57:17.900Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T11:57:21.824Z - normal: Start building assets
-2021-01-15T11:57:21.824Z - normal: Start spawn build-worker
-2021-01-15T11:57:23.327Z - normal: Finish spawn build-worker
-2021-01-15T11:57:23.327Z - normal: Start init build-worker
-2021-01-15T11:57:27.435Z - normal: Finish init build-worker
-2021-01-15T11:57:27.435Z - normal: Start build-assets in worker
-2021-01-15T11:57:28.860Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene10.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "df9c7178-ca7e-4f7a-9c22-a014ae4488b3"
-2021-01-15T11:57:28.862Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene2.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "824958a2-3cfe-41aa-bb64-340db6970966"
-2021-01-15T11:57:28.863Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene3.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "6c9bab4e-0fdc-4055-b20f-b4fa0bfc04f5"
-2021-01-15T11:57:28.865Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene4.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "c3bdbcce-9711-4a39-ab64-0ffe93cdd569"
-2021-01-15T11:57:28.866Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene8.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "e58dc5f5-b2d2-47a5-817a-7319b8118b93"
-2021-01-15T11:57:28.868Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene7.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "4fcafe6f-baea-44d1-beec-4035e6bed9e5"
-2021-01-15T11:57:28.870Z - warn: Cannot find the asset referenced in "db://assets/scenes/levelScenes/CityScene6.fire", it may have been deleted. Detailed information:
-Node path: "Canvas/MapBg"
-Used in Component: "cc.Sprite"
-uuid: "c406f04b-6290-4b05-8567-f8a4e9360b7e"
-2021-01-15T11:57:29.065Z - normal: Finish build-assets in worker
-2021-01-15T11:57:29.094Z - normal: Finish building assets
-2021-01-15T11:57:29.162Z - normal: Start building plugin scripts
-2021-01-15T11:57:35.664Z - normal: Built wechatgame successfully
-2021-01-15T11:57:38.894Z - error: - initialize
+2021-01-18T11:10:50.690Z - error: - open IDE
 
 
     at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
@@ -447,1048 +1336,7 @@ uuid: "c406f04b-6290-4b05-8567-f8a4e9360b7e"
     at readableAddChunk (_stream_readable.js:277:11)
     at Socket.Readable.push (_stream_readable.js:232:10)
     at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:57:39.042Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:57:39.043Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:58:00.106Z - error: × open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:58:00.110Z - normal: [error] Error: Fail to open IDE
-
-2021-01-15T11:58:44.699Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:58:44.811Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:58:44.812Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T11:58:46.758Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:03:56.786Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene2.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene2.fire"
-Missing uuid: "824958a2-3cfe-41aa-bb64-340db6970966"
-
-2021-01-15T12:04:26.748Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene3.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene3.fire"
-Missing uuid: "6c9bab4e-0fdc-4055-b20f-b4fa0bfc04f5"
-
-2021-01-15T12:04:37.336Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene4.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene4.fire"
-Missing uuid: "c3bdbcce-9711-4a39-ab64-0ffe93cdd569"
-
-2021-01-15T12:04:46.460Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene5.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene5.fire"
-Missing uuid: "df9c7178-ca7e-4f7a-9c22-a014ae4488b3"
-
-2021-01-15T12:04:57.957Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene6.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene6.fire"
-Missing uuid: "c406f04b-6290-4b05-8567-f8a4e9360b7e"
-
-2021-01-15T12:05:07.146Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene7.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene7.fire"
-Missing uuid: "4fcafe6f-baea-44d1-beec-4035e6bed9e5"
-
-2021-01-15T12:05:15.227Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene8.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene8.fire"
-Missing uuid: "e58dc5f5-b2d2-47a5-817a-7319b8118b93"
-
-2021-01-15T12:05:24.270Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene9.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene9.fire"
-Missing uuid: "824958a2-3cfe-41aa-bb64-340db6970966"
-
-2021-01-15T12:05:33.764Z - warn: The Asset used by component "cc.Sprite" in scene "CityScene10.fire" is missing. Detailed information:
-Node path: "Canvas/MapBg"
-Asset url: "db://assets/scenes/levelScenes/CityScene10.fire"
-Missing uuid: "df9c7178-ca7e-4f7a-9c22-a014ae4488b3"
-
-2021-01-15T12:06:04.832Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:06:04.833Z - normal: Building E:\github\Tankwar
-2021-01-15T12:06:04.833Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:06:04.836Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:06:08.723Z - normal: Start building assets
-2021-01-15T12:06:08.723Z - normal: Start spawn build-worker
-2021-01-15T12:06:09.708Z - normal: Finish spawn build-worker
-2021-01-15T12:06:09.708Z - normal: Start init build-worker
-2021-01-15T12:06:13.122Z - normal: Finish init build-worker
-2021-01-15T12:06:13.122Z - normal: Start build-assets in worker
-2021-01-15T12:06:14.706Z - normal: Finish build-assets in worker
-2021-01-15T12:06:14.733Z - normal: Finish building assets
-2021-01-15T12:06:14.801Z - normal: Start building plugin scripts
-2021-01-15T12:06:21.443Z - normal: Built wechatgame successfully
-2021-01-15T12:06:23.945Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:24.050Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:24.051Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:24.077Z - error: × open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:24.078Z - normal: [error] Error: Fail to open IDE
-
-2021-01-15T12:06:46.087Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:46.204Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:46.205Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:06:48.445Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:11:43.765Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:11:43.766Z - normal: Building E:\github\Tankwar
-2021-01-15T12:11:43.766Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:11:43.768Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:11:47.841Z - normal: Start building assets
-2021-01-15T12:11:47.842Z - normal: Start spawn build-worker
-2021-01-15T12:11:48.868Z - normal: Finish spawn build-worker
-2021-01-15T12:11:48.868Z - normal: Start init build-worker
-2021-01-15T12:11:52.036Z - normal: Finish init build-worker
-2021-01-15T12:11:52.036Z - normal: Start build-assets in worker
-2021-01-15T12:11:53.436Z - normal: Finish build-assets in worker
-2021-01-15T12:11:53.464Z - normal: Finish building assets
-2021-01-15T12:11:53.535Z - normal: Start building plugin scripts
-2021-01-15T12:12:00.245Z - normal: Built wechatgame successfully
-2021-01-15T12:12:06.312Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:12:06.468Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:12:06.469Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:12:08.122Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:18:01.978Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:18:01.980Z - normal: Building E:\github\Tankwar
-2021-01-15T12:18:01.980Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:18:01.982Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:18:05.776Z - normal: Start building assets
-2021-01-15T12:18:05.776Z - normal: Start spawn build-worker
-2021-01-15T12:18:06.932Z - normal: Finish spawn build-worker
-2021-01-15T12:18:06.932Z - normal: Start init build-worker
-2021-01-15T12:18:10.376Z - normal: Finish init build-worker
-2021-01-15T12:18:10.376Z - normal: Start build-assets in worker
-2021-01-15T12:18:11.839Z - normal: Finish build-assets in worker
-2021-01-15T12:18:11.869Z - normal: Finish building assets
-2021-01-15T12:18:11.950Z - normal: Start building plugin scripts
-2021-01-15T12:18:18.682Z - normal: Built wechatgame successfully
-2021-01-15T12:18:37.980Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:18:38.094Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:18:38.095Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:18:39.543Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:23:18.633Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:23:18.635Z - normal: Building E:\github\Tankwar
-2021-01-15T12:23:18.635Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:23:18.636Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:23:22.281Z - normal: Start building assets
-2021-01-15T12:23:22.281Z - normal: Start spawn build-worker
-2021-01-15T12:23:23.413Z - normal: Finish spawn build-worker
-2021-01-15T12:23:23.413Z - normal: Start init build-worker
-2021-01-15T12:23:26.741Z - normal: Finish init build-worker
-2021-01-15T12:23:26.741Z - normal: Start build-assets in worker
-2021-01-15T12:23:28.540Z - normal: Finish build-assets in worker
-2021-01-15T12:23:28.597Z - normal: Finish building assets
-2021-01-15T12:23:28.708Z - normal: Start building plugin scripts
-2021-01-15T12:23:35.272Z - normal: Built wechatgame successfully
-2021-01-15T12:23:39.981Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:23:40.114Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:23:40.115Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:23:41.219Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:36:04.790Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:36:04.792Z - normal: Building E:\github\Tankwar
-2021-01-15T12:36:04.792Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:36:04.794Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:36:05.712Z - error: Build Failed: Error: EPERM: operation not permitted, unlink 'E:\github\Tankwar\build\wechatgame\assets\internal\import'
-    at D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\lib\builder\index.js:1:3838
-    at wrapper (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\node_modules\async\dist\async.js:272:20)
-    at next (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\node_modules\async\dist\async.js:4584:24)
-    at D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\node_modules\async\dist\async.js:325:20
-2021-01-15T12:36:35.408Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "buildPath": "E:\\github\\Tankwar\\build",
-  "buildScriptsOnly": false,
-  "debug": false,
-  "dest": "E:\\github\\Tankwar\\build\\wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle",
-    "SafeArea"
-  ],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSdk": [
-    "anysdk"
-  ],
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "md5Cache": true,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.TankWar",
-  "platform": "mini-game",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "scenes": [
-    "1a638409-0db1-4127-bac7-947b76afed54",
-    "cdb752f3-0c4b-4d3b-aad0-62c8f391a2c3",
-    "561d1d9e-2b26-49c4-afbc-28e96c5cab39",
-    "88d005ad-bbbd-44b1-9fbf-cd2fa41ee443",
-    "08cca8d6-9019-4721-8558-a783f715ecfa",
-    "3cd821a8-385d-4d7c-a6ce-6429bf56b738",
-    "f0fc8864-e614-48f7-b5ee-43ede6b7cd6e",
-    "9ecf1d84-8260-46d9-9519-f66077f4f49f",
-    "55ffd609-7b90-4ae7-841b-13aefd47ec8c",
-    "8fbdbad9-6107-48dc-9128-939f65716498",
-    "6d2f0aea-f4e0-4044-8579-d5b9c9f90667",
-    "55d49213-eb43-4d26-a91e-c383b5ae6668",
-    "66856a8e-aaff-48b0-9c4d-359516ca8625"
-  ],
-  "separateEngineMode": false,
-  "sourceMaps": false,
-  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
-  "template": "link",
-  "title": "TankWar",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "xxteaKey": "fe66aa72-7e8d-41",
-  "zipCompressJs": true,
-  "project": "E:\\github\\Tankwar",
-  "projectName": "TankWar",
-  "debugBuildWorker": false
-}
-2021-01-15T12:36:35.409Z - normal: Building E:\github\Tankwar
-2021-01-15T12:36:35.409Z - normal: Destination E:\github\Tankwar\build\wechatgame
-2021-01-15T12:36:35.410Z - normal: Delete E:\github\Tankwar\build\wechatgame\**\*,!E:\github\Tankwar\build\wechatgame\game.json,!E:\github\Tankwar\build\wechatgame\project.config.json
-2021-01-15T12:36:39.196Z - normal: Start building assets
-2021-01-15T12:36:39.196Z - normal: Start spawn build-worker
-2021-01-15T12:36:40.256Z - normal: Finish spawn build-worker
-2021-01-15T12:36:40.256Z - normal: Start init build-worker
-2021-01-15T12:36:43.543Z - normal: Finish init build-worker
-2021-01-15T12:36:43.544Z - normal: Start build-assets in worker
-2021-01-15T12:36:45.263Z - normal: Finish build-assets in worker
-2021-01-15T12:36:45.299Z - normal: Finish building assets
-2021-01-15T12:36:45.387Z - normal: Start building plugin scripts
-2021-01-15T12:36:52.733Z - normal: Built wechatgame successfully
-2021-01-15T12:36:57.471Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:36:57.684Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:36:57.685Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:36:58.781Z - error: √ open IDE
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:37:47.225Z - error: - initialize
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:37:47.346Z - error: √ IDE server has started, listening on http://127.0.0.1:11898
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:37:47.347Z - error: - open IDE
-
-
-    at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
-    at Socket.emit (events.js:194:13)
-    at Socket.EventEmitter.emit (domain.js:469:20)
-    at addChunk (_stream_readable.js:296:12)
-    at readableAddChunk (_stream_readable.js:277:11)
-    at Socket.Readable.push (_stream_readable.js:232:10)
-    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
-2021-01-15T12:37:48.347Z - error: √ open IDE
+2021-01-18T11:10:51.512Z - error: √ open IDE
 
     at Socket.<anonymous> (D:\programs\CocosDashboard\resources\.editors\Creator\2.4.2\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:821)
     at Socket.emit (events.js:194:13)

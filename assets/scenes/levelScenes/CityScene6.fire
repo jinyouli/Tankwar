@@ -1709,7 +1709,7 @@
       "__uuid__": "e14e3534-aa94-462d-9f40-58b2fda3c4b5"
     },
     "maxCount": 10,
-    "life": 4,
+    "life": 5,
     "bornPoses": [
       {
         "__type__": "cc.Vec2",

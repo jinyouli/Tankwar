@@ -159,7 +159,7 @@ cc.Class({
         this.doubleFire = !this.doubleFire;
         
         if(this.doubleFire){
-            this.doubleFireBtn.opacity = 240
+            this.doubleFireBtn.opacity = 210
             //this.doubleFireBtn.getComponent(cc.Sprite).spriteFrame = this.doubleFireFrames[1];
         }else{
             this.doubleFireBtn.opacity = 255
@@ -401,21 +401,23 @@ cc.Class({
 
     tankBoom: function(tank) {
         
-        if(cc.gameData.single && tank.getComponent("TankScript").team == 0){
-            // this.life --;
-            // this.lifeNum.string = this.life + "";
-
-            // if(this.life > 0){
-            //     this.addPlayerTank();
-            // }else{
-            //     this.gameOver();
-            // }
-            // tank.getComponent("TankScript").blood = 1;
-        }
-        else{
-            tank.parent = null;
+        tank.parent = null;
         tank.getComponent("TankScript").die = true;
         this.tankPool.put(tank);
+
+        if(cc.gameData.single && tank.getComponent("TankScript").team == 0){
+            this.life --;
+            this.lifeNum.string = this.life + "";
+            this.doubleFire = false;
+
+            if(this.life > 0){
+                this.addPlayerTank();
+            }else{
+                this.gameOver();
+            }
+            tank.getComponent("TankScript").blood = 1;
+        }
+        else{
 
             tank.parent = null;
             tank.getComponent("TankScript").die = true;
@@ -430,7 +432,7 @@ cc.Class({
                 }
                 else{
                     this.doubleFire = false;
-                    alert.show.call(this, "你赢了", function () {
+                    alert.show.call(this, "游戏结束", function () {
                         cc.director.loadScene("StartScene");
                     });
                 }

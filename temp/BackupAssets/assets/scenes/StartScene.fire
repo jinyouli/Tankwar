@@ -17,7 +17,7 @@
         "__id__": 2
       },
       {
-        "__id__": 11
+        "__id__": 15
       }
     ],
     "_active": true,
@@ -79,15 +79,18 @@
       },
       {
         "__id__": 7
+      },
+      {
+        "__id__": 9
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 13
+        "__id__": 17
       },
       {
-        "__id__": 14
+        "__id__": 18
       }
     ],
     "_prefab": null,
@@ -177,7 +180,7 @@
       "array": [
         0,
         0,
-        215.8433002463372,
+        229.49673200287626,
         0,
         0,
         0,
@@ -261,8 +264,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 600,
-      "height": 416
+      "width": 671,
+      "height": 368
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -314,10 +317,10 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "e1c94d17-aa29-4a72-b933-6d884ad1f7cb"
+      "__uuid__": "715d4319-5d59-4a28-b4a8-97b9b7bdc2db"
     },
     "_type": 0,
-    "_sizeMode": 0,
+    "_sizeMode": 2,
     "_fillType": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
@@ -332,7 +335,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "StartButton",
+    "_name": "label",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -342,9 +345,109 @@
     "_components": [
       {
         "__id__": 8
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 6,
+      "g": 6,
+      "b": 6,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 248.5022624567956,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        36.978,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "23fjBoeoVMvJPOv0r6o5jU"
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 7
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_useOriginalSize": false,
+    "_string": "飞机射击大战",
+    "_N$string": "飞机射击大战",
+    "_fontSize": 40,
+    "_lineHeight": 40,
+    "_enableWrapText": true,
+    "_N$file": null,
+    "_isSystemFontUsed": true,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 2,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 0,
+    "_N$cacheMode": 0,
+    "_id": "b1i52bqzBOr7Ns9CqN2jRk"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "StartButton",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 12
       },
       {
-        "__id__": 9
+        "__id__": 13
       }
     ],
     "_prefab": null,
@@ -371,7 +474,69 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        -100,
+        -56.359,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "713734EJPRM/6vAw2NPJo/P"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "开始游戏",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 9
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 11
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 3,
+      "g": 2,
+      "b": 2,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 80,
+      "height": 25.2
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
         0,
         0,
         0,
@@ -393,14 +558,14 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "713734EJPRM/6vAw2NPJo/P"
+    "_id": "3dOZLSljxBuaBL6RLGRf7C"
   },
   {
-    "__type__": "cc.Sprite",
+    "__type__": "cc.Label",
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 7
+      "__id__": 10
     },
     "_enabled": true,
     "_materials": [
@@ -410,9 +575,41 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_spriteFrame": {
-      "__uuid__": "2744d12a-ca68-4f97-9d94-0833f7e848e7"
+    "_useOriginalSize": false,
+    "_string": "开始游戏",
+    "_N$string": "开始游戏",
+    "_fontSize": 20,
+    "_lineHeight": 20,
+    "_enableWrapText": true,
+    "_N$file": null,
+    "_isSystemFontUsed": true,
+    "_spacingX": 0,
+    "_batchAsBitmap": false,
+    "_styleFlags": 1,
+    "_underlineHeight": 0,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 0,
+    "_N$cacheMode": 0,
+    "_id": "afYLdxq1lDfqqK9j+1fQMi"
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 9
     },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": null,
     "_type": 1,
     "_sizeMode": 0,
     "_fillType": 0,
@@ -432,7 +629,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 7
+      "__id__": 9
     },
     "_enabled": true,
     "_normalMaterial": null,
@@ -441,13 +638,13 @@
     "zoomScale": 1.2,
     "clickEvents": [
       {
-        "__id__": 10
+        "__id__": 14
       }
     ],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -490,9 +687,7 @@
       "b": 255,
       "a": 255
     },
-    "_N$normalSprite": {
-      "__uuid__": "2744d12a-ca68-4f97-9d94-0833f7e848e7"
-    },
+    "_N$normalSprite": null,
     "_N$pressedSprite": {
       "__uuid__": "ed50e1a0-abd3-445c-ac1b-232a1acd882f"
     },
@@ -509,17 +704,17 @@
       "__uuid__": "2744d12a-ca68-4f97-9d94-0833f7e848e7"
     },
     "_N$target": {
-      "__id__": 7
+      "__id__": 9
     },
     "_id": "08+N1BWihATa9lp4PAKF5f"
   },
   {
     "__type__": "cc.ClickEvent",
     "target": {
-      "__id__": 11
+      "__id__": 15
     },
-    "component": "StartScript",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "f8dfbi1cPZJIqQT0xgFEygS",
     "handler": "loadChoiceScene",
     "customEventData": ""
   },
@@ -534,7 +729,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 12
+        "__id__": 16
       }
     ],
     "_prefab": null,
@@ -590,7 +785,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 11
+      "__id__": 15
     },
     "_enabled": true,
     "_id": "21rK6gPBNAR6fsO6H/RfO2"
